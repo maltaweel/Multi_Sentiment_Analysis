@@ -1,0 +1,501 @@
+created_time,_id,positive,negative,neutral,compound,subjectivity,flair,flair score,aspect terms,aspect tb polarity,aspect tb subjectivity,aspect flair,sentence
+2016-11-06T10:27:15+0000,,0.0,0.0,1.0,0.0,0.6190476190476191,POSITIVE,0.8569021224975586,corrupt/little/,-0.34375,0.75,-0.8539280593395233,We simply change things to suit the UK instead of the corrupt EU and if it takes a little time so be it
+2016-07-19T00:34:08+0000,,0.677,0.0,0.323,0.6369,0.6,POSITIVE,0.9952492713928223,,0.0,0.0,0.0,WE LOVE IT D y
+2016-06-25T05:20:30+0000,,0.112,0.19,0.698,-0.0082,0.425,NEGATIVE,-0.9989429116249084,young/more/,0.3,0.45,0.9735376536846161,However I also dont like people saying that young people are moaning about leaving due to having to pay more for holidays etc
+2017-03-14T11:38:57+0000,,0.266,0.0,0.734,0.4404,0.6000000000000001,POSITIVE,0.9914795160293579,good/,0.7,0.6000000000000001,0.9313951730728149,everything infused in booze is good including the Queen
+2016-10-18T18:38:18+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9776021838188171,,0.0,0.0,0.0,Mike Hiscox not yet but they wont make acceptions
+2017-02-07T14:29:45+0000,,0.125,0.263,0.612,-0.5023,0.0,POSITIVE,0.6753548383712769,close/,0.0,0.0,0.9285494089126587,The adage goes  keep your friends close but your enemies even closer
+2017-03-05T19:39:24+0000,,0.0,0.0,1.0,0.0,0.6,NEGATIVE,-0.9791268706321716,different/,0.0,0.6,-0.9092786908149719,But what makes you think if everyone voted the result would be different
+2017-02-08T10:04:14+0000,,0.455,0.0,0.545,0.3612,0.5,POSITIVE,0.8014377355575562,more/,0.5,0.5,0.9926474094390869,Couldt agree more Colin
+2016-06-22T10:39:23+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9476423859596252,,0.0,0.0,0.0,Dont be
+2016-11-30T14:50:32+0000,,0.0,0.294,0.706,-0.3612,0.0,NEGATIVE,-0.7807828187942505,,0.0,0.0,0.0,If in doubt stick an apostrophe inlol
+2016-06-20T12:48:04+0000,,0.77,0.0,0.23,0.7717,0.9,POSITIVE,0.9963233470916748,fantastic/,0.4,0.9,0.9932270646095276,Ah fantastic thats a relief
+2016-06-23T22:44:22+0000,,0.381,0.0,0.619,0.7308,1.0,POSITIVE,0.9657090902328491,grand/,0.5,1.0,0.9859024286270142,My grand father didnt die to let you all invade our country
+2016-06-20T19:02:52+0000,,0.114,0.0,0.886,0.4019,0.3833333333333333,POSITIVE,0.9907320141792297,fundamental/,0.0,0.0,0.9994401335716248,I think these 2 points need to be made clearly because they are fundamental to the reasons why the EU has had its day
+2017-03-24T15:54:54+0000,,0.347,0.347,0.306,0.0,0.0,POSITIVE,0.9908326268196106,,0.0,0.0,0.0,Lets respect n honour those that have suffered n died for us
+2016-10-18T15:35:19+0000,,0.07,0.392,0.538,-0.8481,0.6,NEGATIVE,-0.9999653100967407,useless/pathetic/,-0.75,0.6,-0.999923050403595,Agreed Carol but they will just be replaced by another bunch of useless pathetic tossers
+2016-05-28T19:30:23+0000,,0.068,0.095,0.838,-0.25,0.5,NEGATIVE,-0.9788524508476257,cheap/,0.4,0.7,-0.9975518584251404,Turkeys got the eu by the bollocks matedo you not remember what Cyprus was like over 15 years agohardly any crime very family orientated was cheap to live and then the eu happened
+2017-01-19T07:13:28+0000,,0.254,0.0,0.746,0.5267,0.0,POSITIVE,0.7816745638847351,British/,0.0,0.0,0.9561169743537903,All justice in the UK should be enacted by British judges
+2016-11-03T17:37:44+0000,,0.128,0.18,0.693,-0.296,0.5962962962962962,NEGATIVE,-0.9966421127319336,British/dangerous/sure/,-0.033333333333333326,0.5962962962962962,0.3149341344833374,This may not be British but you corner a dangerous animal be sure he will turn and bite you
+2017-02-21T19:46:13+0000,,0.231,0.0,0.769,0.4019,0.10833333333333334,POSITIVE,0.9733765721321106,,0.0,0.0,0.0,Yes and half of migrants come from outside the EU
+2016-12-15T10:56:21+0000,,0.228,0.09,0.681,0.8176,0.4625,NEGATIVE,-0.9992096424102783,enough/utter/ukip/moral/,0.0,0.4375,-0.28609389066696167,Merry Christmas to you and lets hope enough people fed up with this situation and labours utter uselessness spineless  ukip vote chasing and lack of desire to oppose brexit will encourage people to vote for the lib dems who actually have a moral position
+2016-07-03T11:34:39+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9913832545280457,,0.0,0.0,0.0,Boris as Hitler
+2016-04-16T21:45:24+0000,,0.0,0.0,1.0,0.0,0.1,POSITIVE,0.8564622402191162,,0.0,0.0,0.0,We joined the EEC  European Economic Community  in 1973 to trade food and goods
+2016-07-05T23:58:57+0000,,0.0,0.0,1.0,0.0,0.4,NEGATIVE,-0.996819257736206,narrow/minded/,-0.1,0.2,-0.000700831413269043,You have a narrow minded and blinkered view
+2017-03-23T12:34:08+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9103810787200928,,0.0,0.0,0.0,That is my opinion
+2016-11-28T17:09:25+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.8955324292182922,,0.0,0.0,0.0,Will you do that everytime something doesnt go your way
+2016-10-20T07:54:42+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9319722652435303,,0.0,0.0,0.0,Do a bit of research before you make ill-informed decisions
+2016-06-24T23:05:59+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9642447233200073,,0.0,0.0,0.0,As to the Somme 
+2016-06-17T00:14:09+0000,,0.082,0.094,0.824,-0.1027,0.5187499999999999,POSITIVE,0.9886910915374756,private/individual/,0.0,0.3875,0.9819191694259644,The EU only exists because of its members and works to improve the lives of all citizens in ways that private companies and individual governments have failed to do over history
+2016-06-28T02:16:23+0000,,0.084,0.077,0.839,0.0258,0.125,POSITIVE,0.9570418000221252,independent/,0.0,0.125,0.9982954859733582,You also negotiate terms and can leave whenever you want whilst being an independent country
+2016-10-09T08:00:38+0000,,0.0,0.0,1.0,0.0,0.38000000000000006,POSITIVE,0.9974748492240906,near/,0.1,0.4,-0.577035665512085,Really Todd-the why is the FTSE100 at a near record high
+2016-06-25T14:15:09+0000,,0.069,0.133,0.798,-0.296,0.0,NEGATIVE,-0.9932913780212402,,0.0,0.0,0.0,So you think our leaders should ignore the will of the majority and do why they want 
+2017-03-14T10:20:48+0000,,0.0,0.0,1.0,0.0,1.0,POSITIVE,0.9977791905403137,,0.0,0.0,0.0,Only then will they become members
+2016-11-08T16:35:18+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9838999509811401,,0.0,0.0,0.0,Chris Martin
+2016-06-23T19:18:29+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9798977971076965,,0.0,0.0,0.0,Also Ive voted
+2016-11-29T18:08:00+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.996581494808197,,0.0,0.0,0.0,Agenda
+2016-11-24T15:30:05+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9982761144638062,,0.0,0.0,0.0,Ive seen EDLs marches theyre nothing to write home about
+2017-03-21T12:50:02+0000,,0.0,0.254,0.746,-0.6249,0.0,NEGATIVE,-0.9991451501846313,,0.0,0.0,0.0,it was to stop a repeat of WW1 and 2 that the EU was formed you are an embarrassment
+2016-04-16T15:21:25+0000,,0.0,0.216,0.784,-0.8056,0.6888888888888888,NEGATIVE,-0.9952713847160339,CAMERON/,0.0,0.0,0.9629820585250854,Its time to vote LEAVE and avoid what the Corrupt EU has in store for us CAMERON OSBORNE CORBYN AND THE UNIONS ARE LYING TO THE UK PUBLIC ABOUT THE CORRUPT EUPLEASE SHAREhttpswwwyoutubecomwatchv=Rh0InepmCwQ
+2016-12-31T23:06:13+0000,,0.425,0.0,0.575,0.5719,0.7272727272727273,POSITIVE,0.9930002689361572,Happy/,0.8,1.0,0.9839366674423218,Happy New Year to you all
+2016-06-17T16:48:18+0000,,0.104,0.0,0.896,0.2732,0.525,NEGATIVE,-0.9946511387825012,,0.0,0.0,0.0,Wasnt it only 6 months ago that he was saying we would do well outside of the EU Whats changed
+2016-06-18T17:01:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.912173867225647,,0.0,0.0,0.0,I imply nothing in my comment
+2017-03-08T14:14:50+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9878109097480774,,0.0,0.0,0.0,And why do you think that is
+2016-06-20T00:00:42+0000,,0.0,0.271,0.729,-0.7443,1.0,NEGATIVE,-0.9567866921424866,rational/,0.0,0.0,0.9985054731369019,Its 3 am where I am currently so Ill spend some time tomorrow when I get up and make some rational arguments
+2016-10-13T18:06:11+0000,,0.0,0.364,0.636,-0.9331,0.0,NEGATIVE,-0.9992700219154358,perverse/even lower/,0.0,0.0,-0.9964833855628967,But Keith you have to remember that if you drop the Leave side to 373% then by your perverse logic the remain side must drop to even lower than 373% as you lot lost
+2016-10-02T20:16:54+0000,,0.0,0.0,1.0,0.0,0.1,NEGATIVE,-0.9972678422927856,,0.0,0.0,0.0,I believe she spent about 40k of our cash on a portrait of herself
+2017-01-03T14:32:31+0000,,0.0,0.0,1.0,0.0,0.5357142857142857,NEGATIVE,-0.7280360460281372,right/,0.2857142857142857,0.5357142857142857,0.9895902276039124,De Gaulle was right though wasnt he
+2016-06-25T05:10:50+0000,,0.097,0.228,0.675,-0.9053,0.5297619047619048,NEGATIVE,-0.9994081258773804,so afraid/islamophobic/irrational/gay/human/Islamic/,-0.030555555555555548,0.2638888888888889,-0.3097907205422719,Hell the liberals these days are so afraid to be called islamophobic which by the way cant be a phobia because phobias are irrational and fearing a belief system that kills gays for being gay and strips women of almost all human rights like the right to not be raped in marriage or have their genitals mutilated is not irrational they try to even sensor the term Islamic extremists
+2016-07-03T20:23:41+0000,,0.0,0.071,0.929,-0.296,0.625,NEGATIVE,-0.9997097849845886,able/allied/,0.25,0.3125,0.20741114020347595,Stop paying EU ÃÂ£350 million a week and use it to fund NHS schools army and reinstate our tanks planes etc as we wont be able to rely on allied forces
+2017-01-17T22:02:26+0000,,0.0,0.0,1.0,0.0,0.5357142857142857,NEGATIVE,-0.57384192943573,,0.0,0.0,0.0,is that another joe on the right there
+2017-02-25T12:25:24+0000,,0.0,0.252,0.748,-0.6929,0.3333333333333333,NEGATIVE,-0.9586389064788818,little/pre/-/inherent/,-0.046875,0.125,0.1628270447254181,I had little pre-existing bias at the start of the referendum maybe slightly towards remain driven by an inherent fear of change and uncertainty
+2016-06-26T14:51:21+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9460942149162292,,0.0,0.0,0.0,The stay mongerers
+2017-03-04T21:06:19+0000,,0.095,0.189,0.716,-0.5719,0.4009090909090909,NEGATIVE,-0.9996115565299988,Mental/grave/emotional/incapable/,-0.025,0.21250000000000002,-0.046599552035331726,Tony Harrison its a pity then that two weeks ago  35 Mental health Professionals have warned  in a letter to the New York Times  of the grave emotional instability indicated in Trumps speech and actions which make him incapable of  Serving safely as President 
+2016-11-17T11:00:37+0000,,0.136,0.205,0.659,-0.1144,0.25,NEGATIVE,-0.9683647751808167,Logical/,0.25,0.25,0.9997394680976868,Some now realise Leave was the Logical option  Logic is something EU supporters are not blessed with 
+2017-03-27T14:30:26+0000,,0.105,0.081,0.814,0.1531,0.16666666666666666,NEGATIVE,-0.9993675351142883,English/,0.0,0.0,0.8323357701301575,Not living here doing as WE do following English laws and rules then cut all help off completely and show them the door
+2016-12-27T22:07:20+0000,,0.0,0.042,0.958,-0.0258,0.6666666666666666,NEGATIVE,-0.9983648657798767,hysterical/rubbish/,-0.5,0.5,-0.23698100447654724,A thing I have is asking hysterical people who post rubbish online to back up their assertions with facts- so far on this page its turned up nought
+2016-10-10T03:10:05+0000,,0.0,0.0,1.0,0.0,0.5357142857142857,POSITIVE,0.9995712637901306,right/,0.2857142857142857,0.5357142857142857,0.9895902276039124,You got that right Davide
+2017-01-08T15:38:16+0000,,0.575,0.0,0.425,0.8578,0.3666666666666667,NEGATIVE,-0.6214207410812378,good/European/,0.35,0.30000000000000004,0.9619434177875519,I care more about having a good relationship with our European friends
+2016-06-22T14:06:21+0000,,0.213,0.0,0.787,0.4019,0.0,POSITIVE,0.9959434866905212,,0.0,0.0,0.0,Think about this which should help you make up your mind
+2016-12-29T09:23:24+0000,,0.0,0.241,0.759,-0.2263,0.0,NEGATIVE,-0.9967008233070374,British/,0.0,0.0,0.9561169743537903,Just get it stopped get the British
+2016-05-11T21:44:33+0000,,0.073,0.0,0.927,0.128,0.35,NEGATIVE,-0.7094900012016296,most/Islamic/non/legal/,0.175,0.175,0.4921896159648895,Did you know that in most Islamic countries discrimination against non muslims is enshrined in their constitution and is legal
+2017-01-30T22:52:07+0000,,0.0,0.333,0.667,-0.25,0.0,NEGATIVE,-0.9924560785293579,,0.0,0.0,0.0,Did we have protest marches
+2017-02-06T15:31:43+0000,,0.136,0.056,0.808,0.4939,0.9,POSITIVE,0.5954789519309998,hilarious/reputable/,0.5,0.9,0.996791422367096,Paul John Crossley I often find conspiracy theory stuff hilarious but there does seem to be a lot of evidence from reputable sources to support the idea that globalists and EU leaders are enacting the Coudenhove-Kalergi plan
+2017-01-06T20:36:56+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9985889792442322,,0.0,0.0,0.0,I bet hes gutted
+2016-06-30T21:08:12+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9661571383476257,,0.0,0.0,0.0,Talk about rub salt in the wounds Fred
+2016-06-27T09:55:54+0000,,0.0,0.0,1.0,0.0,0.06666666666666667,NEGATIVE,-0.846827507019043,last/,0.0,0.06666666666666667,0.6417497992515564,Stuart Groom - scrap my last comment
+2016-09-05T17:21:54+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9501696825027466,,0.0,0.0,0.0,We cant
+2017-03-27T04:22:30+0000,,0.045,0.195,0.76,-0.6551,1.0,NEGATIVE,-0.9992320537567139,muslim/stupid/,-0.39999999999999997,0.5,-0.9131809771060944,It dont help when you have got a muslim mayor of london that say stupid things and seem to want to turn london into a muslim city
+2016-12-13T09:01:06+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9851598739624023,,0.0,0.0,0.0,You still here
+2016-07-15T17:48:59+0000,,0.326,0.0,0.674,0.7003,0.25,POSITIVE,0.9951167106628418,French/underground/Greek/total/,0.0,0.1875,0.8852895051240921,Stan Hocking yes I know French underground Greek partisans amongst others  all deserve total respect
+2017-03-21T23:18:08+0000,,0.167,0.137,0.696,0.1124,0.4444444444444444,NEGATIVE,-0.9534379243850708,sure/present/,0.25,0.4444444444444444,0.9892909824848175,Im not sure about the security of them with the present government
+2016-08-30T20:18:27+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9999489784240723,,0.0,0.0,0.0,Hes my mate
+2016-06-23T10:58:03+0000,,0.0,0.0,1.0,0.0,0.2,NEGATIVE,-0.9995187520980835,old/,0.1,0.2,-0.999815046787262,We know that they are skewed towards the old retired etc
+2017-01-25T15:53:47+0000,,0.085,0.0,0.915,0.6249,0.32962962962962966,NEGATIVE,-0.9884733557701111,,0.0,0.0,0.0,Thr people decide we can bring down governments and parliment if we have toThe forces took an oath to protect the reigning monarch and defend our democracy Something it seems is being taken away from us any veteran like myself and serving servicemen and women must stand behind us or be classed as traitors to the people
+2016-11-23T20:35:47+0000,,0.0,0.312,0.688,-0.4588,0.0,POSITIVE,0.9966235160827637,,0.0,0.0,0.0,There was no way I was going to miss the vote to Leave the EU
+2017-01-21T16:04:07+0000,,0.234,0.234,0.532,0.0,0.5,POSITIVE,0.966179609298706,,0.0,0.0,0.0,Seemed ok to me no overdone luvvies
+2017-03-27T19:09:24+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9961646795272827,,0.0,0.0,0.0,This man set out with a purpose
+2016-07-11T16:16:13+0000,,0.294,0.0,0.706,0.3612,0.0,NEGATIVE,-0.9987442493438721,,0.0,0.0,0.0,There dropping off like flies  who next
+2017-02-08T16:02:22+0000,,0.0,0.0,1.0,0.0,0.2,POSITIVE,0.8689595460891724,,0.0,0.0,0.0,REALLY
+2016-12-30T21:50:54+0000,,0.0,0.076,0.924,-0.4215,0.5,POSITIVE,0.9977089166641235,upper/lower/federal/own/,0.15,0.25,0.036382317543029785,They also vote for not just the president but for members of the upper and lower houses of the federal government the judges sheriffs and their own state governor and members of the state government
+2017-05-25T21:11:49+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9937443137168884,,0.0,0.0,0.0,both by the individuals or by the state
+2016-05-17T17:13:35+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9953032732009888,,0.0,0.0,0.0,They were already in Europe
+2016-04-26T07:26:34+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9323244690895081,,0.0,0.0,0.0,One a Labour  leader
+2017-03-01T14:30:50+0000,,0.083,0.061,0.856,0.2023,0.5095238095238095,NEGATIVE,-0.999634861946106,bureaucratic/large/far concerned/,0.10476190476190476,0.4761904761904762,-0.3010422984759013,Ive already said that I have no interest in the UN definition of a refugee their definition will be bureaucratic and to a large extent politically arrived at which so far as Im concerned invalidates it
+2016-06-25T15:53:08+0000,,0.367,0.467,0.167,-0.1531,1.0,NEGATIVE,-0.9793710708618164,,0.0,0.0,0.0,Ill share it
+2016-11-24T18:13:19+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.5592539310455322,,0.0,0.0,0.0,Etc etc
+2017-01-14T13:45:14+0000,,0.0,0.0,1.0,0.0,0.2,NEGATIVE,-0.9996845722198486,,0.0,0.0,0.0,* not really
+2016-11-18T16:07:15+0000,,0.107,0.056,0.837,0.2732,0.0,NEGATIVE,-0.7795736789703369,English/uk/,0.0,0.0,0.8462211489677429,The English people voted to rip up that promise and the uk union when they voted to leave the eu
+2017-03-03T11:02:35+0000,,0.0,0.0,1.0,0.0,0.31135531135531136,NEGATIVE,-0.9683210849761963,bult/regular/simple/sufficient/drastic/,0.0,0.08681318681318681,-0.19328387975692748,Another fact is that in countries were referendums are bult in a a regular feature of the constitution a simple majority would NEVER be sufficient to trigger such a drastic change
+2016-07-21T19:35:03+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9659598469734192,,0.0,0.0,0.0,samuel
+2016-08-01T22:27:11+0000,,0.162,0.0,0.838,0.4404,0.16666666666666666,NEGATIVE,-0.993454098701477,better/,0.5,0.5,0.9811028838157654,Fock them all of n we will do a better job n bring back our lottery to English owned
+2016-12-07T13:01:36+0000,,0.217,0.0,0.783,0.7022,0.25,POSITIVE,0.9826622009277344,,0.0,0.0,0.0,I knew exactly what I voted for and I accept any and ALL labels they throw at meI know my mind and I know Im not a racist
+2015-10-10T14:50:20+0000,,0.0,0.0,1.0,0.0,1.0,POSITIVE,0.9611230492591858,,0.0,0.0,0.0,RT news reports ebola is has been confirmed again
+2017-01-30T20:03:07+0000,,0.0,0.0,1.0,0.0,0.6875,POSITIVE,0.7594866752624512,,0.0,0.0,0.0,I seeWhat you really mean is
+2016-05-15T23:00:49+0000,,0.492,0.0,0.508,0.4404,0.6000000000000001,POSITIVE,0.995607316493988,good/,0.7,0.6000000000000001,0.9313951730728149,A good example is banking
+2017-03-18T18:26:33+0000,,0.408,0.0,0.592,0.7351,0.0,NEGATIVE,-0.9166499376296997,underlying/,0.0,0.0,0.9985587000846863,I presume your admiration for May shows an underlying desire for a dictatorship
+2017-03-22T11:51:56+0000,,0.0,0.447,0.553,-0.836,0.75,NEGATIVE,-0.99998939037323,bloody/worse/,-0.6000000000000001,0.75,-0.9998454749584198,And its still a bloody one worse even with the weapons at our armies disposal
+2016-07-03T22:18:05+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9999486207962036,,0.0,0.0,0.0,It was said  it was daubed all over the side of a bus
+2017-02-01T15:20:02+0000,,0.0,0.149,0.851,-0.4215,0.2888888888888889,NEGATIVE,-0.9825332164764404,,0.0,0.0,0.0,The EU is sending our country down the drain to weaken us & soften us to their will
+2017-02-26T19:04:08+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9950793981552124,,0.0,0.0,0.0, has been what 
+2016-12-29T14:33:33+0000,,0.172,0.058,0.77,0.5945,0.5132936507936507,POSITIVE,0.9110093712806702,other/more/emotional/whole/,0.14375,0.48124999999999996,0.9588727653026581,With respect you hop gaily from one concept to the other which may suggest there is more of an emotional component to your argument and that would certainly be par for the course in this whole debate
+2016-07-19T16:37:23+0000,,0.35,0.3,0.35,0.4318,0.8,NEGATIVE,-0.9241708517074585,,0.0,0.0,0.0,I do not want Free Movement I want managed movement - heaven help us
+2016-11-26T17:20:03+0000,,0.0,0.0,1.0,0.0,0.6875,NEGATIVE,-0.9975523352622986,,0.0,0.0,0.0,Daniel Williamson - I think you actualy mean INcorrect Vote 
+2016-06-11T13:57:10+0000,,0.146,0.07,0.784,0.4019,0.22727272727272727,POSITIVE,0.9280537366867065,new/Ajax/SWEDISH/,0.04545454545454545,0.15151515151515152,0.9585835536321005,British Armys new Ajax fighting vehicles to be built in SPAIN using SWEDISH steel at the request of the EU to support jobs in Spain with EU grant rather than Wales
+2016-06-26T01:55:01+0000,,0.0,0.0,1.0,0.0,0.5,NEGATIVE,-0.9997183680534363,more/,0.5,0.5,0.9926474094390869,The UK were 1 of only 2 out of 28 that were paying in more than they got back
+2017-02-27T21:13:47+0000,,0.0,0.123,0.877,-0.2732,0.5499999999999999,NEGATIVE,-0.9936200976371765,massive/such/low/,0.0,0.6,-0.357573668162028,Brexit has been a massive leap into the dark when we have politicans of such low standing
+2016-11-30T16:09:15+0000,,0.607,0.0,0.393,0.4754,0.65,POSITIVE,0.9968423843383789,so true/,0.35,0.65,0.9971715807914734,Thats so true
+2016-06-10T10:16:27+0000,,0.185,0.152,0.662,0.128,0.25,POSITIVE,0.643487811088562,fascist/,0.0,0.0,-0.9996383190155029,Peter Kostenko I dont understand how the left can be fascist but ok
+2017-02-07T17:44:06+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.8213475346565247,tottenham/united/arsenal/,0.0,0.0,0.9946839213371277,httpwwwcityamcom243880eu-referendum-brexit-would-impact-premier-league-clubs-tottenham-hotspur-west-ham-united-chelsea-arsenal-manchester-united
+2016-06-07T09:11:21+0000,,0.057,0.202,0.741,-0.4471,0.0,NEGATIVE,-0.9899107813835144,,0.0,0.0,0.0,Suzanne Boyle - Dodgy Dave has already stated he will not accept a leave vote and will go for a majority
+2016-12-14T13:22:28+0000,,0.039,0.0,0.961,0.0762,0.5959595959595959,NEGATIVE,-0.9977518916130066,vast/new/,0.06818181818181818,0.7272727272727273,0.8729537725448608,Furthermore the vast majority of emigration from the UK goes to Europe and is mainly pensioners who do not pay tax in their new countries and therefore a drain on the economies in Europe
+2017-01-18T06:36:33+0000,,0.257,0.0,0.743,0.7845,0.4178571428571428,POSITIVE,0.9894605278968811,best/,1.0,0.3,0.9960646033287048,Tory  Labour we are and should vote for which ever party is best for the UK and right now its the Tories 
+2016-07-03T12:13:47+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.504324734210968,,0.0,0.0,0.0,Referendums were announced
+2016-07-14T07:02:31+0000,,0.0,0.166,0.834,-0.4201,0.7,NEGATIVE,-0.9994188547134399,absolutely appalling/,-0.35,0.9,-0.9998359680175781,Ms Rudd was absolutely appalling in that referendum debate obviously Mrs May didnt watch it 
+2016-06-26T21:31:56+0000,,0.184,0.0,0.816,0.4019,0.33611111111111114,NEGATIVE,-0.9957844614982605,,0.0,0.0,0.0,Why should another Tory become PM when they clearly let the UK down
+2017-01-26T16:38:11+0000,,0.0,0.204,0.796,-0.4717,0.4,NEGATIVE,-0.9809854626655579,,0.0,0.0,0.0,And that is a majority seeing as the say we didnt win by a majority
+2016-11-26T19:49:52+0000,,0.0,0.0,0.0,0.0,0.0,POSITIVE,0.8900684714317322,,0.0,0.0,0.0,1
+2016-09-13T21:55:10+0000,,0.0,0.0,1.0,0.0,0.2375,NEGATIVE,-0.6346606612205505,few/other/,-0.1625,0.2375,0.16512557864189148,Oxford Cambridge Bristol Scotland Liverpool and a few other places voted in too remember 
+2016-02-27T16:46:53+0000,,0.0,0.54,0.46,-0.5719,1.0,NEGATIVE,-0.98936927318573,sorry/,-0.5,1.0,-0.9981034994125366,Im sorry to Hurt your feelings
+2016-07-18T19:52:14+0000,,0.08,0.079,0.841,0.0098,0.21777777777777776,NEGATIVE,-0.9965408444404602,sure/second/slightly British/much/long/,0.12999999999999998,0.2977777777777778,0.2649443864822388,Leaving any management-style in the middle Im not sure if a second siteforum with a slightly British slant will have much chance of long-time survival
+2016-10-19T13:15:10+0000,,0.289,0.157,0.553,0.2748,1.0,NEGATIVE,-0.9965400695800781,utterly disgusting/,-1.0,1.0,-0.9999841451644897,Yeah I agree with you its well known that there bringing lot of diseases in its utterly disgusting
+2016-03-13T11:33:11+0000,,0.093,0.144,0.763,-0.6369,0.5259259259259259,NEGATIVE,-0.9898896217346191,serious/British/only/Parliamentary/,-0.08333333333333333,0.41666666666666663,0.858992263674736,The EU is heading for serious trouble and there is nothing the British Government can do about it - only 75 voices in a 750 person council called the EU Parliament means the only way to prevent us being dragged down into chaos is to end EU Parliamentary supremacy and restore the supremacy of the UK Parliament
+2016-06-22T15:01:08+0000,,0.0,0.762,0.238,-0.4939,0.0,NEGATIVE,-0.9999352693557739,,0.0,0.0,0.0,Thats a disgrace
+2017-05-25T23:18:09+0000,,0.0,0.2,0.8,-0.6705,0.05,NEGATIVE,-0.9999634027481079,,0.0,0.0,0.0,just look at the hundreds killed by the US 34 months ago and it barely registered in our papers
+2016-06-28T22:33:16+0000,,0.091,0.105,0.804,-0.1779,0.42500000000000004,NEGATIVE,-0.7999022006988525,worried/only few/few/open/,-0.07500000000000001,0.2875,-0.37858860194683075,I too are worried about this people  panicking over the stock market meltdown and listening to the we told you so scenario after only a few days instead of giving it a chance over a few years for us to get deals done with the open world
+2017-01-21T20:33:29+0000,,0.0,0.218,0.782,-0.6956,0.0,NEGATIVE,-0.8938047885894775,next/,0.0,0.0,0.8999043703079224,But then we all suffer the sensible voted to remain even if Bly for the next three generations
+2016-12-28T18:49:38+0000,,0.0,0.548,0.452,-0.8658,0.95,NEGATIVE,-0.9932790398597717,worthless/racist/,-0.4,0.45,-0.9999191761016846,come to america and Ill blow your worthless racist head off
+2016-07-26T17:26:24+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9887996315956116,,0.0,0.0,0.0,We all know why that is
+2016-01-13T13:28:09+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9778644442558289,,0.0,0.0,0.0,the deal at the end of WWI became a catalyst for the events of WW2 not wholly but in part
+2016-04-13T14:44:37+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.6059812903404236,,0.0,0.0,0.0,Sorted
+2016-11-22T23:24:18+0000,,0.0,0.63,0.37,-0.5267,1.0,NEGATIVE,-0.9976398944854736,Stupid/,-0.7999999999999999,1.0,-0.9909532070159912,Stupid diane abbot 
+2016-10-17T18:04:14+0000,,0.0,0.0,1.0,0.0,0.43333333333333335,NEGATIVE,-0.99947589635849,pure/,0.21428571428571427,0.5,0.9983639121055603,You sir are scum pure scum
+2017-02-04T12:39:03+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9620696902275085,,0.0,0.0,0.0,Abbot mc Donald and corbyn 
+2017-02-21T14:59:20+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9947133660316467,,0.0,0.0,0.0,Each one of these lives in their ivory tower gold plated pensions and ÃÂ£300 per day to stand up and spout
+2016-06-02T20:24:19+0000,,0.126,0.0,0.874,0.0772,0.25,NEGATIVE,-0.9213945269584656,many/,0.5,0.5,0.9197965264320374,Yet many of his back benchers still want to privitise
+2017-01-29T09:13:36+0000,,0.0,0.174,0.826,-0.2755,0.0,POSITIVE,0.8374332189559937,global/,0.0,0.0,0.9967538714408875,We are to be global not inward looking like the EU
+2016-06-24T19:53:45+0000,,0.186,0.0,0.814,0.5511,0.3,POSITIVE,0.972388505935669,,0.0,0.0,0.0,If you cant see the selfishness of this move or your approach then I pray that you come to see it very soon
+2017-03-01T05:28:19+0000,,0.101,0.176,0.724,-0.3506,0.26785714285714285,NEGATIVE,-0.8750694990158081,embarrassing/British/,0.0,0.0,-0.02158990502357483,I hope everything works out for you but for the 48% is embarrassing being British right now 
+2017-02-22T19:11:20+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.8400008678436279,,0.0,0.0,0.0,Paul Freethy Richard Doney
+2016-12-30T09:49:29+0000,,0.0,0.087,0.913,-0.296,0.6471428571428571,POSITIVE,0.9882490634918213,more/extreme/,0.1875,0.75,0.9926177561283112,The more I  read your profile and see your pics hiding behind the Union Jack etc the more I think you are of the extreme right
+2017-03-18T19:34:41+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9996869564056396,valid/,0.0,0.0,0.9904145002365112,The point is- Is it a valid sample
+2016-06-21T22:24:45+0000,,1.0,0.0,0.0,0.4588,0.3,NEGATIVE,-0.9691006541252136,,0.0,0.0,0.0,Haha
+2016-05-19T19:49:05+0000,,0.0,0.172,0.828,-0.4019,0.5178571428571428,NEGATIVE,-0.8824421763420105,right/,0.2857142857142857,0.5357142857142857,0.9895902276039124,Problem is most still wouldnt belive voting out is the right thing to do
+2017-01-31T21:58:43+0000,,0.0,0.1,0.9,-0.1139,0.2,NEGATIVE,-0.9980652928352356,democratic/advisory/,0.0,0.0,0.9459666311740875,It was NOT a democratic vote but an advisory opinion which is not legally binding
+2016-09-06T14:46:52+0000,,0.313,0.0,0.687,0.7964,0.2,POSITIVE,0.7907789945602417,legal/,0.2,0.2,0.9787315130233765,Michael Symonds in any case the petition doesnt confine itself to legal niceties and its up and running hope you can sign and share 
+2017-01-26T12:46:43+0000,,0.32,0.0,0.68,0.5106,0.55,NEGATIVE,-0.9996315240859985,honest/,0.6,0.9,0.998367965221405,I dont think its really a choice to be honest
+2016-11-03T20:12:14+0000,,0.0,0.253,0.747,-0.8316,0.0,POSITIVE,0.6562708616256714,royal/,0.0,0.0,0.9525054693222046,The Tories were also pro- Nazi vefire the war so was the royal family and they voted against the NHS and welfare after the war
+2016-12-31T02:12:06+0000,,0.0,0.311,0.689,-0.3089,0.0,NEGATIVE,-0.9994444251060486,,0.0,0.0,0.0,Moreover I do not support mob rule
+2017-01-31T23:46:53+0000,,0.315,0.25,0.435,0.1531,0.1,NEGATIVE,-0.8474211096763611,,0.0,0.0,0.0,Lets hope she loses her seat
+2017-03-19T14:43:57+0000,,0.152,0.0,0.848,0.3612,0.35,POSITIVE,0.9957004189491272,soft/,0.1,0.35,0.991245448589325,Hohohopeople like to use itwhen it suits themit has made people soft in todays world
+2016-06-27T12:52:26+0000,,0.169,0.095,0.736,0.4019,0.3958333333333333,NEGATIVE,-0.651261031627655,super/independent/,0.16666666666666666,0.3958333333333333,0.9977929890155792,If they are in the EU then they are part of the super state no way is that independent
+2017-01-06T06:52:42+0000,,0.186,0.193,0.621,0.1882,0.7083333333333333,NEGATIVE,-0.9988172054290771,super rich/,0.35416666666666663,0.7083333333333333,0.9932894110679626,Graham Cox Surplus cash in this country is not used to help people in poverty it is given in tax cuts to the super rich - which newspapers do you read
+2016-06-30T18:55:23+0000,,0.081,0.061,0.857,0.5859,0.42121212121212126,NEGATIVE,-0.9999748468399048,germanywhat/proper/first/sorry/middle/,-0.05,0.2866666666666667,-0.22906272411346434,merkel wants to rule from germanywhat germany say goesit was her that forced all to open doors for any 1 that crossed the seaare you all forgetting they 1ll paid at least 1000 pounds to get on the shipsyes they had money to spend why not spend it proper go to the concolite in the first country you get in to rather than spend 1 grand to risk ur life on a boat just to get sent back now as turkey and greece are doingi feel sorry for greece as merkel has warned them not to send them backbut oh yes she gives turky billions to nernegoat yes and gives greece the middle finger and tells them to tighten the belt funny thought it was 28 votes not just 2 or 3
+2017-02-26T00:36:28+0000,,0.127,0.0,0.873,0.4404,0.2,POSITIVE,0.975547730922699,,0.0,0.0,0.0,Glenn Wostenholme  thanks Glennfor the info am going to get hold of DWP in the morning to have it checked regards
+2016-06-25T19:14:29+0000,,0.0,0.33,0.67,-0.6054,0.5399999999999999,NEGATIVE,-0.939892053604126,,0.0,0.0,0.0,But facts probably dont factor highly in your arguments
+2016-08-23T10:08:02+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.6464959383010864,,0.0,0.0,0.0,I do wonder about that
+2016-05-31T13:09:59+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9701220989227295,,0.0,0.0,0.0,Laws changed etc
+2016-09-13T12:33:49+0000,,0.0,0.0,1.0,0.0,0.7,NEGATIVE,-0.9935939908027649,democratic/secret/,-0.2,0.35,0.8295632898807526,Do you think that Mrs May and Mr Davis are being democratic in their intentions to bypass Parliament and keep Brexit negotiations secret from them
+2016-12-24T01:34:25+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9981448650360107,Double/,0.0,0.0,-0.613696813583374,Double standards
+2017-02-02T18:47:30+0000,,0.0,0.237,0.763,-0.4767,0.575,NEGATIVE,-0.9966678023338318,wrong/,-0.5,0.9,-0.994579553604126,Steve Geezer England youre exactly what is wrong with the world 
+2016-08-03T12:42:13+0000,,0.0,0.487,0.513,-0.5859,0.75,NEGATIVE,-0.999870777130127,,0.0,0.0,0.0,It was a lie total bullshit
+2017-02-22T07:44:01+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9801731705665588,irn/,0.0,0.0,-0.9997126460075378,I dont think they have halal irn-bru Simon Harbron
+2016-12-17T10:15:32+0000,,0.077,0.0,0.923,0.2732,0.875,POSITIVE,0.9959748387336731,total/own/,0.3,0.875,0.9813089370727539,It still amazes me that given the total knowledge of the Internet people do not research facts but seek out others who mirror their own opinions
+2016-07-21T20:28:49+0000,,0.434,0.0,0.566,0.3182,0.65,POSITIVE,0.9909913539886475,,0.0,0.0,0.0,Cool the language man
+2017-03-13T12:03:41+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9871752858161926,,0.0,0.0,0.0,because she gets air time
+2017-03-05T15:06:50+0000,,0.0,0.236,0.764,-0.5267,0.0,NEGATIVE,-0.9988765120506287,,0.0,0.0,0.0,Come on Margaret Mary WilliamsNo one deserves being assaulted for their beliefs
+2016-06-23T19:20:12+0000,,0.111,0.123,0.766,-0.0772,1.0,NEGATIVE,-0.9918796420097351,Funny/as vocal/,0.125,0.5,0.9959936141967773,Funny thing is Charles doesnt seem to be as vocal with his disparaging opinions once he has been called out on it
+2016-06-22T18:56:32+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9904659986495972,,0.0,0.0,0.0,reform from the inside
+2016-06-29T11:04:47+0000,,0.0,0.0,1.0,0.0,0.32962962962962966,NEGATIVE,-0.9998372793197632,young/busy/,0.1,0.35,-0.015261083841323853,That 73% of young uns were busy handling the updates that came down on their PHONES
+2016-06-21T16:08:21+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.550460159778595,,0.0,0.0,0.0,httpswwwyoutubecomwatchv=fJjShkGCa4c
+2017-02-03T19:13:17+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9992033839225769,,0.0,0.0,0.0,Hes got an agenda
+2016-08-29T20:48:06+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.8983767032623291,,0.0,0.0,0.0,Trump understands it and he is with uk against eu
+2016-09-12T08:26:01+0000,,0.0,0.097,0.903,-0.3291,0.45999999999999996,POSITIVE,0.8469797968864441,negative/far earlier/historical/,-0.08333333333333333,0.3833333333333333,-0.28501323858896893,Admittedly the UK is heading for a negative period again soon but that is far earlier than what might be expected given historical data
+2017-03-02T18:48:23+0000,,0.131,0.181,0.688,-0.2023,0.0,NEGATIVE,-0.9980981945991516,,0.0,0.0,0.0,Treason is being committed by those in power who are using their standing
+2016-07-23T21:51:33+0000,,0.082,0.0,0.918,0.3612,0.35416666666666663,NEGATIVE,-0.9912763833999634,other/,-0.125,0.375,0.8730196356773376,If Article 50 not invoked by that date we need the other member states to agree to us leaving and I cant see all of them doing that particularly Poland
+2016-06-21T14:25:06+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.8146452307701111,,0.0,0.0,0.0,Tosser
+2017-01-23T22:09:34+0000,,0.216,0.0,0.784,0.0258,0.875,NEGATIVE,-0.9987491369247437,silly/,-0.5,0.875,-0.8140396475791931,Youre making yourself look silly
+2016-11-23T00:03:02+0000,,0.072,0.079,0.849,-0.0516,0.5666666666666667,NEGATIVE,-0.9876366257667542,entire/huge/,0.20000000000000004,0.7625,-0.006131350994110107,To me he muddied the waters in the entire debate and alongside a huge list of people has to take some of the responsibility for the mess we have now
+2016-10-17T17:54:10+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9396288394927979,,0.0,0.0,0.0,What shall I do
+2016-06-02T06:46:23+0000,,0.0,0.0,1.0,0.0,0.375,POSITIVE,0.9841241240501404,other/,-0.125,0.375,0.8730196356773376,Any of the other peers
+2016-08-09T16:59:29+0000,,0.296,0.076,0.627,0.7941,0.7444444444444445,POSITIVE,0.7456523180007935,reputable/good/somewhat easy/,0.5444444444444444,0.7444444444444445,0.3239729603131612,Yes I agree you should take what experts say with a pinch of salt but when no reputable experts say something is a good idea it makes the decision somewhat easy
+2016-03-22T22:31:54+0000,,0.132,0.0,0.868,0.4939,0.24166666666666667,POSITIVE,0.896507203578949,big/,0.0,0.1,-0.7557539939880371,Nikki you might enjoy reading some of the topics covered by this independent from big headline groups blog examining the in-out facts
+2017-03-17T10:25:06+0000,,0.145,0.381,0.475,-0.887,0.4333333333333333,NEGATIVE,-0.9990414977073669,better/quite rude/,0.1,0.55,-0.007558643817901611,Thanks Pat but sadly Im better at putting things in writing rather than orating as i would end up losing my temper and being quite rude
+2016-09-20T15:17:20+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9886841177940369,,0.0,0.0,0.0,Notice of course that CamerCon did nothing to reverse this regionalisation policy
+2016-06-27T17:57:52+0000,,0.167,0.143,0.69,0.1139,0.0,NEGATIVE,-0.999699592590332,scottish/,0.0,0.0,0.9947280287742615,i dont trust these fuckers or the scottish bitchits the scots you gotta watch out for
+2017-01-06T13:59:46+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9952501058578491,,0.0,0.0,0.0,They changed their tune when they got into Government
+2016-12-03T17:10:38+0000,,0.364,0.263,0.373,0.2057,0.0,POSITIVE,0.9528492093086243,,0.0,0.0,0.0,And I do NOT like bitchiness
+2017-02-13T20:52:45+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.8595852255821228,numpty/,0.0,0.0,-0.9998056292533875,Its meant to be that way ye numpty
+2016-11-13T05:04:55+0000,,0.0,0.0,1.0,0.0,0.2,POSITIVE,0.701830267906189,young/white/,0.05,0.2,0.8686309158802032,Or  young white men
+2017-03-05T16:53:57+0000,,0.144,0.096,0.76,0.0516,0.5,POSITIVE,0.5310871005058289,greater/more/bigger/,0.3333333333333333,0.5,0.9102710286776224,The more you comment and rant the greater the reach of our posts the more fans we have the bigger we get
+2017-01-24T13:58:35+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9664211273193359,,0.0,0.0,0.0,been known to happen beforelol
+2016-07-19T23:37:53+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9989954829216003,,0.0,0.0,0.0,You never quite got the concept did Mr H Never mind
+2016-03-02T08:32:41+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9858434796333313,annual/,0.0,0.0,0.9896608591079712,For example the British Chambers of Commerce has estimated that the annual cost to the UK of EU regulation is ÃÂ£74bn
+2016-06-08T18:00:11+0000,,0.0,0.667,0.333,-0.6124,0.0,NEGATIVE,-0.9997099041938782,racist/,0.0,0.0,-0.9998877048492432,Calling us racist
+2016-12-25T11:00:19+0000,,0.0,0.0,1.0,0.0,0.2,POSITIVE,0.9924666285514832,,0.0,0.0,0.0,Says it all really
+2017-01-30T20:59:34+0000,,0.0,0.0,1.0,0.0,0.75,NEGATIVE,-0.7667130827903748,alien/,-0.25,0.75,-0.995862603187561,I am not making excuses  and i detest the bone idle i have worked since i was 12  officially   all i wa saying is that for some people the concept of work is alien 
+2016-12-11T09:53:57+0000,,0.0,0.348,0.652,-0.7003,0.0,POSITIVE,0.9707289934158325,,0.0,0.0,0.0,The abolition of slavery was designated by the term emancipation
+2016-07-18T11:38:20+0000,,0.236,0.105,0.659,0.5267,0.45,POSITIVE,0.6717028617858887,thier/various/intellectual/,0.09999999999999999,0.3,0.3388570547103882,Show me the correlation of how people voted and thier likes and dislikes of various items intellectual properties or products
+2016-06-13T16:19:35+0000,,0.137,0.0,0.863,0.4341,0.03333333333333333,NEGATIVE,-0.6402649283409119,public/international/so immune/,0.0,0.022222222222222223,0.9231127301851908,The ESM  operates under public and  international law so immune it is not and it is already in place
+2017-03-29T10:29:45+0000,,0.0,0.155,0.845,-0.296,0.0,NEGATIVE,-0.9441611170768738,,0.0,0.0,0.0,If youre not a conservative by the time youre 35 you have no brain
+2017-03-13T15:41:21+0000,,0.308,0.253,0.44,0.128,0.0,NEGATIVE,-0.9933023452758789,,0.0,0.0,0.0,I lost faith in politics that day
+2016-07-23T09:13:48+0000,,0.0,0.0,1.0,0.0,0.1,NEGATIVE,-0.9954350590705872,,0.0,0.0,0.0,Gavin she doesnt give 2 hoots about the EU she wants another independence refurendumand another one and another oneand another one
+2016-11-06T14:27:35+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.7235103845596313,,0.0,0.0,0.0,But she had the money to put her case forwardjust her cannot be the dam cheek
+2016-12-15T04:47:28+0000,,0.394,0.0,0.606,0.6369,0.0,NEGATIVE,-0.9994335770606995,,0.0,0.0,0.0,Yes its begining to look a lot like Stopsit or Flopsit
+2015-08-19T12:27:19+0000,,0.0,0.392,0.608,-0.5439,1.0,NEGATIVE,-0.869225263595581,,0.0,0.0,0.0,Of course they are not all like that unfortunately
+2017-03-05T16:01:35+0000,,0.248,0.0,0.752,0.6808,0.0,NEGATIVE,-0.9999215602874756,helpful/,0.0,0.0,0.9153605103492737,I dont think that would have been helpful at the time and its not helpful to say those things now
+2016-08-23T13:59:38+0000,,0.129,0.162,0.709,-0.1567,0.3,NEGATIVE,-0.9601871967315674,,0.0,0.0,0.0,Very Brexit Problems Well it was Jif then Cif and will become Lif after Brexit
+2016-07-24T08:21:25+0000,,0.0,0.239,0.761,-0.296,0.0,POSITIVE,0.9902037382125854,biggest/,0.0,0.0,0.8625945448875427,The French have ALWAYS been our biggest critics
+2017-03-27T18:03:57+0000,,0.368,0.0,0.632,0.872,0.75,NEGATIVE,-0.9891543984413147,,0.0,0.0,0.0,I realise that Brexiteers know better than Churchill what he meant - after all he only won the Nobel Prize for literature
+2016-04-12T21:18:57+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9981734752655029,offshore/,0.0,0.0,0.9856660962104797,Probably skimmed his percentage off and swindled it through an offshore tax haven
+2016-07-01T12:01:06+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.7272258400917053,,0.0,0.0,0.0,So I tend to drive instead
+2016-06-21T06:27:36+0000,,0.0,0.167,0.833,-0.1027,0.0,NEGATIVE,-0.9965047836303711,,0.0,0.0,0.0,The leave campaign is a three trick pony with one foot in the knackers yard
+2016-11-12T10:56:29+0000,,0.184,0.126,0.69,0.25,0.375,NEGATIVE,-0.9798698425292969,other/,-0.125,0.375,0.8730196356773376,USA on the other hand is a country - and I suspect shes mixing them both up
+2017-05-28T23:05:01+0000,,0.592,0.0,0.408,0.4404,0.6000000000000001,POSITIVE,0.9972130656242371,,0.0,0.0,0.0,How ducking good
+2017-02-15T17:40:28+0000,,0.407,0.222,0.37,0.25,0.0,POSITIVE,0.9175994396209717,alert/,0.0,0.0,0.9957709908485413,Irony alert for Paul
+2016-11-07T04:37:53+0000,,0.403,0.0,0.597,0.4019,0.0,NEGATIVE,-0.8322672247886658,,0.0,0.0,0.0,Let me help you httpwwwindependentcouknewsukpoliticsbrexit-eu-nigel-farage-forced-to-admit-the-eu-referendum-was-only-advisory-a7401151htmlcmpid=facebook-post 
+2016-10-13T12:50:30+0000,,0.0,0.0,1.0,0.0,0.1,POSITIVE,0.5750085711479187,,0.0,0.0,0.0,Kinnock Senior wants to remain so that he can keep his Lucrative Job as MEP 
+2016-12-15T17:34:04+0000,,0.0,0.0,1.0,0.0,0.30000000000000004,POSITIVE,0.9993137121200562,real/,0.2,0.30000000000000004,0.9992579817771912,Get real 
+2016-06-10T18:38:19+0000,,0.0,0.174,0.826,-0.2263,0.0,NEGATIVE,-0.9996548891067505,,0.0,0.0,0.0,I think thats the weirdest composed Facebook comment Ive ever seen
+2016-07-04T00:50:24+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9856599569320679,,0.0,0.0,0.0,Thats why I keep my kids informed
+2016-07-01T17:01:21+0000,,1.0,0.0,0.0,0.5574,0.1,POSITIVE,0.9991249442100525,,0.0,0.0,0.0,I laugh
+2016-06-29T11:35:54+0000,,0.492,0.0,0.508,0.4404,0.6000000000000001,POSITIVE,0.9707275629043579,Good/rid/,0.35,0.30000000000000004,0.1518062949180603,Good rid fence then
+2016-10-30T13:30:34+0000,,0.0,0.0,1.0,0.0,1.0,NEGATIVE,-0.9821258783340454,,0.0,0.0,0.0,Only ukip will do that They will stand up for us against this shower
+2016-12-03T17:16:05+0000,,0.0,0.0,1.0,0.0,0.5,NEGATIVE,-0.9850685000419617,Most/pro/-/EU/,0.125,0.125,0.9468908309936523,Most of the migrants are in pro-EU areas
+2016-07-24T09:55:36+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9993208646774292,,0.0,0.0,0.0,Veronica Gwynn-jones  SO LETS HURRY UP AND BREXIT AD THEN WE CAN GET RID OF THEM
+2016-08-15T21:37:01+0000,,0.0,0.0,1.0,0.0,0.8,NEGATIVE,-0.8425599932670593,fucking/,-0.6,0.8,-0.990638256072998,Lloyd Davies  in what fucking universe has the pound recovered
+2017-03-01T20:15:51+0000,,0.0,0.0,1.0,0.0,0.5,NEGATIVE,-0.9992814660072327,more shite/,0.5,0.5,-0.9954677820205688,Christ more shite
+2017-01-29T11:28:37+0000,,0.116,0.088,0.797,0.1779,0.0,NEGATIVE,-0.9997590184211731,southern/,0.0,0.0,0.7385008931159973,Lets just keep propping up the southern eu states to the tune of billions with no hope of ever repaying their debts
+2016-06-22T13:22:07+0000,,0.156,0.0,0.844,0.34,0.2857142857142857,NEGATIVE,-0.9993767142295837,Scottish/European/,0.0,0.0,0.9936098456382751,And you certainly dont speak for all the youngIm Scottish not European vote out
+2016-05-18T11:32:39+0000,,0.0,0.291,0.709,-0.9694,0.558974358974359,NEGATIVE,-0.9999630451202393,last/very impressed/capitalist/,0.3333333333333333,0.35555555555555557,0.21813958883285522,There are a lot of people spouting shit Michael Heseltine last night talking about the war not just fascism but communism who the fuck helped fight the thing China Russia not very impressed with his comments either capitalist bastard in a government that sold the family silver which we all owned did any of you get a cheque from the sale
+2017-02-28T18:22:51+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9898157119750977,,0.0,0.0,0.0,they where but believed the mps who said they would get the money but now they arnt
+2016-06-08T18:14:05+0000,,0.19,0.0,0.81,0.5365,0.0,POSITIVE,0.8491508960723877,,0.0,0.0,0.0,I sat by the window in the restaurant and watched the newcomers who were not at all bothered and looked at ease
+2016-05-24T23:20:48+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.986395001411438,,0.0,0.0,0.0,We are voting for our Sovereignty it has nothing to do with migrants money etc
+2016-06-01T17:06:00+0000,,0.383,0.0,0.617,0.7351,0.3,NEGATIVE,-0.9009955525398254,best/,1.0,0.3,0.9960646033287048,Now he has realised Brexit is his best chance of being PM
+2017-03-04T15:39:39+0000,,0.345,0.0,0.655,0.7003,0.125,NEGATIVE,-0.8214594125747681,independent/,0.0,0.125,0.9982954859733582,When have the Tories said they will respect Scotlands wish to go independent
+2016-10-04T07:47:23+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9884317517280579,,0.0,0.0,0.0,FÃÂ¼hrerschein
+2017-02-06T14:49:41+0000,,0.592,0.0,0.408,0.4404,0.0,POSITIVE,0.996975302696228,,0.0,0.0,0.0,Gives me hope
+2016-11-09T10:32:52+0000,,0.102,0.117,0.781,-0.0516,0.125,NEGATIVE,-0.9505972266197205,same/,0.0,0.125,0.5141551494598389,Jessie Cooke principles and Farage in the same sentence is an oxymoron
+2016-05-24T11:57:43+0000,,0.085,0.121,0.795,-0.0772,0.3666666666666667,NEGATIVE,-0.9999573230743408,young/older/,0.13333333333333333,0.3666666666666667,-0.011909395456314087,Robert Boulter the young politics student I crossed words with on another page would do just that I reckon she had no humility and no respect for the view of anyone older than herself
+2016-07-01T18:29:07+0000,,0.0,0.0,1.0,0.0,0.5,POSITIVE,0.976394772529602,Familiar/,0.375,0.5,0.976394772529602,Familiar
+2017-01-29T01:28:35+0000,,0.0,0.0,1.0,0.0,1.0,POSITIVE,0.9963536262512207,,0.0,0.0,0.0,Finally a voice of reason on here
+2016-06-16T08:32:17+0000,,0.21,0.138,0.652,0.25,0.5,NEGATIVE,-0.9968377351760864,much better/,0.5,0.5,0.9909067153930664,People forget that we were much better off before the EU
+2016-06-26T12:12:29+0000,,0.0,1.0,0.0,-0.5106,0.5,NEGATIVE,-0.9997574687004089,Dumb/,-0.375,0.5,-0.9997574687004089,Dumb
+2016-06-22T20:37:42+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9908796548843384,English/,0.0,0.0,0.8323357701301575,Jonathan Hill is in there hes English
+2016-09-26T22:41:08+0000,,0.457,0.0,0.543,0.6369,0.3,POSITIVE,0.9958111047744751,best/,1.0,0.3,0.9960646033287048,You had the best dealand passporting
+2016-06-03T20:18:49+0000,,0.0,0.261,0.739,-0.6408,0.0,NEGATIVE,-0.9888507723808289,,0.0,0.0,0.0,To compete in the world market we would have to DESTROY workers rights
+2016-07-20T08:07:31+0000,,0.0,0.394,0.606,-0.6369,0.0,NEGATIVE,-0.9994164705276489,biggest/historical/,0.0,0.0,0.9287035763263702,The biggest problem with all of this is historical ignorance
+2017-02-22T16:07:28+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9992746710777283,several/,0.0,0.0,0.823158323764801,An Dee Doss Could have been one or several
+2016-12-22T18:41:49+0000,,0.125,0.282,0.593,-0.5632,0.0,NEGATIVE,-0.9433754682540894,racist/,0.0,0.0,-0.9998877048492432,As they say not leavers are racist but all racists are leavers
+2017-02-04T17:17:19+0000,,0.508,0.0,0.492,0.9081,0.35,POSITIVE,0.954505205154419,,0.0,0.0,0.0,20 million people a month enjoy laughing at you and your Quitter friends thanks to our posts
+2016-05-21T05:11:18+0000,,0.667,0.0,0.333,0.6124,1.0,POSITIVE,0.9992955923080444,,0.0,0.0,0.0,- summed up brilliantly
+2017-03-25T09:32:26+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9022895693778992,,0.0,0.0,0.0,She stated that they are Radicals
+2016-07-05T16:13:09+0000,,0.0,0.0,1.0,0.0,0.675,POSITIVE,0.8848639726638794,only ceremonial/,0.025,0.675,-0.5778350234031677,Steve Dennis - the head of state is ceremonial only and are you comparing the EU commission to the House of Lords in terms of power
+2016-05-10T11:24:41+0000,,0.135,0.0,0.865,0.5719,0.25,NEGATIVE,-0.8151832222938538,domestic/,0.0,0.1,0.9974615573883057,For Turkey to join the EU all existing member states will have to agree and at least one EU country France is constitutionally required to put ALL accession treaties to a domestic referendum
+2017-03-19T05:55:40+0000,,0.104,0.067,0.828,0.0516,0.0,POSITIVE,0.6019516587257385,,0.0,0.0,0.0,Oh ya the lady has her fact she didnt have to read from a sheet of paper she knows the truth percentage is percentage no matter how you look at it
+2015-09-11T08:12:58+0000,,0.0,0.195,0.805,-0.4404,0.0,POSITIVE,0.5406511425971985,lethal/,0.0,0.0,-0.8947755098342896,And you say we dont need to carry lethal weapons in this country
+2016-07-06T05:00:42+0000,,0.0,0.0,1.0,0.0,0.5416666666666666,NEGATIVE,-0.9805808067321777,,0.0,0.0,0.0,Hardly 4 million buddy
+2017-01-14T14:45:53+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9999197721481323,puss/,0.0,0.0,-0.5893451571464539,Why would anyone have milk when blood and puss is 0% fat
+2016-12-10T14:07:06+0000,,0.174,0.0,0.826,0.2732,0.8125,NEGATIVE,-0.9948910474777222,able/,0.5,0.625,0.995519757270813,could afford increased prices the majority likely wouldnt be able to
+2016-06-11T05:59:54+0000,,0.242,0.422,0.336,-0.0567,0.9,NEGATIVE,-0.9967705011367798,just stupid/racist/,-0.39999999999999997,0.5,-0.9987219572067261,No  its just stupid control freak crap but its not racist
+2016-07-01T11:18:44+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9868669509887695,,0.0,0.0,0.0,as a result of this our fishing fleets dropped by 19% where spains dropped by 4%
+2017-01-12T07:53:42+0000,,0.0,0.244,0.756,-0.2342,0.0,NEGATIVE,-0.9326906800270081,,0.0,0.0,0.0,What about WW3 if we vote LEAVE
+2016-11-29T15:48:33+0000,,0.74,0.0,0.26,0.6901,0.7800000000000001,POSITIVE,0.9890667200088501,very good/,0.9099999999999999,0.7800000000000001,0.9868872761726379,Like that very good
+2017-01-24T07:58:04+0000,,0.149,0.0,0.851,0.4215,1.0,POSITIVE,0.9950569868087769,,0.0,0.0,0.0,United Kingdom of GB and NI only if all believe in it and work towards that Unity
+2017-01-20T13:03:20+0000,,0.417,0.0,0.583,0.8001,0.775,POSITIVE,0.9955109357833862,so passionate/,-0.05,0.8500000000000001,0.9988709092140198,Lol pack your bags and get a move on if youre so passionate
+2016-06-02T09:19:42+0000,,0.0,0.0,1.0,0.0,0.5,NEGATIVE,-0.9992375373840332,different/how much/again different/,0.06666666666666667,0.4666666666666666,-0.2797499696413676,The EU doesnt tell you how you should spend your tax money see differences in tax spending in different countries  it doesnt tell you how much income tax to charge again different tax rates even VAT rates are different in EU countries
+2016-05-17T11:48:52+0000,,0.231,0.236,0.533,-0.0164,0.0,NEGATIVE,-0.9854694604873657,,0.0,0.0,0.0,Brexit Milton Keynes I apologise fully for my mistake
+2016-10-26T16:30:00+0000,,0.212,0.0,0.788,0.4973,0.5,NEGATIVE,-0.9983357787132263,racist/blindingly obvious/,0.0,0.25,-0.9999116659164429,Were not racist were not xenophobes We can just see the blindingly obvious
+2016-05-18T09:12:04+0000,,0.722,0.0,0.278,0.3818,0.0,NEGATIVE,-0.9291597008705139,dear/,0.0,0.0,0.5070981979370117,Oh dear
+2016-05-26T01:49:11+0000,,0.0,0.0,1.0,0.0,0.6,NEGATIVE,-0.5848231315612793,most expensive/,0.0,0.6,-0.5745444893836975,And its one of the most expensive countries in Europe
+2017-02-13T20:13:20+0000,,0.0,0.324,0.676,-0.6908,0.25,NEGATIVE,-0.997579038143158,logical/,0.25,0.25,0.9997394680976868,What you are saying makes no logical sense let alone form the basis of an educated argument
+2016-08-16T17:45:43+0000,,0.0,0.361,0.639,-0.3089,0.0,NEGATIVE,-0.9985740184783936,,0.0,0.0,0.0,NOT Labour party at all
+2016-09-21T11:17:15+0000,,0.0,0.0,1.0,0.0,0.625,POSITIVE,0.9936791062355042,entire/,0.0,0.625,0.9018890261650085,EU has trade deals with almost the entire planet
+2016-12-13T21:11:30+0000,,0.0,0.0,1.0,0.0,0.2,NEGATIVE,-0.9974599480628967,Postal/non/digital/,0.0,0.0,0.25137003262837726,Postal votes are completely non digital
+2016-06-23T11:46:28+0000,,0.142,0.119,0.739,0.1027,1.0,NEGATIVE,-0.9912386536598206,,0.0,0.0,0.0,Alas it looks like were staying in judging by the feed on my FB page
+2016-08-09T08:21:05+0000,,0.2,0.0,0.8,0.3612,0.0,POSITIVE,0.5020052194595337,,0.0,0.0,0.0,Larry Ditchburn you can always emigrate like my daughter is doing
+2016-11-28T16:10:25+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9996070265769958,,0.0,0.0,0.0,Milliband
+2016-06-07T06:57:26+0000,,0.234,0.0,0.766,0.6705,0.06666666666666667,POSITIVE,0.8089035153388977,less/,-0.16666666666666666,0.06666666666666667,-0.7343389987945557,And I would accept less clout in World affairs in the hope that we can get our owb affairs in order 
+2016-07-28T17:24:35+0000,,0.281,0.0,0.719,0.5106,0.0,NEGATIVE,-0.6032654643058777,labour/,0.0,0.0,-0.9945587515830994,The labour party and Camoron went is search of immigrants to invite here
+2016-05-22T12:34:11+0000,,0.0,0.0,1.0,0.0,0.1,POSITIVE,0.5969873070716858,,0.0,0.0,0.0,But everybody We talk to wants outso we shall see
+2017-01-06T22:17:20+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9950726628303528,,0.0,0.0,0.0,And they baught it
+2016-06-19T13:52:12+0000,,0.0,0.524,0.476,-0.5106,0.0,NEGATIVE,-0.9678705930709839,,0.0,0.0,0.0,Look forward to poverty
+2017-01-01T18:07:37+0000,,0.0,0.219,0.781,-0.1027,0.6145833333333333,NEGATIVE,-0.9958386421203613,hard/,-0.2916666666666667,0.5416666666666666,-0.6971109509468079,What do you mean hard Brexit
+2016-11-20T08:35:08+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9403573274612427,,0.0,0.0,0.0,Peter Hitchen Hi may I ask are you Peter that lived on the corner of Dovedale Avenue and if I remember correctly Ribblesdale Road 
+2016-06-25T16:24:03+0000,,0.182,0.0,0.818,0.4404,0.5,POSITIVE,0.8847680687904358,way better/general/,0.275,0.5,0.1368110179901123,Debbie turn out was way way better than it ever is for a general election
+2017-03-20T23:21:45+0000,,0.0,0.747,0.253,-0.7096,0.9,NEGATIVE,-0.9849095940589905,,0.0,0.0,0.0,Do I hate Europe no
+2016-04-16T08:32:56+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.6519001722335815,81bn/,0.0,0.0,-0.5615211129188538,ÃÂ£  81bn 2011
+2016-06-09T07:25:44+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9970597624778748,,0.0,0.0,0.0,Not allowed to EU rights
+2016-08-15T12:04:43+0000,,0.0,0.167,0.833,-0.0516,0.0,NEGATIVE,-0.760118842124939,Out/,0.0,0.0,0.6039704084396362,Out campaigners job to plan for leave
+2017-02-03T21:22:50+0000,,0.222,0.0,0.778,0.4588,0.2,NEGATIVE,-0.9717958569526672,legal/accountable/,0.1,0.1,0.9888584315776825,Is it legal to lie to people like that  he  or they should be made accountable
+2016-06-11T22:37:46+0000,,0.0,0.0,1.0,0.0,0.3,NEGATIVE,-0.9948171973228455,disabled/,-0.2,0.3,-0.9903215765953064,He believes disabled children should be euthanised too
+2016-10-28T15:21:35+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9988001585006714,,0.0,0.0,0.0,But what we ended up with I didnt vote for
+2017-03-27T01:26:37+0000,,0.305,0.573,0.122,-0.4939,0.0,NEGATIVE,-0.9985687732696533,,0.0,0.0,0.0,Like a terrorist then
+2017-01-08T10:43:12+0000,,0.0,0.091,0.909,-0.0516,0.0,POSITIVE,0.9914588928222656,post/-/war/,0.0,0.0,0.24173229932785034,So we will be back to post-war Britain when we leave the EU
+2016-08-05T12:27:10+0000,,0.105,0.056,0.839,0.2732,0.10714285714285714,POSITIVE,0.5419030785560608,armed/single/automatic/populated/civilian/,-0.014285714285714285,0.04285714285714286,0.5922188282012939,Stewart the armed forces are trained to engage with single aimed shots automatic fire would never be used In populated areas if you think back Northern Ireland days then Iraq we can operate well In environments of civilian population
+2016-11-04T17:14:27+0000,,0.558,0.0,0.442,0.6486,0.0,POSITIVE,0.9587606191635132,,0.0,0.0,0.0,Well heres your chance Sign and share httpspetitionparliamentukpetitions132687
+2017-03-03T17:45:17+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9992905855178833,,0.0,0.0,0.0,Shes still not paying for this though
+2017-03-22T08:18:08+0000,,0.0,0.379,0.621,-0.6705,0.9,NEGATIVE,-0.9969068169593811,wrong/,-0.5,0.9,-0.994579553604126,When it all goes wrong the brexiteers will blame the remainers
+2016-08-20T15:13:24+0000,,0.0,0.473,0.527,-0.5563,1.0,NEGATIVE,-0.9967271089553833,very angry/,-0.65,1.0,-0.997348427772522,paul you soind very angry 
+2016-06-22T20:50:01+0000,,0.0,0.0,1.0,0.0,0.5083333333333333,NEGATIVE,-0.9877917170524597,more/same/,0.25,0.3125,0.7534012794494629,Campbell Johnson nahh Ive read another one with more on voting out all the same kind of people
+2017-02-02T08:37:19+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.6994892358779907,,0.0,0.0,0.0,Philip Jenkins Maybe
+2017-02-24T15:40:35+0000,,0.0,0.124,0.876,-0.5037,1.0,NEGATIVE,-0.9980073571205139,fairly extreme/,-0.125,1.0,0.9131824374198914,However the BBC article only attempts to understand the reported statistics and it seems to show that these alone do not support the fairly extreme claims that are being made by some
+2017-02-05T15:44:58+0000,,0.238,0.0,0.762,0.3612,0.0,POSITIVE,0.9842959642410278,,0.0,0.0,0.0,You tell me Andrew like men that ride bareback
+2017-03-28T11:47:48+0000,,0.691,0.0,0.309,0.7717,0.75,POSITIVE,0.7815670371055603,great/,0.8,0.75,0.99007648229599,That would be a great greeting
+2017-03-05T16:23:29+0000,,0.429,0.0,0.571,0.4588,0.3,NEGATIVE,-0.9924196600914001,,0.0,0.0,0.0,Seen this haha what a tosser
+2017-03-10T17:40:25+0000,,0.369,0.0,0.631,0.705,1.0,NEGATIVE,-0.5713688135147095,,0.0,0.0,0.0,Freedom of Speech but only for me & those who think like me
+2016-11-12T17:12:45+0000,,0.369,0.0,0.631,0.6249,0.625,POSITIVE,0.9974351525306702,cockwomble/great/,0.4,0.375,0.015073060989379883,why is the word cockwomble such a great word
+2016-10-13T01:03:47+0000,,0.0,0.0,1.0,0.0,0.5,NEGATIVE,-0.9995800852775574,,0.0,0.0,0.0,Your comment about the UK joins the Euro just shows that you obviously dont understand a bit of what I am saying
+2017-03-16T17:16:34+0000,,0.055,0.257,0.688,-0.8832,0.6333333333333333,NEGATIVE,-0.9975162744522095,muslim/more/most crazy/,0.15,0.39999999999999997,-0.27958325544993085,think about it in the muslim faith homosexuality is a crime girls have been told to avoid rape be a man because they wont target men it makes more sense then you think despration drives people to do the most crazy things
+2016-11-05T20:10:50+0000,,0.0,0.423,0.577,-0.296,0.0,NEGATIVE,-0.9999606609344482,,0.0,0.0,0.0,NO DIFFERENCE AT ALL
+2016-11-19T17:01:18+0000,,0.672,0.0,0.328,0.6249,0.75,POSITIVE,0.9917212128639221,Great/,0.8,0.75,0.99007648229599,Great news Clayton
+2016-06-25T15:00:13+0000,,0.296,0.0,0.704,0.4939,0.5,NEGATIVE,-0.6638858318328857,,0.0,0.0,0.0,What about the ones that want to better themselves with an education
+2017-02-08T09:09:43+0000,,0.0,0.545,0.455,-0.34,0.0,NEGATIVE,-0.9987727999687195,elderly/,0.0,0.0,-0.9880670309066772,Blame the elderly
+2016-06-20T00:02:37+0000,,0.0,0.043,0.957,-0.0516,0.19444444444444448,NEGATIVE,-0.9983905553817749,political/,0.0,0.1,0.7064269185066223,I understand that your descriptions of the political systems were constrained by this medium but you let yourself down by descending into what appears to be rabid teeth gnashing
+2016-11-08T17:45:17+0000,,0.0,0.0,1.0,0.0,1.0,NEGATIVE,-0.8497214317321777,,0.0,0.0,0.0,Only turns up when the cameras are there
+2017-03-28T14:29:20+0000,,0.0,0.248,0.752,-0.5106,0.3,NEGATIVE,-0.9979721903800964,true/british/,0.175,0.325,0.9769252240657806,Youre the euro David thats successfullyÃ¢ÂÂ failed to slay true-british Goliath 
+2017-03-14T00:10:38+0000,,0.249,0.0,0.751,0.3919,1.0,POSITIVE,0.9678421020507812,own/,0.6,1.0,0.9662814140319824,but we are all entitled to our own opions 
+2017-03-21T01:40:50+0000,,0.286,0.0,0.714,0.4215,0.7,POSITIVE,0.9816237688064575,,0.0,0.0,0.0,- lol and the tories and UKIP are what
+2016-07-01T17:11:15+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.6983989477157593,,0.0,0.0,0.0,As regards the crimes the petrol bombed halal butcher in walsall is that fiction
+2016-09-17T08:48:43+0000,,0.0,0.0,1.0,0.0,0.375,NEGATIVE,-0.8811371326446533,Other/,-0.125,0.375,0.8730196356773376,Other countries need to wake up
+2017-03-29T12:13:33+0000,,0.285,0.0,0.715,0.4201,0.375,POSITIVE,0.9922907948493958,English/,0.0,0.0,0.8323357701301575,As an English person I totally agree with you 
+2016-07-19T17:32:06+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.8626699447631836,,0.0,0.0,0.0,Shes a nutjob
+2016-06-01T18:43:06+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.8687539100646973,,0.0,0.0,0.0,Factories act 
+2016-12-10T07:50:03+0000,,0.123,0.26,0.617,-0.4754,1.0,NEGATIVE,-0.9597253203392029,very sad/,-0.65,1.0,-0.9994097948074341,Steve Garrard   Only a very sad person could judge the validity of an argument by comparing fb likes
+2016-11-19T20:38:49+0000,,0.177,0.0,0.823,0.4215,0.43333333333333335,POSITIVE,0.7100887894630432,nice/big/,0.3,0.55,0.10606208443641663,There we go fixed with a nice big disclaimer so people can see Im a tit
+2016-05-30T11:25:25+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.917576789855957,,0.0,0.0,0.0,What about you
+2016-12-07T23:20:05+0000,,0.0,0.0,1.0,0.0,0.21428571428571427,NEGATIVE,-0.9875088334083557,single/,-0.07142857142857142,0.21428571428571427,-0.5606905817985535,The EU has NEVER GIVEN this country a single penny
+2017-02-04T21:16:39+0000,,0.0,0.0,0.0,0.0,0.0,POSITIVE,0.9534997940063477,,0.0,0.0,0.0,4
+2016-08-19T02:33:14+0000,,0.294,0.191,0.515,0.7669,0.65,NEGATIVE,-0.9964088797569275,fucking/fellow/,-0.3,0.4,0.0034170448780059814,oooh Kev i understand your sentiment but if they steal anothers glory il live with that but leave my fucking money alone bless you my friend for being a fellow Brexiter
+2017-02-02T12:23:23+0000,,0.169,0.346,0.485,-0.4417,0.7083333333333333,NEGATIVE,-0.9952964186668396,bad/,-0.6999999999999998,0.6666666666666666,-0.9986705780029297,I totally agree about the bad language theres no need for it
+2016-11-27T04:10:28+0000,,0.0,0.282,0.718,-0.2411,0.8888888888888888,NEGATIVE,-0.9933722019195557,though sure/,0.5,0.8888888888888888,-0.5684636235237122,Not sure about the bus though
+2016-10-06T19:24:32+0000,,0.474,0.0,0.526,0.5574,1.0,POSITIVE,0.9941151142120361,,0.0,0.0,0.0,Happily voted for the brexit
+2017-02-24T20:24:18+0000,,0.0,0.0,1.0,0.0,0.5,NEGATIVE,-0.9999455213546753,cold/,-0.6,1.0,-0.9999643564224243,Id rather wake up next to a cold turd
+2016-06-25T18:39:39+0000,,0.0,0.085,0.915,-0.0516,0.0,POSITIVE,0.993808925151825,,0.0,0.0,0.0,Scotland and N Ireland are going to leave and we will have Boris as PM
+2016-06-05T22:04:56+0000,,0.056,0.0,0.944,0.0772,0.0,NEGATIVE,-0.7815730571746826,,0.0,0.0,0.0,If we pull out do you think France will continue to contain the migrants that want to come on to Britain at Calais
+2016-12-08T12:28:22+0000,,0.0,0.0,1.0,0.0,0.5,NEGATIVE,-0.9923738837242126,More/most/,0.5,0.5,0.9690156579017639,More turned up as time went on - and most turned up just to vote rather than sitting through the debate
+2017-01-12T14:10:27+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9994725584983826,unreliable/,0.0,0.0,-0.9994725584983826, unreliable 
+2017-01-02T15:23:10+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9957161545753479,American/,0.0,0.0,0.9405394196510315,Maybe yours but not the  majority of American people
+2016-06-27T06:42:01+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9763836860656738,,0.0,0.0,0.0,And Im allowed to be
+2016-12-10T09:07:55+0000,,0.0,0.0,1.0,0.0,0.5,POSITIVE,0.9993307590484619,,0.0,0.0,0.0,Yepand thats why you live in Dartford
+2016-11-26T01:21:42+0000,,0.0,0.216,0.784,-0.7003,0.5,NEGATIVE,-0.992590069770813,frightened/more frightened/,0.25,0.25,-0.9800558388233185,If people were frightened about what would happen if we came out I was more frightened about what would happen if we stayed in
+2016-06-12T16:38:18+0000,,0.0,0.234,0.766,-0.6361,0.25,NEGATIVE,-0.994988739490509,more cut/double/,0.25,0.25,0.18089056015014648,Sean Michaels more cut and paste lies what is it with you lot are you on double time sundays
+2016-06-07T21:04:52+0000,,0.185,0.0,0.815,0.8519,0.36388888888888893,POSITIVE,0.868183970451355,greatest/most/unelected/civil/political/next/first/,0.25,0.2761904761904762,0.6267662644386292,With the greatest respect have you not noticed that most of our laws here are created by faceless unelected civil servants doing the bidding of their political masters of the time then changing them when the next lot get in first past the post
+2016-07-23T09:41:29+0000,,0.0,0.239,0.761,-0.296,0.0,NEGATIVE,-0.9998056292533875,dummy/,0.0,0.0,-0.9990774393081665,Stop believing everything the dummy box tells you
+2016-12-03T10:28:08+0000,,0.0,0.528,0.472,-0.6808,0.65,NEGATIVE,-0.9919021725654602,,0.0,0.0,0.0,Perhaps you are confusing with hate speech
+2017-01-06T15:51:10+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9979637861251831,,0.0,0.0,0.0,1 person - not NHS Staff
+2016-12-09T19:29:31+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9749931693077087,,0.0,0.0,0.0,and who for
+2017-03-29T13:41:44+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9996059536933899,,0.0,0.0,0.0,I guess your a remoaner
+2016-05-22T22:31:16+0000,,0.181,0.446,0.374,-0.6444,0.5,NEGATIVE,-0.9913138747215271,,0.0,0.0,0.0,So for the argument better the Devil you know
+2017-03-11T22:43:28+0000,,0.406,0.0,0.594,0.6249,0.75,POSITIVE,0.9984802603721619,great/,0.8,0.75,0.99007648229599,Having great influence on someone or something
+2016-06-16T09:51:19+0000,,0.0,0.088,0.912,-0.4767,0.55,POSITIVE,0.9986628293991089,worse/,-0.4,0.6,-0.9999425411224365,Why can you not open your mind and believe that we can and will weather the storm we have done it before in worse situations I might add and we WILL do it again
+2016-09-27T10:30:08+0000,,0.242,0.0,0.758,0.5842,0.6,POSITIVE,0.7072961926460266,Funny/old/,0.175,0.6,-0.0016270875930786133,Funny I dont look for offence in every statement because I know all old people dont read that rag
+2016-07-02T07:28:47+0000,,0.0,0.434,0.566,-0.3182,0.0,NEGATIVE,-0.9753000140190125,,0.0,0.0,0.0,Greedy and self serving
+2016-06-22T08:58:36+0000,,0.0,0.0,1.0,0.0,0.11875,POSITIVE,0.995229959487915,annual/private/European/North/American/political/elite/,0.0,0.06785714285714285,0.7233551229749408,Bilderberg conference Bilderberg meetings or Bilderberg Club is an annual private conference of 120 to 150 people of the European and North American political elite experts from industry finance academia and the media established in 1954
+2017-01-17T13:34:18+0000,,0.677,0.0,0.323,0.6369,0.6,POSITIVE,0.9900687336921692,,0.0,0.0,0.0,Love this photo
+2016-06-18T08:00:01+0000,,0.112,0.0,0.888,0.34,0.6107142857142857,NEGATIVE,-0.9998212456703186,normal/non/,0.075,0.32499999999999996,-0.8933582901954651,Certainly not us the normal working non 1% for it is the elite that will still be the puppet masters
+2016-02-10T11:36:46+0000,,0.0,0.146,0.854,-0.4404,0.3,NEGATIVE,-0.98944491147995,personal/,0.0,0.3,0.9992590546607971,Betsy M MacKay perhaps you should educate the fool about all the corruption that YOU have personal experience of
+2016-07-18T22:08:27+0000,,0.172,0.0,0.828,0.4019,0.125,POSITIVE,0.9958571791648865,future/,0.0,0.125,0.995668888092041,Hopefully they will realise theres a baby boom now which will affect the future generations
+2016-05-28T18:39:32+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9969834685325623,,0.0,0.0,0.0,David Coy go back to sleep
+2016-06-25T06:50:21+0000,,0.046,0.238,0.716,-0.8448,0.2888888888888889,POSITIVE,0.9741361737251282,,0.0,0.0,0.0,They too were my reasons our fore Fathers did not fight in 2 world wars for the UK to become what it has to bow down to every Tom dick and Harry to impose laws we have no say in
+2016-08-11T17:24:56+0000,,0.0,0.276,0.724,-0.296,0.0,NEGATIVE,-0.9982001781463623,,0.0,0.0,0.0,Stunt Dexter You forgot to mention blah blah blah those undemocratically elected EU elite
+2016-11-25T17:32:32+0000,,0.0,0.259,0.741,-0.4215,0.0,NEGATIVE,-0.9878365397453308,,0.0,0.0,0.0,How would the brexit voters be protesting against democracy
+2017-01-08T11:50:12+0000,,0.0,0.294,0.706,-0.3612,0.0,NEGATIVE,-0.9994533658027649,,0.0,0.0,0.0,I think we just have to ignore them
+2017-03-16T00:16:14+0000,,0.071,0.054,0.876,0.1779,0.13333333333333333,NEGATIVE,-0.922161877155304,particular/even less/gravy/largest/,0.0,0.09999999999999999,0.48727428913116455,That particular train left the station some time ago there will be even less gravy when Brexit is finalised and one of the largest contributing economies no longer sends payments what hope then for Scotland and EU subsidies
+2016-08-13T21:28:09+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9873883128166199,top/comforting/,0.25,0.25,0.9869268536567688, httpinktankfi10-top-self-comforting-strategies-leavers-awaiting-brexit
+2016-11-04T11:32:53+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9753568172454834,stray/,0.0,0.0,-0.9937357902526855,Heres your stray apostraphe back
+2017-02-18T11:15:08+0000,,0.084,0.256,0.659,-0.6908,0.6833333333333332,NEGATIVE,-0.9879239201545715,responsible/many/fake/,0.06666666666666665,0.6833333333333332,0.30776482820510864,Blair is responsible for many deaths of a fake war he knew was based on a lie leading to the rise of daesh
+2016-07-16T17:12:41+0000,,0.297,0.0,0.703,0.5859,0.75,POSITIVE,0.9885658621788025,lovely/,0.5,0.75,0.9921383261680603,Why take it out on the lovely people of Scotland
+2017-02-20T16:49:10+0000,,0.157,0.167,0.676,-0.1027,0.6,POSITIVE,0.924099862575531,legal/powerful/,0.25,0.6,0.9875311553478241,The goal is to get millions standing under article 61 with legal efficacy will be a powerful message to those who would commit treason as to carry on they would be charged with the offence
+2016-12-10T22:02:40+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9405971765518188,,0.0,0.0,0.0,So I will ask again what is your understanding on how the eu operates regarding all member countries
+2016-11-29T23:27:00+0000,,0.091,0.104,0.805,0.1531,0.0,NEGATIVE,-0.9921066761016846,pre/,0.0,0.0,-0.6032727956771851,Laying out back of fag packet pub economics isnt going to change reality but leave voters tend to warp reality and truth anyway to suit their pre formed ideas
+2017-01-16T16:08:28+0000,,0.0,0.162,0.838,-0.4019,0.0,NEGATIVE,-0.9981091022491455,damn/impudent/,0.0,0.0,-0.8653897643089294,These damn Europeans expect to be paid and housed for their labour the impudent blighters
+2016-05-22T08:26:53+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9715986847877502,,0.0,0.0,0.0,2074
+2016-12-08T21:26:22+0000,,0.278,0.0,0.722,0.6597,0.4,POSITIVE,0.9955019354820251,good/choppy/,0.24999999999999997,0.4,-0.03425872325897217,She is a good skipper shel steer us out of the choppy seas to the promised land
+2016-07-20T23:15:18+0000,,0.286,0.282,0.432,0.0061,0.775,NEGATIVE,-0.9996916055679321,fair/true/,0.5249999999999999,0.775,0.0012909173965454102,Its neither fair nor true
+2016-09-01T11:45:23+0000,,0.385,0.0,0.615,0.7579,0.7,POSITIVE,0.7466800212860107,moderate/,0.0,0.7,-0.6469284892082214,But BrexitTestimonial aims to reach out to moderate Leavers and engage in discussions like this
+2016-06-15T11:22:05+0000,,0.074,0.097,0.83,-0.3049,0.35892857142857143,NEGATIVE,-0.9997418522834778,selective/comprehensive/industrial/right/,0.07142857142857142,0.13392857142857142,0.4758477807044983,it is the Tories that have wrecked our manufacturing and your data is selective not comprehensive - I teach industrial studies do not lecture me on what happened to manufacturing - my analysis is Brexit will destroy it completely which a right wing Tory party want anyway Wake up and open your eyes 
+2016-08-23T22:25:15+0000,,0.0,0.219,0.781,-0.1027,0.5416666666666666,POSITIVE,0.9655300378799438,hard/,-0.2916666666666667,0.5416666666666666,-0.6971109509468079,Prepare for some hard times guys
+2017-01-18T08:46:40+0000,,0.167,0.214,0.619,-0.1935,0.3,POSITIVE,0.8588637113571167,very/,0.2,0.3,0.594057559967041,Oh yes before our very eyes being destroyed by the traitors within
+2016-07-21T03:27:11+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9407587051391602,,0.0,0.0,0.0,PS
+2016-06-27T06:41:33+0000,,0.158,0.047,0.795,0.4118,0.0,NEGATIVE,-0.613003134727478,fab/,0.0,0.0,0.9950719475746155,I dont get this woman Sturgeon she is behaving like she is the Queen of Scotland what a fab day it would be when she goes she is helping no one but herself
+2016-05-13T22:58:06+0000,,0.231,0.0,0.769,0.2732,0.0,POSITIVE,0.971447765827179,,0.0,0.0,0.0,Shes probably already got her pension well sorted 
+2017-01-26T15:39:13+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9966999888420105,,0.0,0.0,0.0,Record employment
+2017-01-05T10:35:54+0000,,0.0,0.134,0.866,-0.1779,0.0,NEGATIVE,-0.9886327385902405,,0.0,0.0,0.0,I could argue with every point you made but will get us  nowhere
+2016-07-20T00:04:30+0000,,0.0,0.744,0.256,-0.4404,0.9,NEGATIVE,-0.9985413551330566,Bloody/,-0.8,0.9,-0.9997484087944031,Bloody cheek 
+2017-03-29T12:31:06+0000,,0.0,0.219,0.781,-0.1027,0.0,NEGATIVE,-0.9995412826538086,,0.0,0.0,0.0,Nah we sent them to Australia
+2017-03-03T15:56:56+0000,,0.0,0.0,1.0,0.0,0.125,POSITIVE,0.9923967719078064,,0.0,0.0,0.0,Because our world our history and our future are at stake
+2017-01-15T10:35:15+0000,,0.0,0.0,1.0,0.0,0.5166666666666666,NEGATIVE,-0.9408207535743713,divisive/,0.0,0.0,-0.9992197751998901,Possibly behind the divisive postings of Britain First 
+2016-07-27T21:53:21+0000,,0.155,0.131,0.714,0.1027,0.0,NEGATIVE,-0.9566104412078857,,0.0,0.0,0.0,Since they are no longer workingwill they be getting benefits before they gojust saying   
+2017-03-21T15:00:04+0000,,0.0,0.454,0.546,-0.3597,0.0,NEGATIVE,-0.999474823474884,,0.0,0.0,0.0,So no planning then
+2016-05-14T13:43:30+0000,,0.426,0.0,0.574,0.6369,0.0,POSITIVE,0.9941548705101013,,0.0,0.0,0.0,The cars homes and holidays are all on credit
+2016-05-09T20:19:16+0000,,0.0,0.787,0.213,-0.4019,1.0,NEGATIVE,-0.6058415174484253,Sorry/,-0.5,1.0,-0.9981034994125366,Sorry to rant
+2016-08-08T01:47:27+0000,,0.316,0.0,0.684,0.7184,0.5,NEGATIVE,-0.9978245496749878,better/,0.5,0.5,0.9811028838157654,Hey Ian some reading material for you with respect to Hinduism and Buddhism better spelling
+2016-06-19T19:57:18+0000,,0.0,0.339,0.661,-0.5583,0.4,NEGATIVE,-0.9995288848876953,good/,0.7,0.6000000000000001,0.9313951730728149,I pity you if you cant think of a good reason to remain
+2017-02-18T08:36:01+0000,,0.0,0.176,0.824,-0.5927,0.05,NEGATIVE,-0.9515146017074585,,0.0,0.0,0.0,We could have his Referendom he wants but we do it  to bring back the Treason Laws he Revoked
+2016-06-25T00:13:45+0000,,0.0,0.0,1.0,0.0,0.1,NEGATIVE,-0.9992665648460388,,0.0,0.0,0.0,It was just an example of how the 350M COULD be spentI never actually heard anyone say they WOULD
+2017-03-05T15:43:01+0000,,0.0,0.5,0.5,-0.6124,0.0,NEGATIVE,-0.9994045495986938,racist/,0.0,0.0,-0.9998877048492432,Your racist wah wah wah
+2017-03-23T10:28:54+0000,,0.0,0.328,0.672,-0.656,0.9,NEGATIVE,-0.9906091690063477,,0.0,0.0,0.0,She did try to deport the hate preacherbut the courts wouldnt allow it
+2017-02-10T23:05:13+0000,,0.193,0.0,0.807,0.4767,0.5357142857142857,POSITIVE,0.9929428696632385,Honourable/18th/,0.0,0.0,0.9860304296016693,Even his cohorts refer to him as the Right Honourable for the 18th century
+2016-12-25T20:47:15+0000,,0.0,0.174,0.826,-0.4588,0.36904761904761907,NEGATIVE,-0.9998650550842285,sheer/english/,0.0,0.375,0.9072193801403046,The standards have simply been lowered as demonstrated by their sheer ignorance on economics history geography the english language and maths
+2016-07-24T17:16:15+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.6647731065750122,,0.0,0.0,0.0,Nothing on the BBC yet
+2016-06-23T21:32:53+0000,,0.0,0.0,1.0,0.0,0.4,POSITIVE,0.5757316946983337,dark/,-0.15,0.4,0.5434418320655823,Dont hold your breath though tomorrow is not our independence day its going to be a dark day for democracy as there is none
+2017-02-13T23:44:00+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9991301894187927,,0.0,0.0,0.0,Are you being deliberately obtuse
+2017-03-14T21:18:11+0000,,0.0,0.0,1.0,0.0,0.26785714285714285,NEGATIVE,-0.9102733135223389,,0.0,0.0,0.0,and Irish have the right to choose either to quit Eu or UK
+2016-12-10T18:03:13+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9968116879463196,,0.0,0.0,0.0,Do you think she has had any thoughts on the cost of all this 
+2016-10-13T14:10:07+0000,,0.365,0.0,0.635,0.3182,0.0,POSITIVE,0.9952300786972046,,0.0,0.0,0.0,Thats the truth of it
+2016-11-27T19:47:00+0000,,0.0,0.383,0.617,-0.4767,0.9,NEGATIVE,-0.9559484124183655,wrong/,-0.5,0.9,-0.994579553604126,She was wrong on both counts
+2016-06-24T16:47:45+0000,,0.0,0.559,0.441,-0.5859,1.0,POSITIVE,0.9654926061630249,,0.0,0.0,0.0,Wtf you on about 
+2017-02-25T23:15:40+0000,,0.0,0.0,1.0,0.0,0.9,NEGATIVE,-0.9973233342170715,,0.0,0.0,0.0,Shes trying but its kind of not working
+2017-03-19T03:18:32+0000,,0.0,0.0,1.0,0.0,1.0,NEGATIVE,-0.8490132093429565,irrelevant/,-0.5,1.0,-0.9998028874397278,The majority isnt being condemnedthey were irrelevant
+2017-01-18T21:42:15+0000,,0.366,0.151,0.483,0.4812,0.0,POSITIVE,0.6489881277084351,,0.0,0.0,0.0,David Dixon Oh I dont doubt your integrity or your honesty
+2016-06-26T17:16:49+0000,,0.0,0.154,0.846,-0.2057,0.5714285714285714,NEGATIVE,-0.9995526671409607,certain/,0.21428571428571427,0.5714285714285714,0.9888041615486145,Im not certain if you are suggesting I shouldnt ask this question
+2017-02-28T06:21:30+0000,,0.118,0.0,0.882,0.3724,0.1,NEGATIVE,-0.9891042709350586,,0.0,0.0,0.0,But anyone who wants to come into this country to try and rebuild it dont bother you wont get in
+2016-08-06T18:08:33+0000,,0.0,0.0,1.0,0.0,0.5357142857142857,POSITIVE,0.8650316596031189,right/,0.2857142857142857,0.5357142857142857,0.9895902276039124,never did think that Carney fellow was right for Britain
+2017-03-11T12:58:33+0000,,0.108,0.302,0.59,-0.7096,0.15,NEGATIVE,-0.9947282671928406,idealogically skewed/unelected/anti/democratic/,0.0,0.0,-0.05792732536792755,Why would you trust an idealogically skewed nation destroying unelected group of anti democratic beaurocrats with a failed currency to govern your children
+2017-03-21T14:44:30+0000,,0.265,0.099,0.635,0.7184,0.7083333333333333,POSITIVE,0.9957289099693298,proud/longest/ever/,0.26666666666666666,0.3333333333333333,0.2840903401374817,Firstly hose who gave their lives in the Wars will be proud that precisely because of the EUs predecessor Europe has now enjoyed its longest ever peacetime
+2017-02-07T11:46:15+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9862775206565857,,0.0,0.0,0.0,Will you all just listen to yourselves
+2016-05-19T00:44:46+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9957406520843506,,0.0,0.0,0.0,I would never vote for any Tory and am 100% Ukip
+2016-04-04T16:11:27+0000,,0.193,0.0,0.807,0.5106,0.5,POSITIVE,0.6357589364051819,ordinary/,-0.25,0.5,-0.8924461007118225,Tata Group agreed to purchase all Corus ordinary shares in March 2007 and the deal was concluded in April 2007
+2016-10-20T00:39:50+0000,,0.0,0.0,1.0,0.0,0.1,POSITIVE,0.9801557660102844,blue/,0.0,0.1,0.9410604238510132,I worked on it in a blue chip company
+2016-11-17T14:03:56+0000,,0.0,0.151,0.849,-0.5994,0.0,NEGATIVE,-0.9996622800827026,junior/,0.0,0.0,0.9704930186271667,I didnt see Kinnock junior or his parents ever stand up to the bullying EU Commission executiveand its over-ruling of our parliament and judiciary
+2016-05-10T13:08:12+0000,,0.0,0.0,1.0,0.0,0.06666666666666667,NEGATIVE,-0.8306307196617126,last/,0.0,0.06666666666666667,0.6417497992515564,I think the last was the Lockerbie bomber
+2017-03-29T10:13:17+0000,,0.15,0.0,0.85,0.3182,0.6296296296296297,NEGATIVE,-0.9083166718482971,sure/more/common/,0.2333333333333333,0.6296296296296297,0.8985242048899332,Im sure we have more in common in our views than we do differences
+2017-01-23T22:02:01+0000,,0.0,0.169,0.831,-0.7269,0.48030303030303034,NEGATIVE,-0.9949566721916199,last/new/about/worst/small/,-0.22272727272727275,0.3842424242424243,0.0508460283279419,Merkel will be the last in the queue to meet the new US President after he is about to cancel TTIP the worst trade deal for small business across all countries involved
+2016-12-05T02:30:22+0000,,0.412,0.0,0.588,0.6808,0.45,NEGATIVE,-0.5135349631309509,fine/,0.4166666666666667,0.5,0.8480249643325806,However the referendum was fine when remain thought theyd win
+2016-09-15T17:00:05+0000,,0.0,0.366,0.634,-0.6369,0.8666666666666667,NEGATIVE,-0.9707608819007874,outrageous/expensive/unnecessary/legislative/,-0.475,0.65,-0.021144434809684753,We stop putting outrageous expensive and unnecessary legislative demands upon SMEs
+2016-11-07T04:44:50+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.8095894455909729,European/Royal/prerogative/,0.0,0.0,0.8897217313448588,The European communities act was passed by an act of parliament and not Royal prerogative
+2016-05-22T16:09:04+0000,,0.033,0.0,0.967,0.0762,0.875,NEGATIVE,-0.8427800536155701,corrupt/able/own/,0.19999999999999998,0.875,0.32105958461761475,If we achieve BREXIT we wont have to pay the EU ÃÂ£55 million a day for the priviledge of staying in their corrupt club we will regain our sovereignty and we will be able to make our own laws again
+2016-06-13T12:47:51+0000,,0.0,0.0,1.0,0.0,1.0,NEGATIVE,-0.8166961669921875,only/sensible/,0.0,0.5,0.770099401473999,Vote out mate its the only sensible choice
+2016-11-06T14:02:51+0000,,0.202,0.0,0.798,0.4201,0.625,POSITIVE,0.5188955068588257,most/,0.5,0.5,0.9453839063644409,Totally agree because most people will be put off by the trek
+2017-01-06T12:06:18+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.8321528434753418,,0.0,0.0,0.0,Lets move on
+2016-09-15T13:42:11+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9992414712905884,,0.0,0.0,0.0,the lefties heads will explode
+2016-10-07T02:40:30+0000,,0.474,0.0,0.526,0.4019,0.0,POSITIVE,0.9986661672592163,,0.0,0.0,0.0,On holiday to Benidorm
+2016-06-24T21:44:30+0000,,0.0,0.472,0.528,-0.91,0.525,NEGATIVE,-0.990291178226471,nasty/,-1.0,1.0,-0.9976220726966858,Unfortunately Scotland is led by a nasty troublemaker who wants to make a name for herself and destroy the UK
+2017-02-19T12:41:55+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9985663294792175,,0.0,0.0,0.0,Since I regard all Apple products as over-valued tat I dont know
+2016-02-19T17:11:15+0000,,0.162,0.0,0.838,0.4019,0.0,NEGATIVE,-0.5549764037132263,,0.0,0.0,0.0,I just wish that after their leaving Scottland will take its indepandance and will rejoin UE
+2016-10-20T19:03:38+0000,,0.383,0.0,0.617,0.7552,0.8291666666666666,POSITIVE,0.8452056646347046,critical/nice/,0.3,0.9,0.1660344898700714,I do not mean to critical and it is nice people take time to help others
+2016-11-25T20:25:02+0000,,0.574,0.0,0.426,0.4019,0.0,POSITIVE,0.847802996635437,,0.0,0.0,0.0,I wish she would
+2017-03-18T17:36:30+0000,,0.132,0.16,0.708,-0.1531,0.0,POSITIVE,0.8035640716552734,Scottish/,0.0,0.0,0.9947280287742615,You have the likes of the SNP and Sturgeon pushing and threatening independence and the Scottish government
+2017-02-19T16:03:06+0000,,0.344,0.0,0.656,0.2732,0.5357142857142857,POSITIVE,0.9935321807861328,right/,0.2857142857142857,0.5357142857142857,0.9895902276039124,Well written and about right
+2017-03-04T11:19:36+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.8264040946960449,,0.0,0.0,0.0,You have seen what he did with the journalists
+2017-05-08T09:12:05+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.5828863382339478,,0.0,0.0,0.0,Gold auction anyone
+2016-11-04T01:09:37+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9857832193374634,,0.0,0.0,0.0,Secondly have you never heard of the concept of PPP purchasing power parity
+2016-04-23T21:37:55+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.946475088596344,,0.0,0.0,0.0,ORDO AB CHAO
+2016-03-13T19:44:02+0000,,0.133,0.0,0.867,0.3182,0.255,POSITIVE,0.980201780796051,central/,0.0,0.25,0.9433115124702454,Pedantry  with its de facto court  central bank and law making ability its very much a state
+2016-06-17T09:37:36+0000,,0.0,0.0,1.0,0.0,0.4125,NEGATIVE,-0.9998821020126343,independent/credible/,0.2,0.4125,0.9955849349498749,Brexit the movie is not an independent or credible source of information
+2016-08-08T15:50:26+0000,,0.213,0.0,0.787,0.765,0.4583333333333333,NEGATIVE,-0.9972827434539795,better/rich/foreign/,0.25,0.4583333333333333,0.32926392555236816,Maybe just maybe we can do it again and make a better country in Europe rather than handing it over to the invasions of the rich and the foreign companies backing them
+2016-11-26T17:34:50+0000,,0.126,0.0,0.874,0.3182,0.9,NEGATIVE,-0.9998192191123962,huge/,0.4000000000000001,0.9,-0.9141517281532288,Theres a huge amount of complexity that we were not informed about and we didnt get a say in
+2016-12-30T16:56:18+0000,,0.232,0.132,0.636,0.296,0.9,NEGATIVE,-0.9945915341377258,funny/dirty/,-0.175,0.9,-0.0015533268451690674,yeah I went to that London once the water did taste a bit funny kettle looked a bit dirty too
+2016-07-28T11:32:46+0000,,0.0,0.324,0.676,-0.34,0.0,NEGATIVE,-0.9976441264152527,,0.0,0.0,0.0,Tracy did I JUST blame the Jews
+2017-03-02T15:11:28+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9995834231376648,,0.0,0.0,0.0,Still not getting why being  a Christian has any bearing on making the tube work etc
+2017-03-01T12:00:21+0000,,0.225,0.0,0.775,0.7876,0.0,NEGATIVE,-0.990622341632843,,0.0,0.0,0.0,But those of us who knew about this plan have been waiting for an opportunity like the Brexit vote in order to get out of it
+2016-10-05T01:00:49+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.5011572241783142,,0.0,0.0,0.0,The sky will not fall in nor the world end
+2016-11-04T05:06:52+0000,,0.0,0.107,0.893,-0.0516,0.30000000000000004,NEGATIVE,-0.9991624355316162,whole/,0.2,0.4,0.9866965413093567,Really was that in London the whole country voted 52% leave
+2016-02-27T15:00:13+0000,,0.0,0.5,0.5,-0.6124,0.0,NEGATIVE,-0.9963905215263367,RACIST/,0.0,0.0,-0.9998877048492432,YOU ARE RACIST STACK UP
+2016-09-06T09:35:11+0000,,0.0,0.0,1.0,0.0,0.25,NEGATIVE,-0.7466303706169128,other/same/non/,-0.041666666666666664,0.16666666666666666,0.1546021302541097,It is being proposed that we have a system which covers migrants from any other country in the same way as we do non EU migrants
+2017-03-21T13:48:55+0000,,0.189,0.0,0.811,0.4215,0.3333333333333333,POSITIVE,0.5875841975212097,united/,0.0,0.0,0.9987553358078003,First it was Winston Churchill himself who advocated the idea of a united Europe
+2016-08-15T21:12:03+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.6784278154373169,,0.0,0.0,0.0,Erm
+2016-12-27T10:11:18+0000,,0.0,0.394,0.606,-0.5994,0.0,POSITIVE,0.6015278100967407,,0.0,0.0,0.0,I am talking about trade war of course
+2017-02-16T15:52:45+0000,,0.122,0.518,0.36,-0.8689,1.0,NEGATIVE,-0.9984867572784424,NickiI/evil/,-0.5,0.5,-0.13083258271217346,NickiI do wish this was trueI abhor them & their evil vile  ways
+2017-01-07T13:36:20+0000,,0.485,0.0,0.515,0.5719,1.0,NEGATIVE,-0.823623776435852,,0.0,0.0,0.0,Oh dear god only knows whats happening
+2016-04-23T09:44:20+0000,,0.385,0.0,0.615,0.3612,0.0,POSITIVE,0.990177571773529,,0.0,0.0,0.0,Like ÃÂ· Reply ÃÂ· 1 hr
+2017-02-03T08:39:02+0000,,0.0,0.264,0.736,-0.7003,0.35,NEGATIVE,-0.9956414699554443,unwarranted/Germanophobic/irrefutable/unhealthy/German/,-0.08,0.13999999999999999,-0.8802558302879333,As to your unwarranted Germanophobic comment theres irrefutable evidence of the unhealthy domination manipulation  and over-influence of German banks throughout  the EU
+2017-03-25T01:12:22+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9831041097640991,,0.0,0.0,0.0,Go chew a cuttlefish
+2016-09-14T09:06:05+0000,,0.0,0.383,0.617,-0.4767,0.6,NEGATIVE,-0.9999918937683105,even worse/,-0.4,0.6,-0.9999890327453613,From close up hes even worse
+2016-12-19T17:34:35+0000,,0.083,0.133,0.785,-0.5423,0.40714285714285714,NEGATIVE,-0.9941218495368958,Most/good/racist/left/similar/right/,0.24761904761904763,0.33928571428571425,-0.005433390537897746,Most remain voters voted with good intentions though as did leave voters the difference being we got overshadowed by the 3 or 4 million racist ukip supporters that helped to swing the vote our way and so the left wing media lumped us all in with them similar to how the how the right wing media lumped all muslims in with terrorists
+2016-08-23T22:10:51+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9913870692253113,offencive/,0.0,0.0,-0.9999760389328003,So why is it offencive  home here 
+2016-12-27T19:49:35+0000,,0.0,0.146,0.854,-0.0516,0.0,POSITIVE,0.9917448163032532,,0.0,0.0,0.0,There are thousands of fighters already in Europe
+2016-07-17T13:26:57+0000,,0.293,0.103,0.603,0.296,0.0,NEGATIVE,-0.7885260581970215,,0.0,0.0,0.0,A lot of Scots want to leave the EU as well
+2016-11-25T21:50:40+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.6710538864135742,,0.0,0.0,0.0,Any body but them
+2016-11-03T10:45:37+0000,,0.0,0.0,1.0,0.0,0.2,NEGATIVE,-0.8280162811279297,Factual/,0.0,0.0,0.9993923902511597,Factual information on whats really going on and not just the garbage news given us by the papers and TV news channels
+2017-03-04T20:12:30+0000,,0.105,0.059,0.837,0.2732,0.3910353535353535,POSITIVE,0.6223433017730713,various/hard soft/left/more technocratic/,0.10104166666666667,0.3614583333333333,0.051208049058914185,It is like the New Statesman which used to be various shades of soft and hard left and is now more technocratic
+2016-12-28T10:28:54+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9983148574829102,,0.0,0.0,0.0,Shes not an MP
+2017-03-12T17:20:27+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.5698829889297485,British/,0.0,0.0,0.9561169743537903,What do YOU do for the British economy 
+2016-07-15T17:35:14+0000,,0.0,0.351,0.649,-0.4019,0.0,NEGATIVE,-0.9976784586906433,,0.0,0.0,0.0,Why was this the EUs fault
+2016-11-28T10:10:11+0000,,0.245,0.0,0.755,0.5023,0.5,NEGATIVE,-0.8885861039161682,greater/,0.5,0.5,0.9977117776870728,But we will have greater control of who is coming here
+2016-06-25T15:43:57+0000,,1.0,0.0,0.0,0.4215,0.7,POSITIVE,0.7373929023742676,,0.0,0.0,0.0,LOL 
+2017-03-11T19:09:26+0000,,0.0,0.262,0.738,-0.6597,1.0,NEGATIVE,-0.9975595474243164,ridiculous/,-0.3333333333333333,1.0,-0.9994462132453918,However to suggest that we have to pay the ridiculous amount that has been mooted by EU pundits is also ridiculous
+2017-01-31T00:42:23+0000,,0.0,0.5,0.5,-0.6124,0.0,NEGATIVE,-0.9990174770355225,,0.0,0.0,0.0,So that makes me a racist
+2017-01-28T16:33:09+0000,,0.583,0.0,0.417,0.4201,0.75,POSITIVE,0.8708261251449585,,0.0,0.0,0.0,Totally agree Garth
+2016-08-28T11:01:56+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9955143332481384,British/,0.0,0.0,0.9561169743537903,British democracy isnt the will of the people it never has been
+2016-10-11T22:16:23+0000,,0.808,0.0,0.192,0.6369,0.6,POSITIVE,0.9965003728866577,,0.0,0.0,0.0,Love it 
+2016-06-25T12:57:58+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.892047643661499,,0.0,0.0,0.0,Dealt with it
+2016-09-19T15:43:24+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9341051578521729,,0.0,0.0,0.0,Policies guidelines
+2016-07-10T11:43:08+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.5468736290931702,,0.0,0.0,0.0,I suggest you go off and do some background reading
+2016-06-20T21:26:55+0000,,0.792,0.0,0.208,0.5859,1.0,POSITIVE,0.9990622401237488,how charming/,0.7,1.0,0.9990622401237488,how charming
+2016-10-19T13:48:42+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9999438524246216,,0.0,0.0,0.0,Not one ounce of me
+2016-10-16T16:47:28+0000,,0.531,0.0,0.469,0.5256,1.0,POSITIVE,0.9989832043647766,impressed/,1.0,1.0,0.9961877465248108, I know I am really impressed
+2016-07-22T20:15:12+0000,,0.172,0.0,0.828,0.3612,0.0,POSITIVE,0.9715112447738647,,0.0,0.0,0.0,Ashley youll just end up like here in Norway where Ive been working
+2016-08-12T13:08:16+0000,,0.0,0.169,0.831,-0.7579,0.4,POSITIVE,0.9977691173553467,eyesight/dead/correct/,-0.06666666666666667,0.13333333333333333,0.3295214573542277,It has eyesight cameras at the front which will monitor your proximity to the car in front and stop you dead before you could hit it - and will keep you at the correct distance
+2016-07-22T16:01:41+0000,,0.0,0.0,1.0,0.0,0.3333333333333333,NEGATIVE,-0.912401556968689,first/,0.25,0.3333333333333333,0.912291407585144,Why post it in the first place then
+2017-01-22T22:14:09+0000,,0.129,0.478,0.393,-0.7351,0.35,NEGATIVE,-0.9996912479400635,frustrated/disillusioned/meaningful/,-0.06666666666666665,0.2333333333333333,-0.33336395025253296,A bunch of frustrated loosing disillusioned females who have no meaningful activities
+2016-09-05T15:58:37+0000,,0.072,0.024,0.904,0.6705,0.5293290043290043,POSITIVE,0.9270328283309937,right/as tight/Londonextensive/former/new/nearest/,0.04058441558441558,0.21266233766233766,0.6787480811278025,I hope you are right Audreybut a points system can be as tight as you likeBack in the 50s ÃÂ£10 pommes as they were known who wanted to emigrate to Ozhad to apply to Australia House in Londonextensive forms were filled inyou had to have a job to go toand a sponsortogether with references from your former employerand proof of your sponsor and new positionThen you had to attend an interview at your nearest city and have a medicalIf you satisfied that criteria you might be acceptedHow Mrs May can find any problem with a plan run like thatthat allows you to pick those with the qualifications or trades you need beats me
+2016-10-31T09:41:01+0000,,0.0,0.051,0.949,-0.1027,0.4642857142857143,NEGATIVE,-0.9995796084403992,most/large/med/,0.2380952380952381,0.30952380952380953,0.21783592303593954,for now anyways most companies that employ the large taxpayers are moving in med term so there wont be money to pay Nissan and it will move
+2016-07-05T16:45:21+0000,,0.185,0.0,0.815,0.3612,0.375,NEGATIVE,-0.9744275212287903,other/alright/,-0.0625,0.1875,0.12548258900642395,But other than those two things I think the lib dems are alright
+2016-07-09T22:28:21+0000,,0.0,0.608,0.392,-0.4767,0.0,NEGATIVE,-0.9996035695075989,,0.0,0.0,0.0,Shame on you
+2016-06-29T12:04:30+0000,,0.0,0.18,0.82,-0.296,0.0,NEGATIVE,-0.9764284491539001,French/,0.0,0.0,0.9699105620384216,2 ACs fully British owned and paid for no French convention whatsoever
+2016-11-06T15:42:36+0000,,0.088,0.0,0.912,0.4019,0.6178571428571429,POSITIVE,0.9920666217803955,undemocratic/,0.0,0.0,-0.9964035749435425,Hopefully she has seen the light since dealing with Junker and co and realises that Nigel was right all along about the undemocratic sinking ship which is the EU
+2017-01-21T22:29:17+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9877365231513977,,0.0,0.0,0.0,Your signature wont count until you click on the link in this email
+2016-12-16T13:41:49+0000,,0.31,0.315,0.375,0.4466,0.0,NEGATIVE,-0.985645592212677,RICHER/,0.0,0.0,0.9984738230705261,pay pay pay so the Bransons etc get RICHER
+2016-06-24T00:06:00+0000,,0.722,0.0,0.278,0.3818,0.0,NEGATIVE,-0.7774338126182556,,0.0,0.0,0.0,Ty Astridge
