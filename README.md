@@ -15,3 +15,7 @@ Input data should be placed in the /modified folder.
 Output will be placed in the /sentiment folder with the first part of the output files starting with 'sentiment_classification'. These files, like the input,
 are in .csv format.
 
+<b>Input Lexicon</b>
+
+In addition to lexicons provided by applied libraries, we also incorporate a lexical list (see link above). The data were downloaded and placed in the /lexicon folder.
+
