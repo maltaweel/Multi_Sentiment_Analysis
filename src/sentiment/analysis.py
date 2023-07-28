@@ -38,7 +38,7 @@ pn=os.path.abspath(__file__)
 pn=pn.split("src")[0] 
 
 #model data folder (models)
-data=os.path.join(pn,'models','best-model.pt')
+#data=os.path.join(pn,'models','best-model.pt')
 
 #text classification for sentiment
 classifier = TextClassifier.load('sentiment')
@@ -51,7 +51,7 @@ stop_words = set(stopwords.words('english'))
 #flair.device = torch.device('cuda')
 
 '''
-Method for reading text for lexicon list
+Method for reading text for lexicon list (see PlosOne article)
 @param file_l- lexicon list to read from
 @return terms- terms and scores for sentiment
 '''
@@ -215,7 +215,8 @@ def textAspect(aspects):
     return aspectOut
 
 '''
-Method to output TextBlob polarity, subjective score, and sentiment from Flair.
+Method to output TextBlob polarity, subjective score, and sentiment from Flair
+to container to be returned.
 @param asps-the aspect data to evaluate
 @return result- container that has Flair sentiment and TextBlob polarity/subjectivity
 '''
@@ -430,7 +431,7 @@ def main() -> None:
             csvf.close()
             
 '''
-    Method to output sentiment for individual texts.
+    Method to output and print sentiment for individual texts.
     @param data- the data for given texts
     @param fileOutput- the file to output data
 '''                 
