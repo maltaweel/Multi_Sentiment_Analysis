@@ -6,3 +6,10 @@ multi-sentiment analysis approach. The lexical list incorporated is from a previ
 The code is provided in /src/sentiment/analysis.py. This module combines all the libraries above and provides output to facilitate assessment of sentiment data.
 Polarity, subjectivity, and aspect mining are provided using TextBlobl and Flair. Aspect mining is available from NLTK. Flair applies the sentiment-en-mix-distillbert_4.pt model as default. The module can be adjusted to run on GPU. To run the analysis.py module, simpy execute via the 'python analysis.py' command. Required libraries should be installed; requirements.txt has libraries used and that can be installed using the 'pip -r' command. 
 
+<b>Data Folders</b>
+Input data should be placed in the /modified folder. 
+
+<b>Output Results</b>
+Output will be placed in the /sentiment folder with the first part of the output files starting with 'sentiment_classification'. These files, like the input,
+are in .csv format.
+
