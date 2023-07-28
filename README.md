@@ -19,3 +19,15 @@ are in .csv format.
 
 In addition to lexicons provided by applied libraries, we also incorporate a lexical list (see link above). The data were downloaded and placed in the /lexicon folder.
 
+<b>Key Methods</b>
+
+The following methods are in analysis.py.
+
+def readLexiconList: reads in input lexical information.
+
+def scoreFlair: Provides sentiment using the Flair library
+
+def textAspect: provides TextBlob and Flair sentiment scores
+
+def main:  Main method that conducts the analysis for different sentiment libraries and organises the results, enabling them to be printed out in the output results. 
+
