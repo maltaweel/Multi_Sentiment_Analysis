@@ -1,501 +1,501 @@
-created_time,_id,positive,negative,neutral,compound,subjectivity,flair,flair score,aspect terms,aspect tb polarity,aspect tb subjectivity,aspect flair,sentence
-2016-06-30T23:12:47+0000,,0.0,0.123,0.877,-0.3041,0.3958333333333333,NEGATIVE,-0.9690305590629578,logical/Ã¢ÂÂGreat/,0.125,0.125,0.971611738204956,All in all there is hardly any logical argument to call England Ã¢ÂÂBritainÃ¢ÂÂ let be Ã¢ÂÂGreat BritainÃ¢ÂÂ 
-2017-01-07T12:35:22+0000,,0.0,0.111,0.889,-0.128,0.3333333333333333,NEGATIVE,-0.9944884777069092,academic/overwhelmingly left/,0.0,0.0,0.00028839707374572754,The academic world is overwhelmingly left-wing and the textbooks spin to the left
-2016-07-25T16:44:18+0000,,0.35,0.0,0.65,0.8271,0.0,NEGATIVE,-0.9651334285736084,gouarnamant/,0.0,0.0,0.9957101345062256,Ha koulskoude ez eo deuet ar RU da vezaÃÂ± mezh ha danvez cÃ¢ÂÂhoarzhadennoÃÂ¹ Europa a-bezh a-drugarez dÃ¢ÂÂar remainers trelatet ha dÃ¢ÂÂar gouarnamant
-2016-09-10T07:49:31+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9978994131088257,,0.0,0.0,0.0,These people are my people and they have been for thousands of years
-2016-12-08T11:00:00+0000,,0.125,0.0,0.875,0.5106,0.0,NEGATIVE,-0.7368301749229431,jolly/,0.0,0.0,0.9908327460289001,When I was at prep school I learned the jolly tale about Ã¢ÂÂsingeing the King of SpainÃ¢ÂÂs beardÃ¢ÂÂ Ã¢ÂÂ the story of DrakeÃ¢ÂÂs raid on Cadiz
-2017-01-12T21:56:07+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.994012176990509,victorious/,0.0,0.0,0.997191846370697,He worked for the victorious designated lead campaigns in the North East referendum 2004 the AV referendum 2011 and the EU referendum 2016
-2016-05-31T06:11:29+0000,,0.0,0.0,1.0,0.0,0.2888888888888889,NEGATIVE,-0.8523198962211609,numerical/,0.0,0.0,0.9659870266914368,Heres the list down below in numerical order
-2016-07-12T06:39:37+0000,,1.0,0.0,0.0,0.0258,0.0,NEGATIVE,-0.982176661491394,,0.0,0.0,0.0,sigh
-2016-05-31T06:11:29+0000,,0.0,0.0,1.0,0.0,1.0,POSITIVE,0.9994231462478638,,0.0,0.0,0.0,This ones priceless
-2016-06-27T15:40:39+0000,,0.243,0.0,0.757,0.8519,0.375,POSITIVE,0.9868481755256653,outside jolly old/huge/happy/even few/English/heavy/,0.1416666666666667,0.4375,0.014892766873041788,outside in the streets jolly old Nigel Farage was leading a huge crowd of happy foreigners - turks poles romanians syrians - there was even a few English people with heavy suntans mixed up in there
-2016-07-16T18:39:10+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.5478318333625793,,0.0,0.0,0.0,US Vs THEM
-2016-06-01T10:33:56+0000,,0.0,0.0,1.0,0.0,0.125,POSITIVE,0.9684457182884216,fellow/same/,0.0,0.0625,0.7558137476444244,Our fellow man-all on the same side
-2016-06-22T22:05:13+0000,,0.351,0.0,0.649,0.4019,0.3333333333333333,POSITIVE,0.7900807857513428,,0.0,0.0,0.0,When Britain first at heavens command 
-2017-03-02T17:39:38+0000,,0.045,0.288,0.667,-0.926,0.5833333333333334,NEGATIVE,-0.8606137633323669,french/unable/brutal/many/bataclan/,-0.175,0.4,0.17451553344726561,Is the french system unable to make such a distinction or are they just out to deny and cover up the brutal reality of these peoplehmmm a bit like they did with the brutal way in which many victims were mutilated in the bataclan attack
-2016-07-25T16:44:18+0000,,0.123,0.0,0.877,0.4497,1.0,NEGATIVE,-0.8967747688293457,,0.0,0.0,0.0,But when these people who have this power are themselves accomplices and traitors a solution only remains  raising up against them asin 1688-1689 
-2017-02-17T10:51:34+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9960544109344482,,0.0,0.0,0.0,Bring It On Warlord
-2016-06-22T21:02:47+0000,,0.072,0.077,0.851,-0.0258,0.16666666666666666,POSITIVE,0.8129774928092957,Selfless/,0.0,0.0,-0.7568472027778625,Selfless enthusiasts fight with zeal to liberate at first the peoples of the UK but after too Europe from the European Union
-2016-05-31T06:11:29+0000,,0.0,0.218,0.782,-0.7783,0.2692307692307692,NEGATIVE,-0.9968968629837036,false/complete/regular/ample/,-0.07500000000000001,0.2692307692307692,0.00720570981502533,All these false claims made by the remainians coupled with the fraud corruption and complete waste of money on a regular basis by the eu is ample reason to vote to leave
-2016-07-15T13:53:39+0000,,0.0,0.0,1.0,0.0,0.375,NEGATIVE,-0.9963800311088562,multi/-/kulti/other/cultural/,-0.004999999999999999,0.095,0.568583071231842,A UKIP government must dismantle the state policy of multi-kulti-ism which is none other that state sponsorship of cultural-Bolshevism
-2016-06-21T21:52:35+0000,,0.0,0.0,1.0,0.0,0.3333333333333333,NEGATIVE,-0.919933557510376,first/,0.25,0.3333333333333333,0.912291407585144,Hurry up and be the first to bid for a reason
-2016-06-08T06:18:30+0000,,0.13,0.0,0.87,0.4019,0.5,POSITIVE,0.9837967753410339,lesser/,0.0,0.5,-0.9912119507789612,Yes Mr Cameron the UK Parliament and even you in lesser forms by not finding an alternative to it
-2016-09-10T07:49:31+0000,,0.05,0.0,0.95,0.2023,0.3181818181818182,NEGATIVE,-0.9973147511482239,top/,0.5,0.5,0.9958789348602295,Then New Zealand will sacrifice a thousand lambs Ghana will ask if it can go back to being called the Gold Coast and Britain will resume hand-making Land Rovers and top hats and Sheffield plate teapots
-2016-06-22T21:02:47+0000,,0.0,0.065,0.935,-0.1027,0.19444444444444448,POSITIVE,0.9964308738708496,,0.0,0.0,0.0,As it was outlined above this oligarchy imposes its laws to the Parliamants of the States and down to the peoples
-2016-06-22T22:15:09+0000,,0.174,0.0,0.826,0.2263,0.0,NEGATIVE,-0.978329062461853,prepared/,0.0,0.0,0.9916189908981323,Be prepared to see your brains going out of UK
-2016-06-21T12:11:04+0000,,0.0,0.0,1.0,0.0,0.5,NEGATIVE,-0.9672735333442688,,0.0,0.0,0.0,EU law might just be the start of such a system
-2016-07-15T12:18:52+0000,,0.114,0.219,0.667,-0.2732,0.55,NEGATIVE,-0.9996452331542969,blue/,0.0,0.1,0.9410604238510132,The blue queen responds angrily with her battle cry Ã¢ÂÂBrexit means BrexitÃ¢ÂÂ but to no avail because by now the invaders have landed bypassed our heroes and are soliciting the natives
-2016-07-11T18:59:47+0000,,0.0,0.091,0.909,-0.4767,0.3571428571428571,NEGATIVE,-0.9863733053207397,right/same/incorrect/wrong/,-0.053571428571428575,0.39017857142857143,-0.12212257087230682,kinda  mentioned that just because the majority wants something to be done which they consider right the same cannot be given effect to if the same is per se incorrect or wrong
-2016-06-24T18:19:14+0000,,0.658,0.0,0.342,0.8625,0.5,POSITIVE,0.9945976734161377,better/,0.5,0.5,0.9811028838157654,Congratulations United Kingdom - or better England and Wlaes
-2016-07-03T23:11:31+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9837612509727478,,0.0,0.0,0.0,Britannia rule the waves
-2016-06-21T12:11:04+0000,,0.0,0.0,1.0,0.0,0.4,POSITIVE,0.997566819190979,Wide/,-0.1,0.4,-0.6674494743347168,In 1989 Tim Berners-Lee invented the World Wide Web
-2016-06-08T06:18:30+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9407587051391602,,0.0,0.0,0.0,PS
-2016-06-08T06:18:30+0000,,0.0,0.0,1.0,0.0,0.5,NEGATIVE,-0.948637843132019,,0.0,0.0,0.0,Lets go further in the meaning of the word hypocrisy
-2016-06-24T05:12:00+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9793638586997986,,0.0,0.0,0.0,Rule Britannia
-2017-01-07T12:35:22+0000,,0.23,0.0,0.77,0.1258,0.875,NEGATIVE,-0.9892129302024841,so silly/,-0.5,0.875,-0.9703646302223206,So why are they so silly
-2016-09-26T17:48:36+0000,,0.152,0.0,0.848,0.3612,0.0,NEGATIVE,-0.532662570476532,fast/,0.2,0.6,0.9541959762573242,It takes any US administration years to get Congress to grant fast-track or renewextend it
-2016-07-25T16:44:18+0000,,0.212,0.18,0.608,0.0516,0.7777777777777777,NEGATIVE,-0.9835523962974548,violent/clearly determined/,-0.35000000000000003,0.6916666666666667,0.0022196173667907715,After the referundum result a minority I presume and I hope of the 48 % rose up against the decision of the people with violent ways and clearly determined to block it 
-2016-05-31T06:11:29+0000,,0.0,0.545,0.455,-0.34,0.0,POSITIVE,0.6723700165748596,European/,0.0,0.0,0.9924916625022888,European arrest warrant
-2016-06-22T22:05:13+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9837612509727478,,0.0,0.0,0.0,Britannia rule the waves
-2016-06-22T21:02:47+0000,,0.324,0.0,0.676,0.34,0.0,NEGATIVE,-0.7467731237411499,KÃÂªrdiz/,0.0,0.0,-0.9838317632675171,Ur gwir galloud-lezenniÃÂ± e KÃÂªrdiz ha Dinedin 
-2016-06-07T18:12:16+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.8582214117050171,,0.0,0.0,0.0,My summary
-2016-05-23T18:22:35+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9979028701782227,,0.0,0.0,0.0,I think Britain should stay out
-2016-06-13T18:07:35+0000,,0.0,0.055,0.945,-0.1027,0.625,NEGATIVE,-0.9907139539718628,able/upcoming/,0.25,0.3125,0.995810866355896,Nigel Farage UKIP leader warns that the UK will not be able to handle the upcoming surge of migrants if it stays in the EU
-2016-08-11T10:42:28+0000,,0.124,0.0,0.876,0.34,0.0,POSITIVE,0.5504580140113831,,0.0,0.0,0.0,They cycled through vineyards and swam in rivers and played with wood piles and insects in the garden
-2016-06-22T21:50:41+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.8496960997581482,,0.0,0.0,0.0,Nobel prices are for Remain
-2016-06-13T18:07:35+0000,,0.0,0.055,0.945,-0.1027,0.625,NEGATIVE,-0.9907139539718628,able/upcoming/,0.25,0.3125,0.995810866355896,Nigel Farage UKIP leader warns that the UK will not be able to handle the upcoming surge of migrants if it stays in the EU
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.98403000831604,diwar/,0.0,0.0,-0.8722130060195923,Er Rouantelezh-Unanet avat e vo Diriaou ur poblaters diwar-benn ar Brexit
-2016-06-21T12:11:04+0000,,0.0,0.0,1.0,0.0,0.4,POSITIVE,0.9934701919555664,human/,0.0,0.1,0.9991195797920227,If we go back far enough in history we are all descended from human beings who moved country
-2016-06-21T12:11:04+0000,,0.0,0.307,0.693,-0.4767,0.0,NEGATIVE,-0.9916438460350037,,0.0,0.0,0.0,All that mattered was that Hitler was defeated
-2016-06-21T12:11:04+0000,,0.0,0.433,0.567,-0.7469,0.0,POSITIVE,0.8433892726898193,,0.0,0.0,0.0,But World War Two ended 71 years ago
-2017-01-12T21:54:19+0000,,0.067,0.0,0.933,0.3612,0.38,NEGATIVE,-0.8472630381584167,horizontal/wide/more/wider/post/-/Brexit/industrial/British/fit/global/,0.07272727272727274,0.11818181818181818,0.5790997039188038,Since WTO rules only permit horizontal economy-wide measures it makes more sense to consider the Ã¢ÂÂproblemÃ¢ÂÂ of EU tariffs as part of a wider post-Brexit industrial strategy to make British business fit to compete in a global market
-2016-08-11T10:42:28+0000,,0.107,0.0,0.893,0.2846,0.3441666666666667,POSITIVE,0.8841280937194824,very least/fun/broad/,-0.009166666666666675,0.3441666666666667,-0.20540056626001993,At the very least we have had fun experiences but my broad intention was to widen our childrens horizons
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9971730709075928,,0.0,0.0,0.0, Traditions 
-2016-06-30T23:28:57+0000,,0.0,0.138,0.862,-0.34,0.0,NEGATIVE,-0.9994321465492249,disorderly/,0.0,0.0,-0.999188244342804,He lamented that the EUmpire was Ã¢ÂÂheading for a disorderly disintegrationÃ¢ÂÂ after the Ã¢ÂÂcatastrophic scenarioÃ¢ÂÂ of Brexit
-2016-05-31T06:11:29+0000,,0.0,0.167,0.833,-0.296,0.0,NEGATIVE,-0.9977566599845886,unchecked/unhindered/,0.0,0.0,-0.9346173405647278,Weve no idea who is travelling around Europe unchecked unhindered and un-noticed
-2016-07-15T13:53:39+0000,,0.294,0.334,0.371,-0.1027,0.175,NEGATIVE,-0.5845693945884705,,0.0,0.0,0.0,War is often indeed usually won or lost by the power of propaganda to inspire supporters and dispirit the enemy
-2016-06-27T15:40:39+0000,,0.353,0.0,0.647,0.8979,0.65,POSITIVE,0.9909676909446716,best/,1.0,0.3,0.9960646033287048,England just won the World Cup & The Ashes & The Grand National and heres the best bit - Boris put a bet on it for everyone
-2016-05-31T06:11:29+0000,,0.0,0.0,1.0,0.0,1.0,NEGATIVE,-0.9971363544464111,,0.0,0.0,0.0,Only for foreigners ripping off our NHS
-2016-06-13T18:07:35+0000,,0.0,0.0,1.0,0.0,0.2,POSITIVE,0.8689595460891724,,0.0,0.0,0.0,Really
-2016-07-25T16:44:18+0000,,0.156,0.0,0.844,0.34,0.0,NEGATIVE,-0.9983168840408325,,0.0,0.0,0.0,Lu ha dislavarus penn-da-benn eo arguzennoÃÂ¹ hag emzalcÃ¢ÂÂh ar remainers drelatet  etre traoÃÂ¹ all 
-2016-07-14T07:49:18+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.5377632975578308,,0.0,0.0,0.0,My petition
-2016-06-22T21:02:47+0000,,0.5,0.0,0.5,0.25,1.0,POSITIVE,0.9754592180252075,necessary/,0.0,1.0,0.9595521092414856,chance if necessary
-2016-06-22T21:50:41+0000,,0.212,0.166,0.622,-0.0258,0.5,NEGATIVE,-0.995410144329071,several/,0.0,0.0,0.823158323764801,Would you like to see the pound collapse only several minutes after a verdict of Brexit
-2016-09-14T20:47:50+0000,,0.086,0.0,0.914,0.128,0.13333333333333333,NEGATIVE,-0.963134765625,politically incompatible/diverse/legal/,0.06666666666666667,0.10000000000000002,0.33066701889038086,I have being starting to believe that UK is politically incompatible with Europe because of diverse legal systems
-2017-01-07T12:35:22+0000,,0.0,0.0,1.0,0.0,0.5,POSITIVE,0.9173222184181213,,0.0,0.0,0.0,For their understanding of the world they rely more on what they see for themselves and experience
-2016-06-22T21:02:47+0000,,0.122,0.0,0.878,0.3612,0.0,NEGATIVE,-0.9979617595672607,,0.0,0.0,0.0,Pa seller a-dostoch ouzh o emzalchioÃÂ¹ e-pad ar chabalerezh evit ar poblaters e verzer splann ez int evit gwir evit U-E
-2016-07-25T16:44:18+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9705438017845154,Mezheven/,0.0,0.0,0.776646614074707,Kudenn ar Brexit  renket dÃ¢ÂÂan 23 Mezheven pÃ¢ÂÂo deus divizet ar muianiver eus ar vouezherion 52% kuitaat an U-E  gallout a reer kompren aes a-walcÃ¢ÂÂh e oa dipitet ae 48 % eus an disocÃ¢ÂÂh  naturel eo pa goller dilennadegoÃÂ¹ pe vouezhiadegoÃÂ¹
-2016-12-08T11:00:00+0000,,0.432,0.0,0.568,0.5859,0.6000000000000001,POSITIVE,0.9894670844078064,,0.0,0.0,0.0,DESERVING TO WIN 11A  Ã¢ÂÂIMPERIAL NOSTALGIAÃ¢ÂÂ
-2016-06-08T06:18:30+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9407587051391602,,0.0,0.0,0.0,PS
-2016-11-09T21:37:27+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9729747772216797,,0.0,0.0,0.0,Divided we fall
-2015-09-19T12:55:17+0000,,0.0,0.0,1.0,0.0,0.21666666666666667,NEGATIVE,-0.9803488850593567,Thee/haughty/,0.0,0.0,-0.0021862685680389404,Thee haughty tyrants neer shall tame
-2016-11-09T21:37:27+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9202620387077332,,0.0,0.0,0.0,To reverse the decision
-2016-06-13T18:07:35+0000,,0.0,0.0,1.0,0.0,0.26693121693121696,POSITIVE,0.5774039030075073,such/most iconic/political/UKs/,0.125,0.275,0.4938078224658966,Over forty years ago Britain last debated her relationship with Europe and even then elected officials on both the right and left such as two of the most iconic political figures of that era Enoch Powell and Tony Benn campaigned against the UKs membership in what was then the European Economic Community
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.5,NEGATIVE,-0.9961452484130859,biological/onlyA/,0.0,0.0,0.9600611329078674,A biological element generally comprising a head a body two arms two feetThis and this onlyA language 
-2017-01-12T21:54:19+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9727321863174438,,0.0,0.0,0.0,William Norton
-2016-03-14T21:47:06+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9790600538253784,,0.0,0.0,0.0,We are with Europe but not of it
-2016-06-25T12:54:06+0000,,0.194,0.0,0.806,0.6249,0.75,POSITIVE,0.9989532232284546,industrial/great/,0.4,0.375,0.9399963319301605,The industrial revolution and the sufferagette movement great examples of how the UK has influenced the world stage
-2016-07-15T13:53:39+0000,,0.137,0.049,0.814,0.5719,0.65,NEGATIVE,-0.9750980734825134,best/,1.0,0.3,0.9960646033287048,Those cultures and individuals that do not submit to Sharia exist at best in a state of rebellion with Allah and are to be forcibly brought into submission
-2016-06-28T15:57:08+0000,,0.258,0.176,0.566,0.5574,0.7000000000000001,NEGATIVE,-0.9984128475189209,collective/collectively worse/,-0.2,0.3,-0.0012651681900024414,If the collective EU Membership Sovereign Government Debt to GDP Ratio  with Great Britten in gets collectively worse with Great Britten exiting 
-2017-01-18T01:26:19+0000,,0.0,0.286,0.714,-0.0516,0.0,POSITIVE,0.8036268353462219,,0.0,0.0,0.0,Leave Them to it
-2016-07-27T09:43:16+0000,,0.057,0.062,0.881,-0.0772,0.4,NEGATIVE,-0.9439967274665833,illegal/,-0.5,0.5,-0.9730883240699768,And the ruling given to King Edward 3rd in 1366 in which he was told that King JohnÃ¢ÂÂs action in surrendering England to the Pope and ruling England as a Vassal King to Rome was illegal because England did not belong to John he only held it in trust for those who followed on
-2016-06-22T22:05:13+0000,,0.351,0.0,0.649,0.4019,0.3333333333333333,POSITIVE,0.7900807857513428,,0.0,0.0,0.0,When Britain first at heavens command 
-2016-07-15T13:53:39+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9421584010124207,armed/genocidal/political/bent/,0.0,0.025,0.4113134890794754,He understands that we face armed adherents of a genocidal religio-political ideology bent on world-domination and on subjugation of all peoples to the reign of iron-medievalism under Sharia
-2016-07-16T18:39:10+0000,,0.071,0.342,0.587,-0.8775,0.8400000000000001,NEGATIVE,-0.9994786381721497,Conservative/bad/mad/easy/completely confused/totally bored/,-0.2986111111111111,0.7000000000000001,-0.6970773239930471,With the Labour Opposition leadership being fought and the leadership of the Conservative government going from bad to mad itÃ¢ÂÂs easy to get completely confused or totally bored over Brexit
-2017-02-12T22:33:20+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9983910918235779,,0.0,0.0,0.0,Coudenhove-Kalergi Plan
-2016-07-15T13:53:39+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9495976567268372,,0.0,0.0,0.0,What should that policy be
-2016-06-30T23:28:57+0000,,0.0,0.33,0.67,-0.7845,0.0,NEGATIVE,-0.9167672991752625,ongoing/,0.0,0.0,0.9884178042411804,What lies beneath the so-called Merkel Plan to deal with the ongoing refugee crisis in Europe
-2017-03-29T11:30:57+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.8478839993476868,,0.0,0.0,0.0,httpwwwbrexitbiblecoukarticle-50-has-been-triggered
-2016-11-09T21:37:27+0000,,0.0,0.583,0.417,-0.4215,0.0,NEGATIVE,-0.9991915822029114,,0.0,0.0,0.0,We ticked Self-destruct
-2017-01-07T12:35:22+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9913409352302551,,0.0,0.0,0.0,They expect and intend to prevail
-2017-03-02T17:39:38+0000,,0.036,0.274,0.691,-0.8834,1.0,NEGATIVE,-0.9996553659439087,nasty/evil/,-1.0,1.0,-0.9973601996898651,If someone posts or reposts video or photo footage of atrocities as a demonstration of what nasty evil poeple IS are how on earth could the law be used to prosecute them
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.08333333333333334,POSITIVE,0.997742772102356,human/last/,0.0,0.08333333333333334,0.8204346895217896,What is an human being at last 
-2017-03-03T11:06:08+0000,,0.244,0.0,0.756,0.6705,0.0,NEGATIVE,-0.7757288813591003,rapturous/,0.0,0.0,0.9893693923950195,A QUESTION Time audience member received a rapturous applause after hitting back at claims Brexiteers didnÃ¢ÂÂt know what they voted for
-2016-07-11T18:59:47+0000,,0.773,0.0,0.227,0.5267,0.0,POSITIVE,0.9930417537689209,,0.0,0.0,0.0,On Liberty
-2016-06-27T15:40:39+0000,,0.271,0.0,0.729,0.3818,0.0,POSITIVE,0.9895550012588501,,0.0,0.0,0.0,- Credit to  Digikazi  on the Guardian comment section
-2016-05-13T13:24:37+0000,,0.225,0.0,0.775,0.4939,0.5,POSITIVE,0.9533785581588745,,0.0,0.0,0.0,These ideas are explored further at euroutnet if you care to look
-2016-06-08T06:18:30+0000,,0.0,0.0,1.0,0.0,1.0,POSITIVE,0.9135860204696655,,0.0,0.0,0.0,Compare to what have been already done there so far it is a firecracker done to Europe ladies and gents
-2016-06-22T21:02:47+0000,,0.167,0.0,0.833,0.34,0.0,POSITIVE,0.7244024872779846,,0.0,0.0,0.0,Ha rivinet e vo evel-just Breizh-Veur pa ne chall ket tremen hep an U-E
-2017-03-26T13:11:52+0000,,0.0,0.245,0.755,-0.6369,0.15555555555555556,NEGATIVE,-0.9903913736343384,public/overwhelmingly negative/,-0.15,0.23333333333333334,-0.012193024158477783,coverage of Brexit has found the public broadcaster has been overwhelmingly negative about Britain leaving the European Union
-2017-01-07T12:35:22+0000,,0.289,0.0,0.711,0.7845,0.9,POSITIVE,0.9929191470146179,morally superior/virtuous/,0.35,0.45,0.9958377480506897,They also think they are morally superior because they hold to the views which they were told were virtuous
-2016-05-31T06:11:29+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9645386338233948,,0.0,0.0,0.0,25
-2016-04-24T07:29:24+0000,,0.189,0.0,0.811,0.5994,0.25,POSITIVE,0.9969401359558105,historical/ever greater/,0.25,0.25,0.9964238703250885,And also with our ingenuity for development our inventiveness our historical experience our pride in ourselves which pushed us to ever greater development
-2017-01-07T12:35:22+0000,,0.0,0.072,0.928,-0.1027,0.5416666666666666,NEGATIVE,-0.9986428618431091,hard/misguided/,-0.14583333333333334,0.2708333333333333,-0.8481155037879944,Getting to the point where you cant imagine voting for Brexit or Trump takes years of hard misguided study
-2017-03-14T02:59:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.997033953666687,,0.0,0.0,0.0,#Brexit #DontLetTheEURuleBritannia
-2016-06-21T12:11:04+0000,,0.206,0.13,0.664,0.3182,0.55,POSITIVE,0.9746960997581482,different/greater/,0.25,0.55,0.044216543436050415,The Allies won World War Two TOGETHER because they set aside their different backgrounds looks accents and cultures in pursuit of a greater cause
-2016-06-22T22:05:13+0000,,0.0,0.2,0.8,-0.0644,0.0,NEGATIVE,-0.6599082350730896,,0.0,0.0,0.0,And Guardian Angels sang this strain 
-2016-04-15T19:18:28+0000,,0.667,0.0,0.333,0.7184,0.30000000000000004,POSITIVE,0.9952647686004639,Good/British/,0.35,0.30000000000000004,0.9437560737133026,Good evening my British Friends
-2017-01-05T09:49:54+0000,,0.225,0.0,0.775,0.4404,0.1,POSITIVE,0.6869214773178101,medieval/,0.0,0.0,0.7690386772155762,httppaperliTheLuxuryBoyz1429523382edition_id=2e682de0-d32c-11e6-a091-002590a5ba2d Ã¢ÂÂ¦ Thanks to @GenesisSettles @LUXmovingimage #brexit #medieval httprssdatanetN2WRNH eBay Brexitrssdatanet
-2016-07-25T16:44:18+0000,,0.0,0.0,1.0,0.0,1.0,NEGATIVE,-0.9824318289756775,advisory/,0.0,0.0,0.9790176749229431,It is proclaimed for exemple that the will of the people has only an advisory meaning 
-2016-09-10T07:49:31+0000,,0.0,0.0,1.0,0.0,0.6875,POSITIVE,0.9492546319961548,,0.0,0.0,0.0,We all know what they mean
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.6148484349250793,,0.0,0.0,0.0,But for relocating it in Brussels
-2016-06-22T22:15:09+0000,,0.394,0.0,0.606,0.6378,0.2722222222222222,POSITIVE,0.6330834627151489,prepared/less rich/Irish/,0.034722222222222224,0.1361111111111111,0.8987222711245219,Be prepared to be less rich than your Irish neighbourgs
-2016-07-11T18:59:47+0000,,0.0,0.279,0.721,-0.7845,0.546875,NEGATIVE,-0.9862834215164185,whole/erroneous/further/,-0.09999999999999999,0.5,0.3279840548833211,No doubt the Tory leadership is at fault in the whole exercise but that doesnt mean for an erroneous decision to be continued or perpetrated any further
-2016-05-31T06:11:29+0000,,0.0,0.0,1.0,0.0,1.0,NEGATIVE,-0.9980023503303528,only polite/correct/,0.0,0.5,0.21372920274734497,Having read the reasons to remain in the eu I thought it only polite to read them through and see if they were correct
-2016-09-10T07:49:31+0000,,0.0,0.0,1.0,0.0,0.2,POSITIVE,0.996752142906189,European/,0.0,0.0,0.9924916625022888,The restaurant was a European invention naturally
-2017-01-03T11:00:00+0000,,0.264,0.0,0.736,0.8271,0.4583333333333333,POSITIVE,0.9938708543777466,Much/full/able/,0.35000000000000003,0.4583333333333333,0.9523040453592936,Much will change some of it in our favour and if we stay full of hope and energy we will be able to make use of the chances that will come
-2017-01-18T01:26:19+0000,,0.204,0.0,0.796,0.6249,0.375,NEGATIVE,-0.9981594681739807,great/British/,0.4,0.375,0.9730967283248901,There is a great lie peddled about the referendum that it expressed the will of the British people
-2016-05-31T06:11:29+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.6842033267021179,,0.0,0.0,0.0,31
-2016-02-27T20:50:26+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9790600538253784,,0.0,0.0,0.0,We are with Europe but not of it
-2016-06-01T10:33:56+0000,,0.0,0.0,1.0,0.0,1.0,NEGATIVE,-0.8482788801193237,own/,0.6,1.0,0.9662814140319824,And for their own ends tell lie after lie
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.7104883193969727,,0.0,0.0,0.0,Met a zo gweloch
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9804650545120239,,0.0,0.0,0.0,The Brexit could be the begining of the end of the E-U
-2016-06-22T22:05:13+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9837612509727478,,0.0,0.0,0.0,Britannia rule the waves
-2016-06-04T14:58:25+0000,,0.189,0.086,0.726,0.8316,0.4666666666666666,POSITIVE,0.9882799386978149,warmly encouraged/excellent/available/free/,0.6,0.7,0.9208887219429016,Any Christians who still doubt the nature and direction of the impending EUtopia which lies ahead of us unless we vote to leave are warmly encouraged to read an excellent wee booklet entitled Ã¢ÂÂA Christian Perspective on the European Union and the ReferendumÃ¢ÂÂ published by and available free of charge from Intercessors for Britain 14 Orchard Road Moreton Wirral Merseyside CH46 8TS Tel
-2017-02-17T16:00:47+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9981877207756042,,0.0,0.0,0.0,The brass neck of Tony Blair
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9680913090705872,,0.0,0.0,0.0,Met ne vern ar ger ma neo dres nemet ur ger skarzhet dioutaÃÂ± pep talvoudegezh
-2016-06-22T22:05:13+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9547426700592041,,0.0,0.0,0.0,Chorus 
-2016-06-21T12:11:04+0000,,0.0,0.0,1.0,0.0,0.25,POSITIVE,0.9937211275100708,Many/British/,0.25,0.25,0.9379567503929138,Many British people today are descended from Vikings Anglo Saxons or Normansie
-2016-05-31T06:11:29+0000,,0.209,0.093,0.698,0.3612,0.15,POSITIVE,0.674246072769165,Paid/early/20th/,0.03333333333333333,0.09999999999999999,0.8632757465044657,Paid holiday leave has been around since the early 20th century
-2016-09-14T20:47:50+0000,,0.0,0.0,1.0,0.0,0.3,NEGATIVE,-0.9165324568748474,political/,0.0,0.1,0.7064269185066223,Canada Ireland UK and USA are countries with a political system based in Common Law while the rest of Europe are countries using Roman Law
-2016-06-30T23:28:57+0000,,0.0,0.069,0.931,-0.25,0.3833333333333333,NEGATIVE,-0.99078768491745,anti/-/Brexit/pro/mass/full/such/23rd/,0.04375,0.13125,0.40978994220495224,ii the anti-Brexit and pro-mass-migration propaganda being pumped-out at full volume by Remainaic outlets such as the BBC since 23rd June which aims at overturning the Brexit vote
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9994732737541199,,0.0,0.0,0.0,These structures have a name
-2017-01-12T21:54:19+0000,,0.0,0.0,1.0,0.0,0.5,POSITIVE,0.9899647831916809,numerous/,0.0,0.5,0.8797418475151062,Among numerous articles papers and books William is the author of Monument and Bank Capitalism and the Anglo-Saxon Mind SAU 2011
-2017-01-12T21:56:07+0000,,0.187,0.0,0.813,0.4964,0.5,NEGATIVE,-0.9919312596321106,more relaxed/most/,0.5,0.5,0.9650430381298065,The rules are slightly more relaxed for Ã¢ÂÂagricultural productsÃ¢ÂÂ which includes most foods and beverages
-2016-06-08T06:18:30+0000,,0.0,0.099,0.901,-0.296,0.375,POSITIVE,0.9968796968460083,other/,-0.125,0.375,0.8730196356773376,The other way around got us all in this situation and I think this is a fact that we can no longer dismiss
-2017-01-07T12:35:22+0000,,0.0,0.306,0.694,-0.296,0.0,NEGATIVE,-0.9913061261177063,,0.0,0.0,0.0,There is no analysis of counter-arguments
-2017-03-28T20:00:09+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.997033953666687,,0.0,0.0,0.0,#Brexit #DontLetTheEURuleBritannia 
-2016-06-22T21:02:47+0000,,0.13,0.0,0.87,0.34,0.0,NEGATIVE,-0.9925723671913147,bet/,0.0,0.0,0.9137455224990845,Ha klaoustre e vefe bet prest da reiÃÂ± un trede ur pevare ur pempvetchaÃÂ±s ma befe bet dav
-2016-07-25T16:44:18+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9698178172111511,,0.0,0.0,0.0,Ma ne reont ket pezh a cÃ¢ÂÂhoarvez er mare-maÃÂ± e savont a-enep da ziviz ar bobl  TRUBARDEREZH-UHEL A CÃ¢ÂÂHALLER OBER EUS SE
-2016-11-09T21:37:27+0000,,0.0,0.347,0.653,-0.1513,1.0,NEGATIVE,-0.9999445676803589,so sorry/,-0.5,1.0,-0.9997894167900085,Were so sorry Britain
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.843375563621521,,0.0,0.0,0.0,da gentaÃÂ± met Europa ivez da choude diouzh Unaniezh Europa
-2016-06-22T22:05:13+0000,,0.277,0.0,0.723,0.3182,0.9,POSITIVE,0.9950569868087769,fair/,0.7,0.9,-0.9951516389846802,And manly hearts to guard the fair
-2016-08-19T07:54:55+0000,,0.11,0.0,0.89,0.3818,0.3833333333333333,NEGATIVE,-0.9980588555335999,clear/,0.10000000000000002,0.3833333333333333,0.9989956021308899,And we have to be clear that demonstrating for Europe without a focus on a mechanism to effect a decision will not get us anywhere
-2016-06-30T23:12:47+0000,,0.0,0.091,0.909,-0.5267,0.30714285714285716,NEGATIVE,-0.9981038570404053,large/real/enough/Roman/,0.10357142857142856,0.30714285714285716,-0.2880238890647888,Although large parts of the real Brits who had not enough tradition  in warfare and the Kelts had become Roman Catholics while the county was occupied by the Romans no soldiers from the Romans defended them and the Roman army  had already left the island also
-2017-03-14T02:59:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.997033953666687,,0.0,0.0,0.0,#Brexit #DontLetTheEURuleBritannia
-2016-07-25T16:44:18+0000,,0.0,0.135,0.865,-0.5994,0.0,NEGATIVE,-0.9992651343345642,holl/,0.0,0.0,0.5334894061088562,-kudenn ar goude-Brexit a chom en entremar evit abegoÃÂ¹ nÃ¢ÂÂeus den ebet war an Douar-Bras evit o cÃ¢ÂÂhrediÃÂ± pa grede betek-hen an holl e oa ar Rouantelezh-Unanet un demokratelezh
-2016-09-10T07:49:31+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9984782338142395,,0.0,0.0,0.0,ItÃ¢ÂÂs not just business itÃ¢ÂÂs not going to be all reason and goodwill
-2017-01-12T21:54:19+0000,,0.0,0.0,1.0,0.0,0.5,POSITIVE,0.9899647831916809,numerous/,0.0,0.5,0.8797418475151062,Among numerous articles papers and books William is the author of Monument and Bank Capitalism and the Anglo-Saxon Mind SAU 2011
-2016-06-21T12:11:04+0000,,0.227,0.052,0.721,0.8316,0.2571428571428571,NEGATIVE,-0.8806791305541992,British/normal/human/great/,0.23750000000000002,0.375,0.52049121260643,Because the British people knew that their Ã¢ÂÂforeignÃ¢ÂÂ Allies were not really Ã¢ÂÂforeignÃ¢ÂÂ at all - they were normal human beings just like the British human beings who chose to stand together in a great struggle for peace
-2016-07-12T06:39:37+0000,,0.358,0.0,0.642,0.8658,0.48484848484848486,POSITIVE,0.8603724241256714,new/larger/decisive/,0.04545454545454545,0.3181818181818182,0.8499436378479004,Sincerely wish the new Prime Minister keep in mind a larger vision where the UK plays a decisive role that seeks to unite Europe rather than divide it
-2016-06-23T12:41:43+0000,,0.0,0.254,0.746,-0.5267,0.3333333333333333,NEGATIVE,-0.9999083280563354,FIRST/,0.25,0.3333333333333333,0.912291407585144,ItÃ¢ÂÂs shooting on your feet UK will be the FIRST loser
-2016-07-15T12:18:52+0000,,0.0,0.153,0.847,-0.4023,0.51,NEGATIVE,-0.9999068975448608,thin/blue/aged/,-0.16666666666666666,0.45,-0.3526159922281901,Suddenly from somewhere behind the thin blue line an aged crone calls out Ã¢ÂÂTheyÃ¢ÂÂre not heroes
-2016-08-11T10:42:28+0000,,0.0,0.0,1.0,0.0,0.3,NEGATIVE,-0.7542339563369751,,0.0,0.0,0.0,Open or closed
-2016-07-25T16:44:18+0000,,0.105,0.0,0.895,0.5859,0.0,NEGATIVE,-0.9699779748916626,U/,0.0,0.0,-0.6057270169258118,Ur gudenn a vefe a-hervez e Breizh-Veur abalamour dar Brexit dibabet gant ar bobl a-enep da zibab ar remainers  ha ma vefe bet eilpennet an disocÃ¢ÂÂh ha mhe defe dibabet ar bobl chom en U-E daoust hag e vefe ivez ur gudenn peogwir e tisplij dar Vrexiters 
-2016-06-21T12:11:04+0000,,0.0,0.0,1.0,0.0,0.25,POSITIVE,0.9937211275100708,Many/British/,0.25,0.25,0.9379567503929138,Many British people today are descended from Vikings Anglo Saxons or Normansie
-2016-07-11T18:59:47+0000,,0.0,0.0,1.0,0.0,0.25,POSITIVE,0.9646892547607422,,0.0,0.0,0.0,And perhaps thats exactly why they have elected representatives
-2016-06-25T05:18:54+0000,,0.0,0.3,0.7,-0.7184,0.0,NEGATIVE,-0.9989259839057922,,0.0,0.0,0.0,and we just sit there consumng the bullshit and not stand up and stop these politicians
-2017-01-12T21:56:07+0000,,0.0,0.091,0.909,-0.296,0.16666666666666666,NEGATIVE,-0.9875218272209167,specific/other/British/,-0.041666666666666664,0.16666666666666666,0.9408770600954691,Provided programmes are not tied in principle or in practice to any specific industry no other member state can retaliate against British goods
-2016-06-22T22:15:09+0000,,0.394,0.0,0.606,0.6378,0.2722222222222222,POSITIVE,0.6330834627151489,prepared/less rich/Irish/,0.034722222222222224,0.1361111111111111,0.8987222711245219,Be prepared to be less rich than your Irish neighbourgs
-2016-06-24T16:52:52+0000,,0.0,0.0,1.0,0.0,0.26,NEGATIVE,-0.9998248219490051,,0.0,0.0,0.0,Not really very much
-2016-09-10T07:49:31+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9877527952194214,,0.0,0.0,0.0,We all know what Ã¢ÂÂgetting our country backÃ¢ÂÂ means
-2016-06-27T15:40:39+0000,,0.535,0.0,0.465,0.3182,0.2,POSITIVE,0.9207063317298889,how much/,0.2,0.2,0.9153726696968079,how much please
-2016-06-27T12:38:41+0000,,0.0,0.121,0.879,-0.5719,0.1,NEGATIVE,-0.9648880362510681,big/,0.0,0.1,-0.7557539939880371,Media have big power and politicians when combined with Czech oligarch brainwashed people until chose the path to the destruction of our country - the path to the EU
-2016-06-30T23:28:57+0000,,0.154,0.031,0.815,0.8316,0.3886363636363636,NEGATIVE,-0.9993046522140503,such/native/German/new/splendid/vigorous/,0.16161616161616163,0.32575757575757575,0.6725211143493652,These propaganda campaigns include such frissons as state-sponsored sex-education videos and manuals aimed squarely at the native German audience and at their new refugee neighbours telling everyone the new rules on flirting and making love with German women and how to spot if the splendid and vigorous ladies of the Rhine are still maidens or not
-2015-09-19T12:55:17+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9934604167938232,,0.0,0.0,0.0,And every shore it circles thine
-2016-06-21T12:11:04+0000,,0.574,0.0,0.426,0.6597,0.0,POSITIVE,0.9921999573707581,,0.0,0.0,0.0,The EUÃ¢ÂÂs values are our values
-2016-04-24T07:29:24+0000,,0.0,0.0,1.0,0.0,0.325,POSITIVE,0.7825495004653931,past/,-0.25,0.25,-0.8294482827186584,Meanwhile our contribution to them has nearly doubled in the past five years
-2016-06-19T13:14:10+0000,,0.329,0.0,0.671,0.5319,0.0,POSITIVE,0.9935738444328308,,0.0,0.0,0.0,THIS WISH YOU 95% of citizens CZECH REPUBLIC
-2016-09-26T17:48:36+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.999553382396698,,0.0,0.0,0.0,A plant that send 8-15% is not
-2016-07-25T16:44:18+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9833035469055176,devez/Mezheven/diwar/nevez/,0.0,0.0,0.40909235179424286,-lavarout a reont nÃ¢ÂÂo devez ar poblatersoÃÂ¹ evel an hini tremenet dÃ¢ÂÂan 23 Mezheven talvoudegezh ebet nemet unan -kuzuliaÃÂ± met goulenn a reont reoÃÂ¹ all un 2l diwar-benn ar Brexit unan nevez diwar-benn dizalcÃ¢ÂÂhiezh -sic- AlbaÃ¢ÂÂ¦
-2016-06-08T06:18:30+0000,,0.183,0.219,0.597,-0.1372,1.0,NEGATIVE,-0.6856159567832947,weakest/,0.0,0.0,-0.9982423782348633,I can compare this practice so far as praying on the weakest
-2016-06-22T14:46:40+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9949824213981628,,0.0,0.0,0.0,Never come back
-2016-07-14T07:49:18+0000,,0.167,0.0,0.833,0.3818,0.0,POSITIVE,0.9973981380462646,dual/,0.0,0.0,0.9922335147857666,A Royal Yacht with dual role to promote trade around the world must be built
-2016-11-09T21:37:27+0000,,0.0,0.583,0.417,-0.4215,0.0,NEGATIVE,-0.9991915822029114,,0.0,0.0,0.0,We ticked Self-destruct
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9929580688476562,Ur/,0.0,0.0,-0.8367106318473816,Ur chaÃÂ±s dichortoz o do pobloÃÂ¹ ar R-U
-2016-07-25T16:44:18+0000,,0.321,0.321,0.357,0.0,0.3833333333333333,NEGATIVE,-0.9993064403533936,,0.0,0.0,0.0,Two problems to clearly differentiate 
-2016-09-10T07:49:31+0000,,0.0,0.0,1.0,0.0,0.6875,POSITIVE,0.9332835078239441,,0.0,0.0,0.0,Of course I know what they mean
-2016-06-22T22:05:13+0000,,0.0,0.2,0.8,-0.0644,0.0,NEGATIVE,-0.6599082350730896,,0.0,0.0,0.0,And Guardian Angels sang this strain 
-2016-05-31T06:11:29+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.8857710361480713,,0.0,0.0,0.0,22
-2016-06-13T18:07:35+0000,,0.377,0.091,0.532,0.5809,0.5,NEGATIVE,-0.9980170726776123,more/,0.5,0.5,0.9926474094390869,To create more jobs and growth is to Vote Leave
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9254346489906311,hollvedeladur/,0.0,0.0,0.7603939175605774,An hollvedeladur neo na nevez na fall dre ret en e bezh
-2016-06-30T23:28:57+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9036064743995667,,0.0,0.0,0.0,----------------------------------------------------------------------------
-2016-05-31T06:11:29+0000,,0.565,0.0,0.435,0.3818,0.0,POSITIVE,0.9926659464836121,Stronger/,0.0,0.0,0.9986152648925781,Stronger animal rights
-2016-07-16T18:23:06+0000,,0.067,0.081,0.852,-0.0772,0.06666666666666667,NEGATIVE,-0.8458510637283325,Anglo/French/feudal/legal/,0.05,0.05,0.4610064923763275,Bring back the Anglo-Saxon system and stuff the French feudal lords and legal rubbishingNigel Harris Price  BA Hons  Cert Ed  MIfL
-2017-01-07T12:35:22+0000,,0.066,0.115,0.82,-0.2023,0.325,NEGATIVE,-0.9995145797729492,liberal/strange/ordinary/,-0.09999999999999999,0.21666666666666667,-0.8710361321767172,For months the so-called liberal elite has been writing articles having radio and TV discussions giving sermons literally and making speeches in which it has struggled to understand those strange creatures ordinary people
-2016-06-21T12:11:04+0000,,0.181,0.0,0.819,0.4754,0.5839285714285715,POSITIVE,0.9990760087966919,most popular/,0.55,0.7,0.999610960483551,Game of Thrones is probably the most popular TV show in the world right now
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.5,NEGATIVE,-0.9211636185646057,little/,-0.1875,0.5,-0.7092337012290955,Which percentage of the population of Brittany talks a little bit Breton sometimes 
-2016-06-30T23:28:57+0000,,0.071,0.106,0.823,-0.3818,0.1733333333333333,NEGATIVE,-0.9874815940856934,titanic/internal/adequate/external/pro/-/refugee/faux/,0.041666666666666664,0.05416666666666667,0.2259259968996048,One of the titanic game-plans of the EUmpire is firstly to dismantle all internal borders then to abandon any adequate defence or patrol of Europas Mediterranean external borders and thereafter to launch pro-refugee propaganda campaigns to frame the narrative of this faux-crisis
-2017-02-12T22:33:20+0000,,0.14,0.062,0.798,0.2382,0.35,POSITIVE,0.9887140393257141,successive/economic/,0.1,0.1,0.9888999760150909,This can be accomplished by successive steps each disguised as having an economic purpose but which will eventually and irreversibly lead to federation
-2016-06-22T22:15:09+0000,,0.0,0.154,0.846,-0.2057,0.0625,NEGATIVE,-0.9979627132415771,same/,0.0,0.125,0.5141551494598389, and coming back will never be accepted at the same conditions
-2016-06-22T21:02:47+0000,,0.0,0.281,0.719,-0.5994,0.0,NEGATIVE,-0.9912495613098145,,0.0,0.0,0.0,Un istor rannet a-stroll gant tud all war un tiriad bennak 
-2017-01-12T21:56:07+0000,,0.07,0.102,0.828,-0.128,0.0,NEGATIVE,-0.9898096323013306,affected/,0.0,0.0,0.5773910284042358,By studying the distribution of UK businesses 69% of the funds would reach affected industries
-2016-06-22T22:15:09+0000,,0.0,0.0,1.0,0.0,0.16666666666666666,NEGATIVE,-0.7048467397689819,INNER/,0.0,0.16666666666666666,0.9976379871368408,Being impacted on the move by a INNER BREXIT of the CELTIC NATIONS around England your ambition
-2016-09-10T07:49:31+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9984265565872192,,0.0,0.0,0.0,Farage slurs it Gove insinuates it
-2016-11-09T21:37:27+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9428222179412842,too fizzy/,0.0,0.0,-0.9810845255851746,But he is too fizzy
-2016-05-31T06:11:29+0000,,0.0,0.0,1.0,0.0,0.45454545454545453,POSITIVE,0.9558261036872864,new/sycophantic/,0.06818181818181818,0.22727272727272727,0.022021502256393433,The new masters and their sycophantic hangers on
-2017-01-07T12:35:22+0000,,0.0,0.0,1.0,0.0,0.30000000000000004,POSITIVE,0.9948008060455322,shorter/real/longer/,0.06666666666666667,0.10000000000000002,0.20964455604553223,They were in the hands of the propagandists for a shorter time and have been in the real world for longer
-2016-06-13T06:38:06+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9974033236503601,,0.0,0.0,0.0,Every vote COUNTS
-2016-09-26T17:48:36+0000,,0.086,0.0,0.914,0.4404,0.05,NEGATIVE,-0.9967079162597656,,0.0,0.0,0.0,The EU is a member of the WTO Ã¢ÂÂ which means it cannot do any country a favour Ã¢ÂÂ what it gives a UK outside the EUEEA it has to offer to everyone thatÃ¢ÂÂs MFN
-2016-05-13T13:24:37+0000,,0.0,0.0,1.0,0.0,0.4,NEGATIVE,-0.8015785813331604,similar/,0.0,0.4,-0.9091814160346985,We must learn from history similar circumstances will probably lead to similar outcomes
-2016-05-31T06:11:29+0000,,0.0,0.0,1.0,0.0,0.5678571428571428,POSITIVE,0.9882739782333374,about right/,0.2857142857142857,0.5357142857142857,0.5610129237174988,500 million consumers within the eu is about right which means theres approximately 65 BILLION consumers in the rest of the world
-2016-04-16T10:28:27+0000,,0.143,0.235,0.622,-0.6124,0.5833333333333334,POSITIVE,0.5849584341049194,great/,0.8,0.75,0.99007648229599,Eventually though not necessarily immediately you will be killed if you do not take this mark however God forbids you to take this mark under threat of great wrath see Rev 14
-2016-06-08T06:18:30+0000,,0.222,0.153,0.625,0.2467,0.5222222222222223,POSITIVE,0.9636620879173279,more creative/,0.5,0.75,0.9993265867233276,It is less stressing and more creative than the way now
-2016-04-12T09:07:53+0000,,0.289,0.0,0.711,0.875,0.525,NEGATIVE,-0.8434646129608154,ready/clean/free/Roman/,0.24166666666666667,0.5,0.4772220700979233,If anyone wants to know what we are paying for ready the story of an existing MEP who comes clean on how our money flows like free wine in a Roman orgy
-2016-07-27T22:57:38+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9988111257553101,Ã¢ÂÂbig/,0.0,0.0,-0.9293614625930786,In 2009 Gordon Brown flipped out when Sarkozy said BarnierÃ¢ÂÂs appointment meant Britain were Ã¢ÂÂbig losersÃ¢ÂÂ
-2017-01-18T01:26:19+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.8389201760292053,,0.0,0.0,0.0,httpwwwtheneweuropeancouktop-storiesthe_problem_with_the_english_england_doesn_t_want_to_be_just_another_member_of_a_team_1_4851882
-2016-09-10T07:49:31+0000,,0.171,0.0,0.829,0.8018,0.3666666666666667,POSITIVE,0.9994527697563171,collective/European/so very appetising/exciting/,0.125,0.275,0.9964789748191833,What we eat the ingredients the recipes may come from around the world but it is the collective to and fro of European interests expertise and imagination that has made it all so very appetising and exciting
-2016-06-25T08:16:08+0000,,0.0,0.39,0.61,-0.4939,0.0,POSITIVE,0.5308253765106201,,0.0,0.0,0.0,Just out of fear from immigration
-2017-01-18T01:26:19+0000,,0.433,0.0,0.567,0.7269,1.0,POSITIVE,0.99409419298172,brilliant/,0.9,1.0,0.9982489347457886,Read this brilliant article and 100% truth of the situation
-2016-06-22T21:50:41+0000,,0.0,0.405,0.595,-0.5267,0.3333333333333333,NEGATIVE,-0.9999344348907471,FIRST/,0.25,0.3333333333333333,0.912291407585144,UK will be the FIRST loser
-2017-03-23T15:05:40+0000,,0.229,0.229,0.542,0.0,0.0,NEGATIVE,-0.9868578910827637,next/,0.0,0.0,0.8999043703079224,A degraded sensualism deprives this life of its grace and refinement the next of its dignity and sanctity
-2017-03-02T17:39:38+0000,,0.036,0.274,0.691,-0.8834,1.0,NEGATIVE,-0.9996553659439087,nasty/evil/,-1.0,1.0,-0.9973601996898651,If someone posts or reposts video or photo footage of atrocities as a demonstration of what nasty evil poeple IS are how on earth could the law be used to prosecute them
-2016-06-22T22:05:13+0000,,0.0,0.39,0.61,-0.4927,0.5416666666666666,NEGATIVE,-0.9999023675918579,More dreadful/foreign/,-0.1875,0.4375,-0.992754340171814,More dreadful from each foreign stroke 
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.6692580580711365,,0.0,0.0,0.0,So an oportunity for the peoples of Britain and Northern Ireland
-2016-06-23T12:41:43+0000,,0.0,0.13,0.87,-0.0516,0.0,NEGATIVE,-0.9255313277244568,,0.0,0.0,0.0,Scotland will leave UK and stay in the EU
-2016-05-31T06:11:29+0000,,0.167,0.0,0.833,0.4215,0.2,NEGATIVE,-0.9940483570098877,much easier/counterfeit/,0.1,0.1,-0.17382022738456726,Its much easier to buy counterfeit goods in Europe than you can in the uk
-2016-09-10T07:49:31+0000,,0.074,0.0,0.926,0.4939,0.5,NEGATIVE,-0.9995496869087219,electric/Indian/impertinent/little/more/,0.0625,0.2,0.25200796127319336,And donÃ¢ÂÂt get them started on electric hand dryers or something unrecognised in the bagging area or Indian call centres  or the impertinent computer asking for a password that has both capitals and little letters and numbers and more than eight digits
-2015-09-19T12:55:17+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9685699343681335,rural/,0.0,0.0,-0.8767895102500916,To thee belongs the rural reign
-2016-06-12T21:32:44+0000,,0.042,0.231,0.727,-0.878,0.5296296296296296,NEGATIVE,-0.8086721897125244,Roman/sure/rash/,0.16666666666666666,0.2962962962962963,-0.2556901176770528,Do you think back in 60 AD when she went on the war path to rid Brittania of the hated Roman occupiers Boudicca hesitated before mounting her chariot and asked her warriors Hmm Im not sure if we are not being a bit rash here
-2017-01-07T12:35:22+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9679067730903625,liberal/,0.0,0.0,-0.7287514209747314,What is the pathology of liberal eliteness
-2017-01-12T21:54:19+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9727321863174438,,0.0,0.0,0.0,William Norton
-2016-06-21T12:11:04+0000,,0.351,0.0,0.649,0.4019,0.0,NEGATIVE,-0.982084333896637,,0.0,0.0,0.0,And what are the EUÃ¢ÂÂs values
-2016-06-16T10:06:23+0000,,0.129,0.155,0.717,-0.4508,0.42083333333333334,NEGATIVE,-0.9893075823783875,British/straight/just confused/,-0.06666666666666667,0.3666666666666667,0.3049786885579427,I dont equate the struggles British families to that of the famine in Ethiopia but there is poverty hardship and starvation in this country too and I feel it is about time Britain started to look after ourselves it doesnt matter about the colour of you skin or who you belive in which God you pray to whether gay straight or just confused
-2016-06-30T23:28:57+0000,,0.073,0.146,0.781,-0.4215,0.7133333333333333,NEGATIVE,-0.9203680157661438,such/anti/-/Soros/all enough popular/conservative/nationalist/sensational/,0.12083333333333332,0.23333333333333334,0.4848448932170868,We here avoid adding fuel to the fires of such anti-Soros conspiracy theories which are after all popular enough in conservative and nationalist circles if only as a branch of sensational literature and film - 
-2016-06-01T10:33:56+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9750655889511108,,0.0,0.0,0.0,Oh how I need to know when
-2016-06-08T06:18:30+0000,,0.0,0.177,0.823,-0.5106,0.1416666666666667,POSITIVE,0.7844964265823364,same/old/ignorant/,0.03333333333333333,0.10833333333333334,-0.4951484600702922,Mr Farage you are starting to sing the same old song that I just refuse to be ignorant and listen all over again
-2016-06-22T21:02:47+0000,,0.0,0.102,0.898,-0.3818,0.65,POSITIVE,0.8439803719520569,always possible/personal/civic/,0.0,0.43333333333333335,0.99749227364858,Some people will maybe reply that its always possible without State from personal or civic initiatives to fight against the movements of this globalization
-2016-06-30T23:28:57+0000,,0.177,0.059,0.764,0.7003,0.3416666666666667,NEGATIVE,-0.9882892370223999,valiant/quick/British/,0.1111111111111111,0.16666666666666666,0.9611166516939799,Fortunately that valiant Brexiter and lover of Britannia Justice Secretary Mr Michael Gove was quick to dismiss Mr SorosÃ¢ÂÂ warning saying that the billionaire had previously also advocated British membership of the Euro zone
-2016-06-13T18:07:35+0000,,0.045,0.123,0.832,-0.3716,0.18055555555555555,NEGATIVE,-0.9491674304008484,UKs/British/,0.0,0.0,0.17227506637573242,Priti Patel the UKs employment minister told the Daily Telegraph in March The Prime Minister has tried hard but the EU refused to give the British people what they want
-2016-12-26T05:37:27+0000,,0.0,0.326,0.674,-0.4404,0.0,NEGATIVE,-0.9988356232643127,Muslim/,0.0,0.0,-0.8354087471961975,Handgrenade attacks in #Sweden no-go Muslim areas
-2016-06-22T22:05:13+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9547426700592041,,0.0,0.0,0.0,Chorus 
-2016-06-13T18:07:35+0000,,0.045,0.123,0.832,-0.3716,0.18055555555555555,NEGATIVE,-0.9491674304008484,UKs/British/,0.0,0.0,0.17227506637573242,Priti Patel the UKs employment minister told the Daily Telegraph in March The Prime Minister has tried hard but the EU refused to give the British people what they want
-2016-07-27T09:43:16+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9949416518211365,British/,0.0,0.0,0.9561169743537903,These payments are in breach of British law
-2016-05-31T06:11:29+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9450168013572693,,0.0,0.0,0.0,13
-2017-01-07T12:35:22+0000,,0.0,0.242,0.758,-0.4364,0.3,POSITIVE,0.9566188454627991,,0.0,0.0,0.0,You must be even more above suspicion than Caesars wife
-2016-05-23T18:22:35+0000,,0.0,0.126,0.874,-0.0772,0.0,POSITIVE,0.9267649054527283,,0.0,0.0,0.0,HERMANN GOERING BELIEVED IN EUROPEAN TAKE OVER BY DIPLOMATIC STEALTH
-2017-01-12T21:56:07+0000,,0.0,0.0,1.0,0.0,0.5,POSITIVE,0.9899647831916809,numerous/,0.0,0.5,0.8797418475151062,Among numerous articles papers and books William is the author of Monument and Bank Capitalism and the Anglo-Saxon Mind SAU 2011
-2016-04-16T10:28:27+0000,,0.0,0.161,0.839,-0.3182,0.0,NEGATIVE,-0.9884788393974304,,0.0,0.0,0.0,This will be taken over by a world ruler The Beast or Anti Christ
-2016-06-27T12:38:41+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.6885265111923218,,0.0,0.0,0.0,40 years are ruled by communists but against these hyenas they were just pioneers
-2016-09-10T07:49:31+0000,,0.124,0.0,0.876,0.5267,0.10714285714285714,POSITIVE,0.9629402756690979,European/single/,-0.03571428571428571,0.10714285714285714,0.21590054035186768,The Renaissance the rococo the Romantics the impressionists gothic baroque neoclassicism realism expressionism futurism fauvism cubism dada surrealism postmodernism and kitsch were all European movements and none of them belongs to a single nation
-2016-06-22T21:02:47+0000,,0.0,0.216,0.784,-0.296,0.175,NEGATIVE,-0.9843788743019104,,0.0,0.0,0.0,People missed in Central Mountains France actually in Occitania
-2016-06-13T18:07:35+0000,,0.0,0.709,0.291,-0.8074,0.3,NEGATIVE,-0.9999617338180542,dismal/,0.0,0.0,-0.9999603033065796,This dismal failure of PM
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.1,POSITIVE,0.9294315576553345,few/,-0.2,0.1,-0.5427684783935547,A few exemples
-2016-07-15T13:53:39+0000,,0.156,0.144,0.7,0.25,0.09333333333333334,NEGATIVE,-0.942520022392273,urgent/last/best/classical/Western/half respectable/constitutional/1st/co/-/ordinated/,0.10606060606060606,0.06363636363636363,0.7815589200366627,Turning to the urgent action needed in the US perhaps the last best hope with France the UK India and Russia of classical Western Enlightenment values in order to have a half-respectable chance of constitutional compliance with the 1st Amendment the US Congress would have to legislate that agitation for a government according to Wahhabi-Salifist tenets and co-ordinated agitation to impose Sharia are acts of treason and of consorting with an enemy state
-2016-06-24T05:55:01+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9793638586997986,,0.0,0.0,0.0,Rule Britannia
-2016-06-22T22:05:13+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9793638586997986,,0.0,0.0,0.0,Rule Britannia
-2016-05-31T06:11:29+0000,,0.0,0.131,0.869,-0.3089,0.0,NEGATIVE,-0.8875457048416138,,0.0,0.0,0.0,Once again the British led the way in this field without any help from the eu
-2016-06-21T12:11:04+0000,,0.344,0.0,0.656,0.8591,0.5,POSITIVE,0.9977124929428101,common/non/-/discrimination/,-0.075,0.125,-0.058922529220581055,These values are common to the Member States in a society in which pluralism non-discrimination tolerance justice solidarity and equality between women and men prevailÃ¢ÂÂ
-2016-06-22T21:02:47+0000,,0.13,0.0,0.87,0.34,0.0,NEGATIVE,-0.9925723671913147,bet/,0.0,0.0,0.9137455224990845,Ha klaoustre e vefe bet prest da reiÃÂ± un trede ur pevare ur pempvetchaÃÂ±s ma befe bet dav
-2016-06-22T22:15:09+0000,,0.0,0.405,0.595,-0.5267,0.3333333333333333,NEGATIVE,-0.9999344348907471,FIRST/,0.25,0.3333333333333333,0.912291407585144,UK will be the FIRST loser
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.7683188915252686,neketa/,0.0,0.0,0.5624924302101135,Brav eo goulenn ali ar pobloÃÂ¹ neketa 
-2016-06-21T21:52:35+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9866406321525574,,0.0,0.0,0.0,Jump on in and place your bid
-2016-09-26T17:48:36+0000,,0.262,0.0,0.738,0.4939,0.125,POSITIVE,0.9820177555084229,same/,0.0,0.125,0.5141551494598389,That takes the agreement of the same EU 27 + 3 EEA
-2016-06-22T22:05:13+0000,,0.597,0.0,0.403,0.8126,0.775,POSITIVE,0.9485560059547424,shalt/great/free/,0.4000000000000001,0.5166666666666667,0.23646241426467896,While thou shalt flourish great and free 
-2016-04-16T10:28:27+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.8533002734184265,,0.0,0.0,0.0,All this has to do partly with this vote
-2016-06-23T12:41:43+0000,,0.212,0.166,0.622,-0.0258,0.5,NEGATIVE,-0.995410144329071,several/,0.0,0.0,0.823158323764801,Would you like to see the pound collapse only several minutes after a verdict of Brexit
-2016-06-25T12:54:06+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.930010974407196,,0.0,0.0,0.0,This clip sums up Brexit for me
-2016-08-11T10:42:28+0000,,0.315,0.0,0.685,0.3182,0.0,POSITIVE,0.9970448613166809,,0.0,0.0,0.0,This was the adventure of a lifetime
-2016-06-30T23:28:57+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.8875711560249329,open/,0.0,0.5,0.9779542684555054,wwwbreitbartcomlondon20160621billionaire-open-borders-funder-soros-tells-britain-stay-eu-else
-2016-06-13T18:07:35+0000,,0.0,0.055,0.945,-0.1027,0.625,NEGATIVE,-0.9907139539718628,able/upcoming/,0.25,0.3125,0.995810866355896,Nigel Farage UKIP leader warns that the UK will not be able to handle the upcoming surge of migrants if it stays in the EU
-2016-07-25T16:44:18+0000,,0.0,0.574,0.426,-0.4019,0.0,NEGATIVE,-0.9947251677513123,,0.0,0.0,0.0,The Brexit problem 
-2016-06-07T18:12:16+0000,,0.263,0.434,0.303,-0.4019,0.4,NEGATIVE,-0.8929340243339539,alive/dead/,-0.05,0.4,-0.00044104456901550293,The fish alive or dead
-2016-06-22T21:02:47+0000,,0.0,0.29,0.71,-0.4745,0.8333333333333334,NEGATIVE,-0.9967647790908813,important/empty/,0.15000000000000002,0.75,-0.004201233386993408,But the word isnt important if its only a word empty of meaning
-2016-06-21T12:11:04+0000,,0.0,0.0,1.0,0.0,0.375,POSITIVE,0.9708707928657532,other/,-0.125,0.375,0.8730196356773376,They helped each other
-2016-07-25T16:44:18+0000,,0.294,0.0,0.706,0.3612,0.0,POSITIVE,0.8730884790420532,,0.0,0.0,0.0,However I agree with you for two reason 
-2016-06-22T22:05:13+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9547426700592041,,0.0,0.0,0.0,Chorus 
-2017-01-12T21:56:07+0000,,0.0,0.0,1.0,0.0,0.45454545454545453,POSITIVE,0.9885867238044739,new/,0.13636363636363635,0.45454545454545453,0.9986953139305115,That is a Remain outlook as I demonstrate in a new paper for Civitas Mitigating the impact of tariffs on UK-EU trade
-2016-05-31T06:11:29+0000,,0.623,0.0,0.377,0.5106,0.7333333333333333,POSITIVE,0.9960712194442749,Strong/,0.4333333333333333,0.7333333333333333,0.9937371015548706,Strong wildlife protection
-2017-02-22T00:27:44+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9509173631668091,,0.0,0.0,0.0,#Brexit #LeaveEU #TheBrexiteers #DontLetTheEURuleBritannia 
-2016-11-09T21:37:27+0000,,0.6,0.0,0.4,0.5423,0.0,NEGATIVE,-0.7295985817909241,colonial/,0.0,0.0,-0.6572031378746033,Please restore your colonial rule
-2016-07-25T16:44:18+0000,,0.0,0.16,0.84,-0.8225,0.35,NEGATIVE,-0.9848724603652954,,0.0,0.0,0.0,There would be apparently a problem in Britain because of the Brexit chosen by the people against to the remainers choice  and if the result would be reversed and if the people would have decided to remain in the E U would be a problem too because it would dissatisfy the Brexiters 
-2017-03-11T21:27:21+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9996522665023804,,0.0,0.0,0.0,Shouldnt the Mayor of London Sadiq Khan be tackling this barbarism
-2016-06-22T21:02:47+0000,,0.072,0.077,0.851,-0.0258,0.16666666666666666,POSITIVE,0.8129774928092957,Selfless/,0.0,0.0,-0.7568472027778625,Selfless enthusiasts fight with zeal to liberate at first the peoples of the UK but after too Europe from the European Union
-2016-06-08T06:18:30+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.885876476764679,,0.0,0.0,0.0,Karma or deserved for you to decide
-2016-06-01T10:33:56+0000,,0.0,0.438,0.562,-0.5994,0.0,POSITIVE,0.9997513890266418,,0.0,0.0,0.0,Before I die I need to know WHO
-2016-05-31T06:11:29+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.760032594203949,,0.0,0.0,0.0,36
-2016-06-29T19:35:01+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.6334519386291504,,0.0,0.0,0.0,httpswwwyahoocomnewsmedia-firms-lose-control-news-tech-platforms-rise-042007515html
-2016-06-22T21:02:47+0000,,0.079,0.0,0.921,0.34,0.0,NEGATIVE,-0.514759361743927,KÃÂªrdiz/,0.0,0.0,-0.9838317632675171,Met ar gudenn amaÃÂ± eo ne embann ket renerion a-vremaÃÂ± SNP ha Plaid Cymru stourm a-enep da riegezh ar Stad Rouantelezh-Unanet renet e Londrez evit he zreuzlechiaÃÂ± e Dinedin pe e KÃÂªrdiz
-2016-06-01T10:33:56+0000,,0.0,0.438,0.562,-0.5994,0.0,POSITIVE,0.99770587682724,,0.0,0.0,0.0,Before I die I need to know WHERE
-2016-05-31T06:11:29+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9978871941566467,,0.0,0.0,0.0,What wildlife do we have in Europe
-2016-02-27T20:50:26+0000,,0.063,0.144,0.794,-0.4482,0.9,NEGATIVE,-0.9904457330703735,,0.0,0.0,0.0,All too often those are the people that perhaps once has a dream but never had the courage to try and fly
-2017-01-03T11:00:00+0000,,0.0,0.0,1.0,0.0,0.26666666666666666,NEGATIVE,-0.9964336156845093,Second/long/,-0.025,0.2,0.03939551115036011,Second if Ã¢ÂÂa week is a long time in politicsÃ¢ÂÂ we have about 104 long times still to go
-2016-05-13T13:24:37+0000,,0.225,0.0,0.775,0.4939,0.5,POSITIVE,0.9533785581588745,,0.0,0.0,0.0,These ideas are explored further at euroutnet if you care to look
-2016-06-24T05:55:01+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9793638586997986,,0.0,0.0,0.0,Rule Britannia
-2016-06-21T12:11:04+0000,,0.0,0.0,1.0,0.0,0.3,POSITIVE,0.9994989633560181,Many/human/,0.25,0.3,0.95945805311203,Many aspects of life can be one-size fits all because we are all human
-2017-01-07T12:35:22+0000,,0.0,0.381,0.619,-0.8126,1.0,NEGATIVE,-0.9472721219062805,outrageous/,-1.0,1.0,0.8271962404251099,It is outrageous to the elite that the work of the Devil should prevail
-2016-04-15T19:18:28+0000,,0.0,0.12,0.88,-0.3818,0.0,POSITIVE,0.6312459111213684,,0.0,0.0,0.0,- Do you remember the scene taken from The Gathering Storm 2002 where Winston remembers Marlborough at the Battle of Blenheim 
-2016-06-22T22:05:13+0000,,0.597,0.0,0.403,0.8126,0.775,POSITIVE,0.9485560059547424,shalt/great/free/,0.4000000000000001,0.5166666666666667,0.23646241426467896,While thou shalt flourish great and free 
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.6148484349250793,,0.0,0.0,0.0,But for relocating it in Brussels
-2016-06-23T12:41:43+0000,,0.0,0.0,1.0,0.0,0.8500000000000001,POSITIVE,0.9929168224334717,,0.0,0.0,0.0,Is becoming a FLY-OVER STATE an ambition for Britain
-2017-01-18T01:26:19+0000,,0.0,0.0,1.0,0.0,0.25,NEGATIVE,-0.9919331669807434,equal/,0.0,0.25,0.9984742999076843,They will not see our nations as equal partners or give us equal rights
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.475,POSITIVE,0.962417721748352,Relocated/such/,0.0,0.25,0.9055702090263367,Relocated and distributed therefore such as one wants as in a kind of game
-2016-05-31T06:11:29+0000,,0.224,0.0,0.776,0.3818,0.55,NEGATIVE,-0.8916100263595581,political/,0.0,0.1,0.7064269185066223,IMO being in the eu only benefits the political elite
-2016-06-27T12:38:41+0000,,0.0,0.808,0.192,-0.8126,0.0,NEGATIVE,-0.999971866607666,,0.0,0.0,0.0,Lies lies and lies again
-2016-05-31T06:11:29+0000,,0.0,0.0,0.0,0.0,0.0,POSITIVE,0.9200234413146973,,0.0,0.0,0.0,2
-2016-06-04T14:58:25+0000,,0.105,0.016,0.88,0.8519,0.3220982142857143,NEGATIVE,-0.5075832009315491,tidal/unwanted/further/single/European/unitary/ever more/foreign/contrary/own/national/,0.08214285714285714,0.21266233766233766,0.3077248009768399,If we vote to remain not only will we open the floodgates to a tidal wave of unwanted immigration from elsewhere in the European Union but we will consolidate Ã¢ÂÂ and further advance Ã¢ÂÂ the moves towards establishing a single European currency a single European army and ultimately the creation of a unitary European super-state with ever more powers being exercised by unelected EU Commissioners and enforced by foreign judges in either the European Court of Human Rights or the European Court of Justice contrary to our own national interests
-2016-05-31T06:11:29+0000,,0.0,0.235,0.765,-0.4728,0.19166666666666665,NEGATIVE,-0.9988514184951782,reciprocal/medical/other/useless/,-0.15625,0.14375,0.43556928634643555,The reciprocal medical arrangement with other countries is quite often useless
-2016-06-01T10:33:56+0000,,0.0,0.0,1.0,0.0,0.5,NEGATIVE,-0.9999638795852661,heavy/,-0.2,0.5,-0.7345484495162964,For heavy the weight will lie on you
-2016-06-30T23:28:57+0000,,0.0,0.0,1.0,0.0,0.7,NEGATIVE,-0.9319056868553162,,0.0,0.0,0.0,The question thus arises who is behind the ESI
-2016-06-22T22:15:09+0000,,0.134,0.162,0.704,-0.1027,0.2692307692307692,NEGATIVE,-0.9965823292732239,prepared/,0.0,0.0,0.9916189908981323,Be prepared to loose the submarine bases and the Oil of Scotland
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.2916666666666667,NEGATIVE,-0.6547610759735107,adjacent/more local/other/,0.041666666666666664,0.20833333333333334,0.9133656024932861,In regard to this it cant be said that tomatoes harvested in Henvig an adjacent parish to Taole and sold in Taole is more local than other ones harvested in Andalusia
-2016-07-16T18:39:10+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.5478318333625793,,0.0,0.0,0.0,US Vs THEM
-2016-07-12T06:39:37+0000,,0.726,0.0,0.274,0.6486,0.0,NEGATIVE,-0.6233096122741699,,0.0,0.0,0.0,Anyways God save Britannia
-2016-06-27T12:38:41+0000,,0.608,0.0,0.392,0.4767,0.0,POSITIVE,0.9960228204727173,,0.0,0.0,0.0,FRIENDS IN ENGLAND
-2017-01-12T21:56:07+0000,,0.081,0.068,0.851,0.0772,0.0,NEGATIVE,-0.9773802161216736,discretionary/,0.0,0.0,0.8002503514289856,A Transitional Assistance Programme for discretionary grants to any business affected by Brexit capped at 1% of export sales and time-limited ÃÂ£09 billion
-2016-06-21T12:11:04+0000,,0.0,0.403,0.597,-0.4019,0.0,NEGATIVE,-0.9855579733848572,,0.0,0.0,0.0,Criticising people gets us nowhere
-2017-03-01T20:47:00+0000,,0.0,0.17,0.83,-0.7876,0.5023809523809524,NEGATIVE,-0.991783618927002,current/just few/short/catastrophic/,-0.05,0.2,-0.4952014237642288,Instead it decided to embark on Extreme Brexit exiting not only the EU but the Single Market and the Customs Union too decisions which our current Chancellor warned just a few short months ago would be catastrophic
-2017-03-29T11:30:57+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9793638586997986,,0.0,0.0,0.0,Rule Britannia 
-2017-01-19T02:09:03+0000,,0.0,0.158,0.842,-0.4588,0.0,NEGATIVE,-0.9967706203460693,kosher/,0.0,0.0,0.5281623601913452,Denmark banned kosher and halal slaughter in feb 2014 as minister says animal rights come before religion
-2016-06-22T21:02:47+0000,,0.094,0.0,0.906,0.34,0.0,POSITIVE,0.8495176434516907,,0.0,0.0,0.0,Dizalchoch eo Arizona Illinois pe an Alaska eget Italia FraÃÂ±s pe evit ar choulz ar Rouantelezh-Unanet ha ne gomzan ket zoken evel-just eus Gres
-2016-06-21T12:11:04+0000,,0.0,0.0,1.0,0.0,0.1875,POSITIVE,0.8549503087997437,other/European/,-0.0625,0.1875,0.9327556490898132,Here are 3 quotes from Season 6 without spoilers which might persuade us to vote to unite with each other and our European allies
-2016-04-16T10:28:27+0000,,0.135,0.156,0.709,-0.0772,0.0,NEGATIVE,-0.8208127617835999,,0.0,0.0,0.0,Some will evade the mark by hiding and will later be Raptured
-2016-08-19T07:54:55+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9976176619529724,,0.0,0.0,0.0,And it worked
-2016-06-24T21:40:17+0000,,0.592,0.0,0.408,0.4404,0.6000000000000001,POSITIVE,0.977218508720398,Good/,0.7,0.6000000000000001,0.9313951730728149,Good for you
-2017-03-02T17:39:38+0000,,0.0,0.333,0.667,-0.5413,0.5,NEGATIVE,-0.9990795850753784,french/completely mad/,-0.3125,0.5,-0.014285802841186523,Is the french system of law completely mad
-2016-06-24T16:52:52+0000,,0.135,0.031,0.833,0.6124,0.43333333333333335,NEGATIVE,-0.9806515574455261,own/nationalist/far/right/,0.2464285714285714,0.6339285714285714,0.5868988633155823,It is very telling that the vote in the UK to leave the European Union is followed by calls for referenda in France and the Netherlands--by their own nationalist far-right parties like Frances National Front
-2016-06-08T06:18:30+0000,,0.183,0.219,0.597,-0.1372,1.0,NEGATIVE,-0.6856159567832947,weakest/,0.0,0.0,-0.9982423782348633,I can compare this practice so far as praying on the weakest
-2016-07-27T09:43:16+0000,,0.21,0.21,0.58,0.0,0.3833333333333333,NEGATIVE,-0.9948998093605042,clear/,0.10000000000000002,0.3833333333333333,0.9989956021308899,He is clear that if we do sign the agreement with the EEC we will suffer some loss of Sovereignty
-2016-06-22T21:02:47+0000,,0.237,0.0,0.763,0.4215,0.5928571428571429,POSITIVE,0.9954224228858948,true/,0.35,0.65,0.997733473777771,A true right to set up laws in Cardiff or Edinburugh 
-2016-12-26T05:37:27+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9890615940093994,,0.0,0.0,0.0,Mis Standen Read this
-2016-12-08T11:00:00+0000,,0.0,0.197,0.803,-0.4019,0.95,NEGATIVE,-0.992809534072876,,0.0,0.0,0.0,Britain has only rarely been conquered and had the problems of occupation
-2016-05-31T06:11:29+0000,,0.464,0.0,0.536,0.3818,0.4,POSITIVE,0.9976351261138916,young/,0.1,0.4,0.9544278979301453,Opportunities for young people
-2016-06-30T23:12:47+0000,,0.402,0.304,0.294,0.25,0.825,NEGATIVE,-0.9602413773536682,wrong/,-0.5,0.9,-0.994579553604126,Great Britain is a wrong name
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9131873250007629,,0.0,0.0,0.0,Koulz chom evel memaomp er mare-maÃÂ± neo ket an ifern memestra 
-2017-03-09T11:00:00+0000,,0.138,0.036,0.826,0.5719,0.31,POSITIVE,0.9768387675285339,ordinary/narrow/useful/different/,-0.037500000000000006,0.375,-0.4818884879350662,But since I never encounter the voices of ordinary Leave voters or for that matter Remain voters outside my narrow circle it was useful to hear from the different Britains that co-exist with mine
-2016-06-08T06:18:30+0000,,0.211,0.0,0.789,0.5499,0.65,POSITIVE,0.9968991279602051,best/,1.0,0.3,0.9960646033287048,I hope we all soon get to the best outcome not only for Europe but for the world to prosper
-2016-06-22T22:15:09+0000,,0.394,0.0,0.606,0.6378,0.2722222222222222,POSITIVE,0.6330834627151489,prepared/less rich/Irish/,0.034722222222222224,0.1361111111111111,0.8987222711245219,Be prepared to be less rich than your Irish neighbourgs
-2016-07-07T08:34:26+0000,,0.0,0.0,1.0,0.0,0.4,POSITIVE,0.8798996806144714,deeply pro/-/Europe/,0.0,0.13333333333333333,0.9749689102172852,Im deeply pro-Europe and remainer
-2016-06-27T12:38:41+0000,,0.0,0.121,0.879,-0.5719,0.1,NEGATIVE,-0.9648880362510681,big/,0.0,0.1,-0.7557539939880371,Media have big power and politicians when combined with Czech oligarch brainwashed people until chose the path to the destruction of our country - the path to the EU
-2017-02-10T21:03:52+0000,,0.329,0.0,0.671,0.5994,0.0,POSITIVE,0.6024733185768127,,0.0,0.0,0.0,Populists gain in Sweden and Czech Republic as Le Pen extends lead
-2016-06-22T22:05:13+0000,,0.277,0.0,0.723,0.3182,0.9,POSITIVE,0.9950569868087769,fair/,0.7,0.9,-0.9951516389846802,And manly hearts to guard the fair
-2017-03-14T02:59:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.997033953666687,,0.0,0.0,0.0,#Brexit #DontLetTheEURuleBritannia
-2016-07-07T08:34:26+0000,,0.0,0.0,1.0,0.0,0.4,POSITIVE,0.8798996806144714,deeply pro/-/Europe/,0.0,0.13333333333333333,0.9749689102172852,Im deeply pro-Europe and remainer
-2016-06-22T21:02:47+0000,,0.112,0.0,0.888,0.4404,0.375,NEGATIVE,-0.9918246865272522,Czech/other/,-0.0625,0.1875,0.8306386470794678,Czech Prime minister already said that if the UK leaves the E-U it could be followed by his country and I hope by other countries
-2016-07-15T13:53:39+0000,,0.067,0.0,0.933,0.128,1.0,POSITIVE,0.9114375710487366,federal/,0.0,0.0,0.8869693279266357,These cases show that the US federal government can indeed circumscribe the ambit of The Bill of Rights with carefully crafted statutes
-2016-06-22T21:02:47+0000,,0.131,0.213,0.656,-0.3612,0.0,POSITIVE,0.8852792382240295,,0.0,0.0,0.0,Ha war se ne vo ket hep mar al lodenn vrasaÃÂ± achanoch a-du ganin*
-2017-03-11T21:27:21+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9996522665023804,,0.0,0.0,0.0,Shouldnt the Mayor of London Sadiq Khan be tackling this barbarism
-2016-06-21T21:52:35+0000,,0.0,0.0,1.0,0.0,1.0,POSITIVE,0.7957454323768616,final/,0.0,1.0,0.9553918838500977,before you place your final X in the name of The Law
-2016-06-08T06:18:30+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9407587051391602,,0.0,0.0,0.0,PS
-2016-06-30T23:28:57+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.6329925656318665,,0.0,0.0,0.0,wwwyoutubecomwatchv=b3nTu0UX4JA
-2016-07-14T07:49:18+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9911763668060303,,0.0,0.0,0.0,Nowhere on Britannias side did you see her name yet she was recognised around the world
-2016-06-22T21:02:47+0000,,0.0,0.29,0.71,-0.4745,0.8333333333333334,NEGATIVE,-0.9967647790908813,important/empty/,0.15000000000000002,0.75,-0.004201233386993408,But the word isnt important if its only a word empty of meaning
-2017-02-22T00:27:44+0000,,0.0,0.094,0.906,-0.3818,0.26785714285714285,NEGATIVE,-0.5815073251724243,clean/,0.3666666666666667,0.7000000000000001,0.9949157238006592,MEMBERS of the House of Lords insisted today they had a right to fight a clean-break Brexit and even to try to keep Britain in the European Union
-2016-06-21T21:52:35+0000,,0.109,0.0,0.891,0.0258,0.2888888888888889,NEGATIVE,-0.9933931231498718,,0.0,0.0,0.0,1 France shuts down the tunnel to prevent the rumble in
-2016-06-22T22:05:13+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9997108578681946,Blest/,0.0,0.0,-0.9999089241027832,Blest isle
-2016-06-30T23:28:57+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9757453799247742,,0.0,0.0,0.0,Here we confine ourselves to mentioning three sets of facts
-2017-01-12T21:54:19+0000,,0.0,0.091,0.909,-0.296,0.16666666666666666,NEGATIVE,-0.9875218272209167,specific/other/British/,-0.041666666666666664,0.16666666666666666,0.9408770600954691,Provided programmes are not tied in principle or in practice to any specific industry no other member state can retaliate against British goods
-2016-05-31T06:11:29+0000,,0.0,0.0,1.0,0.0,0.2888888888888889,NEGATIVE,-0.8523198962211609,numerical/,0.0,0.0,0.9659870266914368,Heres the list down below in numerical order
-2016-11-09T21:37:27+0000,,0.0,0.347,0.653,-0.1513,1.0,NEGATIVE,-0.9999445676803589,so sorry/,-0.5,1.0,-0.9997894167900085,Were so sorry Britain
-2016-06-22T21:02:47+0000,,0.04,0.066,0.894,-0.3612,0.0,POSITIVE,0.713276207447052,galloud/brezel/,0.0,0.0,-0.06663155555725098,Sebezus eo gwelout penaos e vez choariet war an aon gant an establishment evit enebiÃÂ± ouzh ar Brexit  trochet e vo Breizh-Veur eus ar bed ar faskouriezh a gemero ar galloud skarzhet e vo ar geodidi breizhveurat eus ar 27 broioÃÂ¹ chomet en U-E ar feulster hag ar brezel zoken en em astenno en Europa ha me oar me
-2016-06-30T23:28:57+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.7453199028968811,,0.0,0.0,0.0,wwwyoutubecomwatchv=s_h2IbwTwFA
-2016-06-01T10:33:56+0000,,0.0,0.351,0.649,-0.4019,0.0,NEGATIVE,-0.9027695059776306,,0.0,0.0,0.0,You managed to deceive us so
-2016-09-26T17:48:36+0000,,0.153,0.137,0.71,0.0772,0.4583333333333333,NEGATIVE,-0.9835030436515808,Really informative/nice/,0.4,0.6,0.9815729856491089,Really informative post  This is a nice explanation of the mess from  FT commenter Ã¢ÂÂThe PoucaÃ¢ÂÂ
-2016-06-08T06:18:30+0000,,0.477,0.295,0.227,0.3818,0.6,POSITIVE,0.9973117113113403,,0.0,0.0,0.0,Fight guns with love
-2016-05-31T06:11:29+0000,,0.0,0.0,1.0,0.0,1.0,POSITIVE,0.9994231462478638,,0.0,0.0,0.0,This ones priceless
-2016-08-19T07:54:55+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9568883776664734,,0.0,0.0,0.0,httpsenwikipediaorgwikiPunic_Wars
-2016-06-22T21:02:47+0000,,0.0,0.074,0.926,-0.5994,0.0,NEGATIVE,-0.7827339172363281,haÃÂ±val/-/kaout/,0.0,0.0,0.3319813410441081,40 pe 50 vloaz dale a haÃÂ±val ar re-se kaout pemaint choazh er brizhmennozhioÃÂ¹ a oa o ren war an Douar-Bras er bloavezhioÃÂ¹ 50 pe 60 da vare Robert Schumann Paul-Henri Spaak Alcide de Gasperi Jean Monnet pemaÃÂ± hiziv an deiz er chontrol ar pobloÃÂ¹ o klask muioch-mui en em zieubiÃÂ± diouzh an U-E
-2016-06-23T12:41:43+0000,,0.0,0.432,0.568,-0.7261,0.5416666666666666,NEGATIVE,-0.9986370205879211,more WEAK/vulnerable/,-0.21875,0.53125,-0.024387359619140625,UK will be more WEAK and vulnerable out of Europe
-2016-03-11T03:55:17+0000,,0.13,0.0,0.87,0.5106,0.8,NEGATIVE,-0.9987252354621887,IcelandÃ¢ÂÂs/prime/free/,0.13333333333333333,0.26666666666666666,0.28034013509750366,IcelandÃ¢ÂÂs prime minister Sigmundur Gunnlaugsson said that it would seek to do a free trade deal with Britain even if we vote to quit
-2016-09-10T07:49:31+0000,,0.261,0.0,0.739,0.6486,0.6,NEGATIVE,-0.687760055065155,as many/possible/personal/,0.16666666666666666,0.6,0.4824771483739217,What matters is that we have as many judges as possible on the side of personal freedom
-2016-09-10T07:49:31+0000,,0.0,0.0,1.0,0.0,0.3333333333333333,NEGATIVE,-0.9976266026496887,most pernicious/Little/English/,0.10416666666666667,0.3333333333333333,-0.27004732688268024,ItÃ¢ÂÂs snorting a line of the most pernicious and debilitating Little English drug nostalgia
-2016-06-08T06:18:30+0000,,0.125,0.091,0.784,0.0258,1.0,NEGATIVE,-0.9956425428390503,mega/own/,0.3,0.5,0.9791380763053894,They are denied by the law created to serve the interests of the mega companies and by the scarcity of their own economics to do it their selves
-2016-06-21T12:11:04+0000,,0.639,0.0,0.361,0.6486,0.55,NEGATIVE,-0.9543588161468506,brave/worth/,0.55,0.55,0.9913844466209412,Be brave - itÃ¢ÂÂs worth a try
-2016-11-09T21:37:27+0000,,0.0,0.347,0.653,-0.1513,1.0,NEGATIVE,-0.9999445676803589,so sorry/,-0.5,1.0,-0.9997894167900085,Were so sorry Britain
-2016-05-31T06:11:29+0000,,0.0,0.0,0.0,0.0,0.0,POSITIVE,0.8900684714317322,,0.0,0.0,0.0,1
-2017-03-14T05:24:12+0000,,0.371,0.0,0.629,0.6289,0.0,POSITIVE,0.9815826416015625,,0.0,0.0,0.0,Katie Hopkins PRAISES Brexiteers ahead of Article 50
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9033368229866028,FraÃÂ±s/,0.0,0.0,-0.9915033578872681,Mankout a ra tud e Torosad Kreiz FraÃÂ±s dres 
-2017-03-11T21:27:21+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.6412426829338074,new/london/official/,0.04545454545454545,0.15151515151515152,0.9472536444664001,httpwwwstandardcouknewshealthmore-than-half-of-all-new-cases-of-fgm-occurred-in-london-official-figures-show-a3136236html
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9704737067222595,,0.0,0.0,0.0,Brexit  a Breton point of view
-2016-06-16T10:06:23+0000,,0.036,0.053,0.911,-0.3071,0.5625,NEGATIVE,-0.9746760725975037,fierce/fake/,-0.25,0.5,-0.028220385313034058,What does matter is your future from now on in break the chains that have kept us shackled to a fierce dictator before we end up being the ones who need Aid  raised by countries our so called MPS have elected in before SIR Bob Geldof needs another fake title after writing a song for Britain entitled Fooled Britannia We Once Ruled the Waves But We Are Now All His Faceless Slaves
-2017-01-03T11:00:00+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9952423572540283,noblest/Roman/,0.0,0.0,0.1179666519165039,Although no-one will look at any of their careers and say Ã¢ÂÂThis was the noblest Roman of them allÃ¢ÂÂ
-2016-09-10T07:49:31+0000,,0.103,0.066,0.831,0.5267,0.45,NEGATIVE,-0.8793792724609375,old/,0.1,0.2,-0.999815046787262,Magically I seem to know how to make a soufflÃÂ© and IÃ¢ÂÂm buff with the power of sovereigntyÃ¢ÂÂ This is something only politicians care about it makes not a jot of difference to you or me if the Supreme Court is a bunch of strangely out-of-touch old gits in wigs in Westminster or a load of strangely out-of-touch old gits without wigs in Luxembourg
-2016-11-09T21:37:27+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9729747772216797,,0.0,0.0,0.0,Divided we fall
-2016-11-28T07:31:26+0000,,0.0,0.0,1.0,0.0,0.5,POSITIVE,0.9393858909606934,more/,0.5,0.5,0.9926474094390869, 1624 more word 
-2017-02-17T16:00:47+0000,,0.0,0.113,0.887,-0.3182,0.0,NEGATIVE,-0.9859346151351929,imperfect/,0.0,0.0,-0.9993314743041992,The Brexit vote was based on imperfect knowledge says the man who unleashed barbarism across the Middle East on 
-2016-12-08T11:00:00+0000,,0.054,0.073,0.873,-0.2023,0.5677777777777778,POSITIVE,0.9506533741950989,late/wrong/recent/sure/,-0.07500000000000001,0.6597222222222222,0.0678042471408844,It came into use in the late 1960s and 1970s when Germany really did start to address what had gone wrong in its recent history and how it was going to make sure that it did not happen again
-2016-07-25T16:44:18+0000,,0.265,0.0,0.735,0.6597,0.2625,NEGATIVE,-0.6203311681747437,same/,0.0,0.125,0.5141551494598389,Conservative Party leadership was renewed and it is currently proceeded the same thing in the Labour Party
-2016-11-09T21:37:27+0000,,0.0,0.615,0.385,-0.4939,0.0,NEGATIVE,-0.9897443652153015,hateful/,0.0,0.0,-0.9958368539810181,With hateful consequences
-2017-03-14T14:47:21+0000,,0.216,0.0,0.784,0.0258,0.0,NEGATIVE,-0.9663311839103699,POSH/,0.0,0.0,-0.949044942855835,All aboard POSH to #Somaliland
-2016-10-31T16:17:24+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9282042384147644,,0.0,0.0,0.0,Your people Anglo-Saxons  were still swinging from trees
-2016-06-23T12:41:43+0000,,0.219,0.0,0.781,0.6187,0.4444444444444444,POSITIVE,0.9593716859817505,FIRST/spoken/nice/,0.2833333333333333,0.4444444444444444,0.9166305859883627,English is the FIRST spoken language in the Europeans institutions and this should also be nice to keep this advantage
-2016-06-30T23:28:57+0000,,0.127,0.0,0.873,0.7264,0.44555555555555554,NEGATIVE,-0.6609381437301636,highly respected/multi/-/billionaire/real/famous/many/humanitarian/European/,0.15111111111111108,0.26,0.9830034375190735,Firstly in Nov 2015 the highly respected multi-billionaire Mr George Soros born in Budapest 12th Aug 1930 and whose real name is Schwartz GyÃÂ¶rgy issued a famous email statement to Bloomberg Business trumpeting the help given by his many humanitarian foundations in upholding European valuesÃ¢ÂÂ
-2016-06-21T12:11:04+0000,,0.302,0.0,0.698,0.3818,0.1,POSITIVE,0.9585723876953125,,0.0,0.0,0.0,The EU wants to promote our well-being
-2016-09-10T07:49:31+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9934096336364746,,0.0,0.0,0.0,Nine out of 10 economists say Ã¢ÂÂremain in the EUÃ¢ÂÂ
-2017-03-09T11:00:00+0000,,0.0,0.0,1.0,0.0,1.0,NEGATIVE,-0.9998070597648621,cold/raining/too complicated/,-0.3666666666666667,0.6666666666666666,-0.9701746702194214,I was sitting in a shed it was cold and raining and we had taken on a project that was too complicated for us
-2016-04-24T07:29:24+0000,,0.0,0.0,1.0,0.0,0.375,POSITIVE,0.9785460829734802,other/,-0.125,0.375,0.8730196356773376,With or without the EU itself they will trade with each other
-2016-12-08T11:00:00+0000,,0.095,0.0,0.905,0.2716,0.8333333333333334,POSITIVE,0.9940658807754517,more important/,0.45,0.75,0.9989564418792725,And - more important - to ask how far the legacy of history leads us to act in ways that we should not
-2016-06-25T12:54:06+0000,,0.0,0.439,0.561,-0.5719,0.375,NEGATIVE,-0.9835912585258484,Other/,-0.125,0.375,0.8730196356773376,Other things just make you swear and curse
-2017-03-02T00:36:58+0000,,0.0,0.236,0.764,-0.5719,0.0,NEGATIVE,-0.9317845106124878,BRITISH/,0.0,0.0,0.9561169743537903,Fishermens fury as Brussels DEMANDS access to 60% of BRITISH WATERS after Brexit
-2016-03-14T21:47:06+0000,,0.0,0.187,0.813,-0.3182,0.8333333333333334,NEGATIVE,-0.9999827146530151,Now bloated/,0.0,0.0,-0.9999696016311646,Now bloated and addled they have lost all sense of purpose
-2016-06-22T22:05:13+0000,,0.457,0.0,0.543,0.6369,0.0,POSITIVE,0.995242714881897,,0.0,0.0,0.0,The Muses still with freedom found 
-2017-03-14T02:59:47+0000,,0.247,0.0,0.753,0.3182,0.5,POSITIVE,0.9884383082389832,meaningful/,0.5,0.5,0.9987033605575562,The meaningful vote happened on June 23rd 2016
-2017-01-07T12:35:22+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9997938275337219,,0.0,0.0,0.0,They are the chosen ones
-2016-07-15T13:53:39+0000,,0.0,0.205,0.795,-0.596,0.5,POSITIVE,0.894431471824646,disturbingly plausible/,0.5,0.5,0.9020106792449951,See for instance the writings of Mr Robert Spencer in wwwjihadwatchorgislam-101 for this disturbingly plausible analysis
-2016-06-22T21:02:47+0000,,0.102,0.273,0.625,-0.4939,0.0,NEGATIVE,-0.9871150255203247,,0.0,0.0,0.0,Thats the concept of sovereignty that they want to destroy
-2017-01-03T11:00:00+0000,,0.165,0.154,0.682,0.0511,0.9,POSITIVE,0.6281414031982422,honest/,0.6,0.9,0.998367965221405,It would not be honest to hold that the auguries are in our favour
-2016-07-15T12:18:52+0000,,0.239,0.307,0.455,-0.1531,0.0,NEGATIVE,-0.9984514713287354,,0.0,0.0,0.0,Ã¢ÂÂMy God theyÃ¢ÂÂre comingÃ¢ÂÂ cries Fox
-2016-10-31T16:17:24+0000,,0.0,0.0,1.0,0.0,0.05,POSITIVE,0.9996024966239929,big/fat/Greek/,0.0,0.03333333333333333,-0.2600512107213338,- From My big fat Greek wedding 
-2016-06-22T22:05:13+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9547426700592041,,0.0,0.0,0.0,Chorus 
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.5789307355880737,,0.0,0.0,0.0,E petore stad emaomp hiziv an deiz 
-2016-06-30T23:28:57+0000,,0.127,0.079,0.794,0.296,0.3875,NEGATIVE,-0.9989792108535767,other/just illusory/feverish/-/,-0.05625,0.19375,-0.039272159337997437,Perhaps on the other hand you think this is just illusory pattern-spinning bred by the feverish tempo and paranoia of post-Brexit Brtiannia
-2016-11-09T21:37:27+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9957395792007446,,0.0,0.0,0.0,For the way people voted
-2016-06-29T19:35:01+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.6334519386291504,,0.0,0.0,0.0,httpswwwyahoocomnewsmedia-firms-lose-control-news-tech-platforms-rise-042007515html
-2017-03-23T21:05:26+0000,,0.192,0.146,0.662,0.1027,1.0,NEGATIVE,-0.7084208726882935,Celtic/Labour/,0.0,0.0,-0.0012666583061218262,From BlueWonder Only the truly evil can rejoice at anothers death#brexit #remain #martinmcguinness #Celtic #RFC #Indyref2 #SNP #Ukip #Labour httprssdatanetNjDM4T From eBay brexitrssdatanet
-2016-06-22T22:05:13+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9713584780693054,,0.0,0.0,0.0,This was the charter of the land 
-2016-06-01T10:33:56+0000,,0.241,0.0,0.759,0.2263,0.4,POSITIVE,0.9889883399009705,,0.0,0.0,0.0,Can look me straight in the eye
-2016-02-27T20:50:26+0000,,0.0,0.0,1.0,0.0,0.5,POSITIVE,0.9892227649688721,open/,0.0,0.5,0.9779542684555054,If we must choose between Europe and the open sea we must always choose the open sea
-2016-02-27T20:50:26+0000,,0.12,0.218,0.662,-0.3869,0.7178571428571429,POSITIVE,0.987804651260376,23rd/,0.0,0.0,0.9540162086486816,We have a chance to right this wrong on 23rd June - Our Independence Day
-2016-12-08T11:00:00+0000,,0.355,0.0,0.645,0.5927,0.4583333333333333,NEGATIVE,-0.9868462085723877,normal/same/good/,0.2833333333333333,0.4583333333333333,0.19406737883885702,But normal is not the same as good
-2016-05-31T06:11:29+0000,,0.0,0.515,0.485,-0.6486,1.0,NEGATIVE,-0.9995393753051758,awful/,-1.0,1.0,-0.9999493360519409,Theyve ignored their achievements an awful lot
-2016-05-31T06:11:29+0000,,0.574,0.0,0.426,0.4019,0.0,POSITIVE,0.9651721119880676,,0.0,0.0,0.0,Holiday insurance ABTA
-2016-06-22T21:02:47+0000,,0.191,0.216,0.593,-0.1154,0.5,NEGATIVE,-0.9765719771385193,unfortunate/,-0.5,1.0,-0.9995121955871582,But the unfortunate Irish didnt understand it was yes they had to vote
-2015-09-19T12:55:17+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9960334897041321,,0.0,0.0,0.0,Thy cities shall with commerce shine
-2017-01-07T12:35:22+0000,,0.0,0.0,1.0,0.0,0.59375,POSITIVE,0.8776109218597412,other/key/more/anti/-/,0.075,0.375,0.5676801562309265,She was also the embodiment of the other key tenets more equality more government and anti-racism
-2016-05-31T06:11:29+0000,,0.167,0.0,0.833,0.4215,0.2,NEGATIVE,-0.9940483570098877,much easier/counterfeit/,0.1,0.1,-0.17382022738456726,Its much easier to buy counterfeit goods in Europe than you can in the uk
-2016-07-25T16:44:18+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9962098598480225,electoral/exemple/Scottish/,0.0,0.0,0.9932161172231039,-Scotland would have to stay in the E U because it voted at the majority for that the electoral constituency United-Kingdom would have therefore to be split  and if the majority of Scotland should vote for its independence but for exemple Dumphries and Galloway the Scottish Borders or the Outer Hebrides for remaing in the UK  will Scotland be split too then 
-2017-03-27T21:57:01+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.8536410927772522,,0.0,0.0,0.0,And the Remoaner of the week goes to Nick Clegg 
-2016-12-08T11:00:00+0000,,0.095,0.0,0.905,0.2716,0.8333333333333334,POSITIVE,0.9940658807754517,more important/,0.45,0.75,0.9989564418792725,And - more important - to ask how far the legacy of history leads us to act in ways that we should not
-2017-03-29T15:30:52+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.5702233910560608,global/steady/,0.08333333333333333,0.25,0.9967769086360931,httpswwwrtcombusiness382707-global-stocks-steady-brexit
-2017-01-12T21:54:19+0000,,0.0,0.091,0.909,-0.296,0.16666666666666666,NEGATIVE,-0.9875218272209167,specific/other/British/,-0.041666666666666664,0.16666666666666666,0.9408770600954691,Provided programmes are not tied in principle or in practice to any specific industry no other member state can retaliate against British goods
-2017-01-07T12:35:22+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.8417627215385437,,0.0,0.0,0.0,There is a clue
-2016-04-24T07:29:24+0000,,0.097,0.0,0.903,0.128,0.6,POSITIVE,0.9951053857803345,constitutional/legal/,0.1,0.1,0.9878247976303101,They are by the EUs own constitutional entry rule the legal members of the EU
-2016-06-22T21:02:47+0000,,0.112,0.0,0.888,0.34,0.0,NEGATIVE,-0.593855619430542,Hent/,0.0,0.0,0.7574021220207214,Met en Henamzer e oa dija liammoÃÂ¹ kenwerzhel a-hed Hent ar Seiz etre ar bed roman ha Sina ar re Han
-2016-04-24T07:29:24+0000,,0.0,0.0,1.0,0.0,0.25,POSITIVE,0.9961607456207275,,0.0,0.0,0.0,An Egyptian recently described the UK to me as the flower on the globe
-2017-01-07T12:35:22+0000,,0.043,0.14,0.817,-0.7003,0.22000000000000003,NEGATIVE,-0.883626401424408,central/same/as many/military/,0.1,0.24375,0.46666640043258667,Another central tenet of the dogma is that women have been oppressed are oppressed and for the future there is no limit to what we must do to ensure they get to be in the same situation as men - having as many directorships and military medals and anything else one can think of
-2016-05-23T18:22:35+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.8624306917190552,,0.0,0.0,0.0,Either way the antichrist is predicted in Revelation 13
-2016-06-22T22:05:13+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9950371384620667,,0.0,0.0,0.0,Britons never never never shall be slaves
-2016-05-31T06:11:29+0000,,0.105,0.0,0.895,0.6249,0.5125,POSITIVE,0.999242901802063,Individual/industrial/unnecessary/,-0.13333333333333333,0.43333333333333335,0.2968120376269023,Individual countries have invested in science since the beginning of the industrial revolution which was started in Great Britain by the way and will continue to do so without the eu acting as an unnecessary middleman
-2016-06-23T12:41:43+0000,,0.0,0.0,1.0,0.0,0.30000000000000004,POSITIVE,0.9583964943885803,real/,0.2,0.30000000000000004,0.9992579817771912,The real questions are
-2016-09-14T20:47:50+0000,,0.081,0.0,0.919,0.296,0.2714285714285714,POSITIVE,0.9801977872848511,geographical/single/,-0.03571428571428571,0.10714285714285714,0.21691453456878662,In the information age geographical distances are not an issue one should think more on Political Continents made of countries that share a single code of law
-2016-06-22T21:02:47+0000,,0.0,0.065,0.935,-0.1027,0.19444444444444448,POSITIVE,0.9964308738708496,,0.0,0.0,0.0,As it was outlined above this oligarchy imposes its laws to the Parliamants of the States and down to the peoples
-2016-07-15T13:53:39+0000,,0.2,0.0,0.8,0.4588,0.65,POSITIVE,0.9973713159561157,Modern/glad/,0.35,0.65,0.9901797473430634,Modern Muslims who have given up Sharia glad to have them as citizens
-2016-07-01T03:20:18+0000,,0.0,0.595,0.405,-0.9559,0.8,NEGATIVE,-0.995223343372345,evil/stupid/,-0.8999999999999999,1.0,-0.9940257668495178,And thats 100000000 of these evil savage scum you stupid F head up your asses dip shit fools
-2016-12-08T11:00:00+0000,,0.048,0.199,0.753,-0.7645,0.43499999999999994,POSITIVE,0.5345363020896912,more critical/many/other/,0.20833333333333334,0.5083333333333333,0.9225398500760397,The UK could do with some more critical analysis of the British Empire slavery the legacy of race relations anti-semitism the effects of class on life chances and many other subjects
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9471781849861145,haÃÂ±val/,0.0,0.0,-0.9642179012298584,Ar riegezh a haÃÂ±val bezaÃÂ± tonket da vont da get
-2017-01-07T12:35:22+0000,,0.0,0.412,0.588,-0.4215,0.0,NEGATIVE,-0.9994445443153381,,0.0,0.0,0.0,Clinton too ticked every box
-2016-12-12T04:48:11+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9998668432235718,,0.0,0.0,0.0,Britannia PR Article 50 was never supposed to be used says the man who wrote it httpindpn2aqXv60  #Brexit #EU httprssdatanetMsNtnv eBay Brexitrssdatanet
-2016-12-08T11:00:00+0000,,0.0,0.619,0.381,-0.7579,0.375,NEGATIVE,-0.9880730509757996,Other/wicked/,-0.0625,0.1875,0.9359160959720612,Other countries were wicked or defeated
-2016-07-15T13:53:39+0000,,0.11,0.051,0.838,0.4404,0.29166666666666663,POSITIVE,0.8744463920593262,sound/social/formal/essentially mystical/similar/,0.08666666666666667,0.2333333333333333,0.6151706457138062,If that argument is sound the answer is to promote an Enlightenment revolution within the Islamic Ideology hand-in-hand with a social revolution for the formal equality before the law of women and men under a reformed and essentially mystical faith  similar perhaps to Sufism and Alawite-ism
-2016-06-13T18:07:35+0000,,0.218,0.0,0.782,0.6486,0.8,NEGATIVE,-0.9916969537734985,free/,0.4,0.8,0.7189627885818481,They are buying property there and they would be free to travel to the UK if Bosnia is granted EU membership
-2016-06-30T23:28:57+0000,,0.091,0.0,0.909,0.4767,0.5,POSITIVE,0.533202052116394,modus/fiendish/European/effective/national/parliamentary/,0.0,0.25,0.6537785331408182,Contemplate also the modus operandi of the EU Commission the torch-holders of the fiendish Monet-Method which is a cabal of European government leaders who operate off-stage and beyond any effective national parliamentary control
-2016-07-15T12:18:52+0000,,0.455,0.0,0.545,0.3612,0.0,NEGATIVE,-0.8922896981239319,,0.0,0.0,0.0,Ã¢ÂÂWould you like a cleanerÃ¢ÂÂ
-2016-08-11T10:42:28+0000,,0.283,0.0,0.717,0.743,0.5,POSITIVE,0.9994602799415588,countless/happy/,0.4,0.75,0.9742625653743744,Ten years ago my parents-in-law moved to Andalucia and we have had countless happy holidays staying with them
-2016-07-27T09:43:16+0000,,0.089,0.257,0.654,-0.5647,0.5,NEGATIVE,-0.8397343158721924,general/,0.05000000000000002,0.5,-0.7130025625228882,I have no doubt that if we do sign the Treaty we shall suffer some loss of sovereignty but before attempting to define or evaluate the loss I wish to make one general observation
-2016-06-21T12:11:04+0000,,0.195,0.201,0.604,-0.0258,0.0,NEGATIVE,-0.9980960488319397,NATIONAL/,0.0,0.0,0.9920191168785095,WHY MIGHT IT FEEL LIKE WEÃ¢ÂÂRE LOSING OUR NATIONAL IDENTITY IN 2016
-2016-07-26T22:57:52+0000,,0.226,0.261,0.513,-0.2023,0.3833333333333333,NEGATIVE,-0.9993287324905396,,0.0,0.0,0.0,Clearly we in the UK have no use for EU regulations that promote and perpetuate cruelty
-2016-09-30T10:29:57+0000,,0.164,0.128,0.708,0.5563,0.43611111111111106,NEGATIVE,-0.8455350995063782,Big/particular/strong/most successful/financial/,0.24500000000000002,0.3783333333333333,0.6411446452140808,Big shout out goes to Michael Gove Must Resign for his forward thinking plan to leave the EU for no reason in particular against the strong advice of the UKs most successful industry and export financial services
-2016-06-22T22:15:09+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9378397464752197,,0.0,0.0,0.0,Putin and Kim Jong-un are FOR the Brexit
-2017-03-09T11:00:00+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9589632749557495,,0.0,0.0,0.0,Britannia recites some of the speeches of politicians
-2016-06-27T12:38:41+0000,,0.0,0.0,1.0,0.0,0.16666666666666666,NEGATIVE,-0.9892230033874512,particular/,0.16666666666666666,0.3333333333333333,0.9803800582885742,Now the European Commission and in particular the Antichrist Juncker us again brainwashed
-2016-09-22T11:43:28+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9927005171775818,,0.0,0.0,0.0,Rule Britannia Britannia Rule the waves
-2017-01-10T17:11:08+0000,,0.12,0.163,0.718,0.0258,0.1,NEGATIVE,-0.9845374822616577,economic/medieval/,0.1,0.1,0.882451057434082,Brexit economic experts are like medieval doctors with leeches - pseudoscience to trick the layman Ã¢ÂÂ Daniel Hannan MEP
-2016-06-30T23:28:57+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9992883801460266,,0.0,0.0,0.0,i the EUmpire policy of mass-importation of millions of fake-ugees
-2016-06-30T23:12:47+0000,,0.072,0.117,0.811,-0.5267,0.12222222222222223,NEGATIVE,-0.9836708307266235,completely unlogical/English/inferior/,0.03333333333333333,0.13333333333333333,-0.3890322844187419,What is also completely unlogical is that the English are racists now unless you consider that the victory over the Brits and the Kelts and later over all the English colonies was always mainly supported by the feeling that all others than the English were inferior humans
-2016-06-25T12:54:06+0000,,0.282,0.031,0.687,0.9339,0.875,POSITIVE,0.994248628616333,great/proud/influencial/,0.5333333333333333,0.5833333333333334,0.34643218914667767,We may not all support what has happened with Brexit but please do not forget your country stick by us and together we can still achieve great things something to continue making us a proud and influencial nation on the world stage
-2016-06-22T22:05:13+0000,,0.0,0.0,1.0,0.0,0.5,POSITIVE,0.97120201587677,more majestic/,0.5,0.5,0.9998669624328613,Still more majestic shalt thou rise 
-2016-07-15T13:53:39+0000,,0.137,0.049,0.814,0.5719,0.65,NEGATIVE,-0.9750980734825134,best/,1.0,0.3,0.9960646033287048,Those cultures and individuals that do not submit to Sharia exist at best in a state of rebellion with Allah and are to be forcibly brought into submission
-2016-04-15T19:18:28+0000,,0.497,0.0,0.503,0.9413,0.7666666666666666,POSITIVE,0.9798504114151001,strong/Free/,0.41666666666666663,0.7666666666666666,0.8563499450683594,- Be always as you were in 1940 the Land of Hope and Glory united strong and Free against the Brussels Barbarians
-2017-03-03T11:06:08+0000,,0.168,0.0,0.832,0.3885,0.0,NEGATIVE,-0.9997866749763489,,0.0,0.0,0.0,Ã¢ÂÂWe voted to become Britain againÃ¢ÂÂ Question Time audience member HAILED for panel put-down
-2016-07-15T13:53:39+0000,,0.196,0.221,0.583,-0.5709,0.38958333333333334,NEGATIVE,-0.9965267777442932,murderous/deeply cynical/fractured/big/stable/popular/quasi/-/secular/chemical/social/Russian/Chinese/,0.002564102564102564,0.158974358974359,0.06753692718652579,This murderous and deeply cynical policy has sought either to reduce states to fractured pawns of big-oil interests or to destroy stable popular democracies and quasi-secular dictatorships that might control petro-chemical income for social advancement or as murderous manoeuvres in the Great Game against Russian and Chinese interests
-2016-06-21T12:11:04+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9990691542625427,,0.0,0.0,0.0,Now is the time to unite
-2017-03-09T11:00:00+0000,,0.0,0.104,0.896,-0.2144,0.6166666666666667,NEGATIVE,-0.9948135614395142,factually false/,-0.4000000000000001,0.6,-0.9951100945472717,And you have the problem where people have been accurately recorded but have said something factually false
-2016-11-09T21:37:27+0000,,0.0,0.412,0.588,-0.2732,0.0,NEGATIVE,-0.8430044054985046,,0.0,0.0,0.0,Although we were warned
-2016-12-08T11:00:00+0000,,0.0,0.0,1.0,0.0,0.375,NEGATIVE,-0.9927089214324951,other/,-0.125,0.375,0.8730196356773376,Germans have not looked as critically at other parts of their history
-2016-06-01T10:33:56+0000,,0.0,0.392,0.608,-0.5945,0.5,NEGATIVE,-0.7933323979377747,So many/,0.5,0.5,0.8157318830490112,So many millions died for that end
-2016-06-21T12:11:04+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9981788396835327,global/,0.0,0.0,0.9967538714408875,Today the internet connects us on a global scale
-2016-10-31T16:17:24+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9282042384147644,,0.0,0.0,0.0,Your people Anglo-Saxons  were still swinging from trees
-2016-06-01T10:33:56+0000,,0.0,0.0,1.0,0.0,1.0,NEGATIVE,-0.8482788801193237,own/,0.6,1.0,0.9662814140319824,And for their own ends tell lie after lie
-2016-11-09T21:37:27+0000,,0.0,0.362,0.638,-0.5267,0.0,NEGATIVE,-0.7913205027580261,,0.0,0.0,0.0,So we hang our heads in sorrow
-2017-02-20T00:59:12+0000,,0.0,0.703,0.297,-0.694,0.0,NEGATIVE,-0.9997497200965881,RACIST/,0.0,0.0,-0.9998877048492432,Is he RACIST
-2016-06-21T12:11:04+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.5363584756851196,,0.0,0.0,0.0,They are found in Article 2 of the TEU
-2016-07-15T13:53:39+0000,,0.127,0.0,0.873,0.5859,0.2857142857142857,NEGATIVE,-0.6770634651184082,certain/,0.21428571428571427,0.5714285714285714,0.9888041615486145,As is well-known to students of the American Constitution during WW1 a Socialist Party of America official a certain Mr Charles Schenck was convicted under the Espionage Act 1917 for publishing leaflets urging resistance to the draft
-2017-01-07T12:35:22+0000,,0.0,0.0,1.0,0.0,0.55,NEGATIVE,-0.9130043387413025,Ordinary/different/,-0.125,0.55,-0.9008623957633972,Ordinary women took a different view
-2016-02-27T20:50:26+0000,,0.12,0.218,0.662,-0.3869,0.7178571428571429,POSITIVE,0.987804651260376,23rd/,0.0,0.0,0.9540162086486816,We have a chance to right this wrong on 23rd June - Our Independence Day
-2016-06-25T05:18:54+0000,,0.089,0.188,0.723,-0.7964,0.4493589743589744,NEGATIVE,-0.9999929666519165,low/more/more more/even more/enough/how stupid/second/next/top/pure/stupid/,0.055844155844155856,0.4818181818181818,0.2967373403635892,and pay low taxes or a company like apple settle in Ireland and not pay one cent of taxes for more than 50 Billions of profit and we - working hard have to pay and pay and pay more and more working harder - paying even more and one job not being enough to feed a family - how stupid can we be to accept this and this is the second problem We sitting in our chairs in front of garbage-TV watching asshole-lands got talent or be the next superstar or top-model - pure garbage to fool us day by day by day and make us stupid by purpose
-2016-07-25T16:44:18+0000,,0.127,0.201,0.672,-0.25,0.0,POSITIVE,0.9669930934906006,23th/,0.0,0.0,0.9251003265380859,-the problem of Brexit itself which was resolved on 23th June
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9705791473388672,heuliet/,0.0,0.0,-0.5188853740692139,KentaÃÂ±-Maodiern Tchekia en deus embannet e challfe bezaÃÂ± heuliet ar R-U men em zieub eus U-E gant e vro hag emichaÃÂ±s gant broioÃÂ¹ all
-2016-09-26T17:48:36+0000,,0.153,0.137,0.71,0.0772,0.4583333333333333,NEGATIVE,-0.9835030436515808,Really informative/nice/,0.4,0.6,0.9815729856491089,Really informative post  This is a nice explanation of the mess from  FT commenter Ã¢ÂÂThe PoucaÃ¢ÂÂ
-2016-09-26T17:48:36+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.6603607535362244,,0.0,0.0,0.0,11
-2016-06-13T18:07:35+0000,,0.0,0.0,1.0,0.0,0.5,NEGATIVE,-0.9779085516929626,,0.0,0.0,0.0,Membership in the EU currently costs Britain approximately $30 billion annually
-2016-11-09T21:37:27+0000,,0.408,0.0,0.592,0.2665,0.5,NEGATIVE,-0.9973813891410828,So hardly surprising/,0.7,0.5,-0.9994009733200073,So its hardly surprising
-2016-05-31T06:11:29+0000,,0.0,0.0,0.0,0.0,0.0,POSITIVE,0.984086811542511,,0.0,0.0,0.0,5
-2016-06-08T06:18:30+0000,,0.0,0.0,1.0,0.0,0.32,NEGATIVE,-0.9419256448745728,How many/present/how many/cultural/,0.275,0.275,0.8637202978134155,How many of the natives live present days and how many of the cultural inheritance wasnt sacked or burned
-2016-08-19T07:54:55+0000,,0.0,0.388,0.612,-0.2263,0.0,NEGATIVE,-0.9960934519767761,obsessive/,0.0,0.0,-0.9986660480499268,The man was obsessive
-2016-10-31T16:17:24+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.7273018956184387,,0.0,0.0,0.0,When my people Greeks were writing philosophy
-2016-06-30T23:28:57+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.925699770450592,httpjournal/,0.0,0.0,-0.7792165279388428,httpjournal-neoorg20160427how-nato-linked-think-tanks-control-eu-refugee-policy
-2016-06-25T12:54:06+0000,,0.097,0.0,0.903,0.4767,0.75,POSITIVE,0.9999740123748779,little/unique/how multicultural/,0.0625,0.5,0.41447683175404865,Through all the little stories of our history and culture our unique sense of humour to the celebration of how multicultural we are as a nation as featured in this clip
-2016-07-25T16:44:18+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9970267415046692,,0.0,0.0,0.0,Neither the Governement nor the Parliamant have anything to decide about that  the people decided  thats a duty for them to invoke article 50 of Lisbon Treaty
-2016-05-31T06:11:29+0000,,0.0,0.0,0.0,0.0,0.0,POSITIVE,0.9200234413146973,,0.0,0.0,0.0,2
-2016-05-20T19:17:27+0000,,0.0,0.452,0.548,-0.5106,1.0,NEGATIVE,-0.9961978793144226,angry/,-0.5,1.0,-0.9984281063079834,Are YOU angry at this
-2016-04-24T07:29:24+0000,,0.326,0.0,0.674,0.892,0.8,POSITIVE,0.9870320558547974,most powerful/totally benevolent/totally dedicated/,0.13333333333333333,0.75,0.9941383798917135,Our monarch is head of 53 countries and should possibly be the most powerful leader on the planet yet she is totally benevolent totally dedicated
-2017-01-03T11:00:00+0000,,0.234,0.0,0.766,0.7003,0.55,NEGATIVE,-0.9992519021034241,good/,0.7,0.6000000000000001,0.9313951730728149,And if we cast Farage Boris and Theresa May as the conspirators against the good people it all looks rather better
-2016-07-27T22:57:38+0000,,0.129,0.224,0.647,-0.2263,0.0,NEGATIVE,-0.992277979850769,punitive/,0.0,0.0,-0.9920501112937927,In 2013 Barnier told Britain to accept punitive regulation of the City or leave the EU
-2016-06-22T21:50:41+0000,,0.0,0.202,0.798,-0.5106,0.5625,NEGATIVE,-0.9995496869087219,only/future/,0.0,0.5625,0.7707476019859314,The only control UK will have is about how to manage its future poverty
-2016-06-22T21:02:47+0000,,0.0,0.0,1.0,0.0,0.0,NEGATIVE,-0.9790275692939758,,0.0,0.0,0.0,Un anv o deus ar frammoÃÂ¹-se
-2016-08-11T10:42:28+0000,,0.283,0.0,0.717,0.743,0.5,POSITIVE,0.9994602799415588,countless/happy/,0.4,0.75,0.9742625653743744,Ten years ago my parents-in-law moved to Andalucia and we have had countless happy holidays staying with them
-2016-11-09T21:37:27+0000,,0.0,0.0,1.0,0.0,0.0,POSITIVE,0.9428222179412842,too fizzy/,0.0,0.0,-0.9810845255851746,But he is too fizzy
-2016-05-20T19:17:27+0000,,0.085,0.345,0.57,-0.8109,1.0,NEGATIVE,-0.9553796648979187,eternal/,0.0,0.0,0.9993896484375,May god rest his soul and eternal damnation for the foreigners who so cruelly took his life
-2016-06-24T16:52:52+0000,,0.0,0.333,0.667,-0.7579,1.0,NEGATIVE,-0.9916131496429443,sad/even sadder/,-0.25,0.5,-0.9853654205799103,This is a sad day for the UK--and perhaps an even sadder day for the world
-2016-07-15T13:53:39+0000,,0.087,0.256,0.656,-0.7506,0.1875,NEGATIVE,-0.9998007416725159,other/terrorist/,-0.0625,0.1875,-0.06285345554351807,Anybody who goes on a website favoring ISIS or Al Qaeda or other terrorist groups that should be a felony and they should go to jail
-2017-01-07T12:35:22+0000,,0.0,0.597,0.403,-0.8126,1.0,NEGATIVE,-0.9998087286949158,racist/narrow/minded/just stupid/,-0.25,0.35,-0.49971139430999756,Are they racist narrow-minded or just stupid
+created_time,_id,positive,negative,neutral,compound,subjectivity,flair,flair score,aspect terms,aspect tb polarity,aspect tb subjectivity,aspect flair
+2016-06-30T23:12:47+0000,,0,0.123,0.877,-0.3041,0.395833333333333,NEGATIVE,-0.969030559062958,logical/Ã¢ÂÂGreat/,0.125,0.125,0.971611738204956
+2017-01-07T12:35:22+0000,,0,0.111,0.889,-0.128,0.333333333333333,NEGATIVE,-0.994488477706909,academic/overwhelmingly left/,0,0,0.000288397073745728
+2016-07-25T16:44:18+0000,,0.35,0,0.65,0.8271,0,NEGATIVE,-0.965133428573608,gouarnamant/,0,0,0.995710134506226
+2016-09-10T07:49:31+0000,,0,0,1,0,0,POSITIVE,0.997899413108826,,0,0,0
+2016-12-08T11:00:00+0000,,0.125,0,0.875,0.5106,0,NEGATIVE,-0.736830174922943,jolly/,0,0,0.9908327460289
+2017-01-12T21:56:07+0000,,0,0,1,0,0,POSITIVE,0.994012176990509,victorious/,0,0,0.997191846370697
+2016-05-31T06:11:29+0000,,0,0,1,0,0.288888888888889,NEGATIVE,-0.852319896221161,numerical/,0,0,0.965987026691437
+2016-07-12T06:39:37+0000,,1,0,0,0.0258,0,NEGATIVE,-0.982176661491394,,0,0,0
+2016-05-31T06:11:29+0000,,0,0,1,0,1,POSITIVE,0.999423146247864,,0,0,0
+2016-06-27T15:40:39+0000,,0.243,0,0.757,0.8519,0.375,POSITIVE,0.986848175525665,outside jolly old/huge/happy/even few/English/heavy/,0.141666666666667,0.4375,0.0148927668730418
+2016-07-16T18:39:10+0000,,0,0,1,0,0,POSITIVE,0.547831833362579,,0,0,0
+2016-06-01T10:33:56+0000,,0,0,1,0,0.125,POSITIVE,0.968445718288422,fellow/same/,0,0.0625,0.755813747644424
+2016-06-22T22:05:13+0000,,0.351,0,0.649,0.4019,0.333333333333333,POSITIVE,0.790080785751343,,0,0,0
+2017-03-02T17:39:38+0000,,0.045,0.288,0.667,-0.926,0.583333333333333,NEGATIVE,-0.860613763332367,french/unable/brutal/many/bataclan/,-0.175,0.4,0.174515533447266
+2016-07-25T16:44:18+0000,,0.123,0,0.877,0.4497,1,NEGATIVE,-0.896774768829346,,0,0,0
+2017-02-17T10:51:34+0000,,0,0,1,0,0,POSITIVE,0.996054410934448,,0,0,0
+2016-06-22T21:02:47+0000,,0.072,0.077,0.851,-0.0258,0.166666666666667,POSITIVE,0.812977492809296,Selfless/,0,0,-0.756847202777863
+2016-05-31T06:11:29+0000,,0,0.218,0.782,-0.7783,0.269230769230769,NEGATIVE,-0.996896862983704,false/complete/regular/ample/,-0.075,0.269230769230769,0.00720570981502533
+2016-07-15T13:53:39+0000,,0,0,1,0,0.375,NEGATIVE,-0.996380031108856,multi/-/kulti/other/cultural/,-0.005,0.095,0.568583071231842
+2016-06-21T21:52:35+0000,,0,0,1,0,0.333333333333333,NEGATIVE,-0.919933557510376,first/,0.25,0.333333333333333,0.912291407585144
+2016-06-08T06:18:30+0000,,0.13,0,0.87,0.4019,0.5,POSITIVE,0.983796775341034,lesser/,0,0.5,-0.991211950778961
+2016-09-10T07:49:31+0000,,0.05,0,0.95,0.2023,0.318181818181818,NEGATIVE,-0.997314751148224,top/,0.5,0.5,0.99587893486023
+2016-06-22T21:02:47+0000,,0,0.065,0.935,-0.1027,0.194444444444444,POSITIVE,0.99643087387085,,0,0,0
+2016-06-22T22:15:09+0000,,0.174,0,0.826,0.2263,0,NEGATIVE,-0.978329062461853,prepared/,0,0,0.991618990898132
+2016-06-21T12:11:04+0000,,0,0,1,0,0.5,NEGATIVE,-0.967273533344269,,0,0,0
+2016-07-15T12:18:52+0000,,0.114,0.219,0.667,-0.2732,0.55,NEGATIVE,-0.999645233154297,blue/,0,0.1,0.941060423851013
+2016-07-11T18:59:47+0000,,0,0.091,0.909,-0.4767,0.357142857142857,NEGATIVE,-0.98637330532074,right/same/incorrect/wrong/,-0.0535714285714286,0.390178571428571,-0.122122570872307
+2016-06-24T18:19:14+0000,,0.658,0,0.342,0.8625,0.5,POSITIVE,0.994597673416138,better/,0.5,0.5,0.981102883815765
+2016-07-03T23:11:31+0000,,0,0,1,0,0,POSITIVE,0.983761250972748,,0,0,0
+2016-06-21T12:11:04+0000,,0,0,1,0,0.4,POSITIVE,0.997566819190979,Wide/,-0.1,0.4,-0.667449474334717
+2016-06-08T06:18:30+0000,,0,0,1,0,0,POSITIVE,0.94075870513916,,0,0,0
+2016-06-08T06:18:30+0000,,0,0,1,0,0.5,NEGATIVE,-0.948637843132019,,0,0,0
+2016-06-24T05:12:00+0000,,0,0,1,0,0,POSITIVE,0.979363858699799,,0,0,0
+2017-01-07T12:35:22+0000,,0.23,0,0.77,0.1258,0.875,NEGATIVE,-0.989212930202484,so silly/,-0.5,0.875,-0.970364630222321
+2016-09-26T17:48:36+0000,,0.152,0,0.848,0.3612,0,NEGATIVE,-0.532662570476532,fast/,0.2,0.6,0.954195976257324
+2016-07-25T16:44:18+0000,,0.212,0.18,0.608,0.0516,0.777777777777778,NEGATIVE,-0.983552396297455,violent/clearly determined/,-0.35,0.691666666666667,0.00221961736679077
+2016-05-31T06:11:29+0000,,0,0.545,0.455,-0.34,0,POSITIVE,0.67237001657486,European/,0,0,0.992491662502289
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.983761250972748,,0,0,0
+2016-06-22T21:02:47+0000,,0.324,0,0.676,0.34,0,NEGATIVE,-0.74677312374115,KÃÂªrdiz/,0,0,-0.983831763267517
+2016-06-07T18:12:16+0000,,0,0,1,0,0,POSITIVE,0.858221411705017,,0,0,0
+2016-05-23T18:22:35+0000,,0,0,1,0,0,NEGATIVE,-0.997902870178223,,0,0,0
+2016-06-13T18:07:35+0000,,0,0.055,0.945,-0.1027,0.625,NEGATIVE,-0.990713953971863,able/upcoming/,0.25,0.3125,0.995810866355896
+2016-08-11T10:42:28+0000,,0.124,0,0.876,0.34,0,POSITIVE,0.550458014011383,,0,0,0
+2016-06-22T21:50:41+0000,,0,0,1,0,0,POSITIVE,0.849696099758148,,0,0,0
+2016-06-13T18:07:35+0000,,0,0.055,0.945,-0.1027,0.625,NEGATIVE,-0.990713953971863,able/upcoming/,0.25,0.3125,0.995810866355896
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.98403000831604,diwar/,0,0,-0.872213006019592
+2016-06-21T12:11:04+0000,,0,0,1,0,0.4,POSITIVE,0.993470191955566,human/,0,0.1,0.999119579792023
+2016-06-21T12:11:04+0000,,0,0.307,0.693,-0.4767,0,NEGATIVE,-0.991643846035004,,0,0,0
+2016-06-21T12:11:04+0000,,0,0.433,0.567,-0.7469,0,POSITIVE,0.843389272689819,,0,0,0
+2017-01-12T21:54:19+0000,,0.067,0,0.933,0.3612,0.38,NEGATIVE,-0.847263038158417,horizontal/wide/more/wider/post/-/Brexit/industrial/British/fit/global/,0.0727272727272727,0.118181818181818,0.579099703918804
+2016-08-11T10:42:28+0000,,0.107,0,0.893,0.2846,0.344166666666667,POSITIVE,0.884128093719482,very least/fun/broad/,-0.00916666666666668,0.344166666666667,-0.20540056626002
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.997173070907593,,0,0,0
+2016-06-30T23:28:57+0000,,0,0.138,0.862,-0.34,0,NEGATIVE,-0.999432146549225,disorderly/,0,0,-0.999188244342804
+2016-05-31T06:11:29+0000,,0,0.167,0.833,-0.296,0,NEGATIVE,-0.997756659984589,unchecked/unhindered/,0,0,-0.934617340564728
+2016-07-15T13:53:39+0000,,0.294,0.334,0.371,-0.1027,0.175,NEGATIVE,-0.584569394588471,,0,0,0
+2016-06-27T15:40:39+0000,,0.353,0,0.647,0.8979,0.65,POSITIVE,0.990967690944672,best/,1,0.3,0.996064603328705
+2016-05-31T06:11:29+0000,,0,0,1,0,1,NEGATIVE,-0.997136354446411,,0,0,0
+2016-06-13T18:07:35+0000,,0,0,1,0,0.2,POSITIVE,0.868959546089172,,0,0,0
+2016-07-25T16:44:18+0000,,0.156,0,0.844,0.34,0,NEGATIVE,-0.998316884040833,,0,0,0
+2016-07-14T07:49:18+0000,,0,0,1,0,0,NEGATIVE,-0.537763297557831,,0,0,0
+2016-06-22T21:02:47+0000,,0.5,0,0.5,0.25,1,POSITIVE,0.975459218025208,necessary/,0,1,0.959552109241486
+2016-06-22T21:50:41+0000,,0.212,0.166,0.622,-0.0258,0.5,NEGATIVE,-0.995410144329071,several/,0,0,0.823158323764801
+2016-09-14T20:47:50+0000,,0.086,0,0.914,0.128,0.133333333333333,NEGATIVE,-0.963134765625,politically incompatible/diverse/legal/,0.0666666666666667,0.1,0.330667018890381
+2017-01-07T12:35:22+0000,,0,0,1,0,0.5,POSITIVE,0.917322218418121,,0,0,0
+2016-06-22T21:02:47+0000,,0.122,0,0.878,0.3612,0,NEGATIVE,-0.997961759567261,,0,0,0
+2016-07-25T16:44:18+0000,,0,0,1,0,0,NEGATIVE,-0.970543801784515,Mezheven/,0,0,0.776646614074707
+2016-12-08T11:00:00+0000,,0.432,0,0.568,0.5859,0.6,POSITIVE,0.989467084407806,,0,0,0
+2016-06-08T06:18:30+0000,,0,0,1,0,0,POSITIVE,0.94075870513916,,0,0,0
+2016-11-09T21:37:27+0000,,0,0,1,0,0,NEGATIVE,-0.97297477722168,,0,0,0
+2015-09-19T12:55:17+0000,,0,0,1,0,0.216666666666667,NEGATIVE,-0.980348885059357,Thee/haughty/,0,0,-0.00218626856803894
+2016-11-09T21:37:27+0000,,0,0,1,0,0,NEGATIVE,-0.920262038707733,,0,0,0
+2016-06-13T18:07:35+0000,,0,0,1,0,0.266931216931217,POSITIVE,0.577403903007507,such/most iconic/political/UKs/,0.125,0.275,0.493807822465897
+2016-06-22T21:02:47+0000,,0,0,1,0,0.5,NEGATIVE,-0.996145248413086,biological/onlyA/,0,0,0.960061132907867
+2017-01-12T21:54:19+0000,,0,0,1,0,0,POSITIVE,0.972732186317444,,0,0,0
+2016-03-14T21:47:06+0000,,0,0,1,0,0,NEGATIVE,-0.979060053825378,,0,0,0
+2016-06-25T12:54:06+0000,,0.194,0,0.806,0.6249,0.75,POSITIVE,0.998953223228455,industrial/great/,0.4,0.375,0.939996331930161
+2016-07-15T13:53:39+0000,,0.137,0.049,0.814,0.5719,0.65,NEGATIVE,-0.975098073482513,best/,1,0.3,0.996064603328705
+2016-06-28T15:57:08+0000,,0.258,0.176,0.566,0.5574,0.7,NEGATIVE,-0.998412847518921,collective/collectively worse/,-0.2,0.3,-0.00126516819000244
+2017-01-18T01:26:19+0000,,0,0.286,0.714,-0.0516,0,POSITIVE,0.803626835346222,,0,0,0
+2016-07-27T09:43:16+0000,,0.057,0.062,0.881,-0.0772,0.4,NEGATIVE,-0.943996727466583,illegal/,-0.5,0.5,-0.973088324069977
+2016-06-22T22:05:13+0000,,0.351,0,0.649,0.4019,0.333333333333333,POSITIVE,0.790080785751343,,0,0,0
+2016-07-15T13:53:39+0000,,0,0,1,0,0,POSITIVE,0.942158401012421,armed/genocidal/political/bent/,0,0.025,0.411313489079475
+2016-07-16T18:39:10+0000,,0.071,0.342,0.587,-0.8775,0.84,NEGATIVE,-0.99947863817215,Conservative/bad/mad/easy/completely confused/totally bored/,-0.298611111111111,0.7,-0.697077323993047
+2017-02-12T22:33:20+0000,,0,0,1,0,0,POSITIVE,0.998391091823578,,0,0,0
+2016-07-15T13:53:39+0000,,0,0,1,0,0,NEGATIVE,-0.949597656726837,,0,0,0
+2016-06-30T23:28:57+0000,,0,0.33,0.67,-0.7845,0,NEGATIVE,-0.916767299175263,ongoing/,0,0,0.98841780424118
+2017-03-29T11:30:57+0000,,0,0,1,0,0,NEGATIVE,-0.847883999347687,,0,0,0
+2016-11-09T21:37:27+0000,,0,0.583,0.417,-0.4215,0,NEGATIVE,-0.999191582202911,,0,0,0
+2017-01-07T12:35:22+0000,,0,0,1,0,0,POSITIVE,0.991340935230255,,0,0,0
+2017-03-02T17:39:38+0000,,0.036,0.274,0.691,-0.8834,1,NEGATIVE,-0.999655365943909,nasty/evil/,-1,1,-0.997360199689865
+2016-06-22T21:02:47+0000,,0,0,1,0,0.0833333333333333,POSITIVE,0.997742772102356,human/last/,0,0.0833333333333333,0.82043468952179
+2017-03-03T11:06:08+0000,,0.244,0,0.756,0.6705,0,NEGATIVE,-0.7757288813591,rapturous/,0,0,0.98936939239502
+2016-07-11T18:59:47+0000,,0.773,0,0.227,0.5267,0,POSITIVE,0.993041753768921,,0,0,0
+2016-06-27T15:40:39+0000,,0.271,0,0.729,0.3818,0,POSITIVE,0.98955500125885,,0,0,0
+2016-05-13T13:24:37+0000,,0.225,0,0.775,0.4939,0.5,POSITIVE,0.953378558158875,,0,0,0
+2016-06-08T06:18:30+0000,,0,0,1,0,1,POSITIVE,0.913586020469666,,0,0,0
+2016-06-22T21:02:47+0000,,0.167,0,0.833,0.34,0,POSITIVE,0.724402487277985,,0,0,0
+2017-03-26T13:11:52+0000,,0,0.245,0.755,-0.6369,0.155555555555556,NEGATIVE,-0.990391373634338,public/overwhelmingly negative/,-0.15,0.233333333333333,-0.0121930241584778
+2017-01-07T12:35:22+0000,,0.289,0,0.711,0.7845,0.9,POSITIVE,0.992919147014618,morally superior/virtuous/,0.35,0.45,0.99583774805069
+2016-05-31T06:11:29+0000,,0,0,1,0,0,POSITIVE,0.964538633823395,,0,0,0
+2016-04-24T07:29:24+0000,,0.189,0,0.811,0.5994,0.25,POSITIVE,0.996940135955811,historical/ever greater/,0.25,0.25,0.996423870325089
+2017-01-07T12:35:22+0000,,0,0.072,0.928,-0.1027,0.541666666666667,NEGATIVE,-0.998642861843109,hard/misguided/,-0.145833333333333,0.270833333333333,-0.848115503787994
+2017-03-14T02:59:47+0000,,0,0,1,0,0,NEGATIVE,-0.997033953666687,,0,0,0
+2016-06-21T12:11:04+0000,,0.206,0.13,0.664,0.3182,0.55,POSITIVE,0.974696099758148,different/greater/,0.25,0.55,0.0442165434360504
+2016-06-22T22:05:13+0000,,0,0.2,0.8,-0.0644,0,NEGATIVE,-0.65990823507309,,0,0,0
+2016-04-15T19:18:28+0000,,0.667,0,0.333,0.7184,0.3,POSITIVE,0.995264768600464,Good/British/,0.35,0.3,0.943756073713303
+2017-01-05T09:49:54+0000,,0.225,0,0.775,0.4404,0.1,POSITIVE,0.68692147731781,medieval/,0,0,0.769038677215576
+2016-07-25T16:44:18+0000,,0,0,1,0,1,NEGATIVE,-0.982431828975678,advisory/,0,0,0.979017674922943
+2016-09-10T07:49:31+0000,,0,0,1,0,0.6875,POSITIVE,0.949254631996155,,0,0,0
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.614848434925079,,0,0,0
+2016-06-22T22:15:09+0000,,0.394,0,0.606,0.6378,0.272222222222222,POSITIVE,0.633083462715149,prepared/less rich/Irish/,0.0347222222222222,0.136111111111111,0.898722271124522
+2016-07-11T18:59:47+0000,,0,0.279,0.721,-0.7845,0.546875,NEGATIVE,-0.986283421516419,whole/erroneous/further/,-0.1,0.5,0.327984054883321
+2016-05-31T06:11:29+0000,,0,0,1,0,1,NEGATIVE,-0.998002350330353,only polite/correct/,0,0.5,0.213729202747345
+2016-09-10T07:49:31+0000,,0,0,1,0,0.2,POSITIVE,0.996752142906189,European/,0,0,0.992491662502289
+2017-01-03T11:00:00+0000,,0.264,0,0.736,0.8271,0.458333333333333,POSITIVE,0.993870854377747,Much/full/able/,0.35,0.458333333333333,0.952304045359294
+2017-01-18T01:26:19+0000,,0.204,0,0.796,0.6249,0.375,NEGATIVE,-0.998159468173981,great/British/,0.4,0.375,0.97309672832489
+2016-05-31T06:11:29+0000,,0,0,1,0,0,POSITIVE,0.684203326702118,,0,0,0
+2016-02-27T20:50:26+0000,,0,0,1,0,0,NEGATIVE,-0.979060053825378,,0,0,0
+2016-06-01T10:33:56+0000,,0,0,1,0,1,NEGATIVE,-0.848278880119324,own/,0.6,1,0.966281414031982
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.710488319396973,,0,0,0
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.980465054512024,,0,0,0
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.983761250972748,,0,0,0
+2016-06-04T14:58:25+0000,,0.189,0.086,0.726,0.8316,0.466666666666667,POSITIVE,0.988279938697815,warmly encouraged/excellent/available/free/,0.6,0.7,0.920888721942902
+2017-02-17T16:00:47+0000,,0,0,1,0,0,POSITIVE,0.998187720775604,,0,0,0
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.968091309070587,,0,0,0
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.954742670059204,,0,0,0
+2016-06-21T12:11:04+0000,,0,0,1,0,0.25,POSITIVE,0.993721127510071,Many/British/,0.25,0.25,0.937956750392914
+2016-05-31T06:11:29+0000,,0.209,0.093,0.698,0.3612,0.15,POSITIVE,0.674246072769165,Paid/early/20th/,0.0333333333333333,0.1,0.863275746504466
+2016-09-14T20:47:50+0000,,0,0,1,0,0.3,NEGATIVE,-0.916532456874847,political/,0,0.1,0.706426918506622
+2016-06-30T23:28:57+0000,,0,0.069,0.931,-0.25,0.383333333333333,NEGATIVE,-0.99078768491745,anti/-/Brexit/pro/mass/full/such/23rd/,0.04375,0.13125,0.409789942204952
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.99947327375412,,0,0,0
+2017-01-12T21:54:19+0000,,0,0,1,0,0.5,POSITIVE,0.989964783191681,numerous/,0,0.5,0.879741847515106
+2017-01-12T21:56:07+0000,,0.187,0,0.813,0.4964,0.5,NEGATIVE,-0.991931259632111,more relaxed/most/,0.5,0.5,0.965043038129807
+2016-06-08T06:18:30+0000,,0,0.099,0.901,-0.296,0.375,POSITIVE,0.996879696846008,other/,-0.125,0.375,0.873019635677338
+2017-01-07T12:35:22+0000,,0,0.306,0.694,-0.296,0,NEGATIVE,-0.991306126117706,,0,0,0
+2017-03-28T20:00:09+0000,,0,0,1,0,0,NEGATIVE,-0.997033953666687,,0,0,0
+2016-06-22T21:02:47+0000,,0.13,0,0.87,0.34,0,NEGATIVE,-0.992572367191315,bet/,0,0,0.913745522499085
+2016-07-25T16:44:18+0000,,0,0,1,0,0,NEGATIVE,-0.969817817211151,,0,0,0
+2016-11-09T21:37:27+0000,,0,0.347,0.653,-0.1513,1,NEGATIVE,-0.999944567680359,so sorry/,-0.5,1,-0.999789416790009
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.843375563621521,,0,0,0
+2016-06-22T22:05:13+0000,,0.277,0,0.723,0.3182,0.9,POSITIVE,0.995056986808777,fair/,0.7,0.9,-0.99515163898468
+2016-08-19T07:54:55+0000,,0.11,0,0.89,0.3818,0.383333333333333,NEGATIVE,-0.9980588555336,clear/,0.1,0.383333333333333,0.99899560213089
+2016-06-30T23:12:47+0000,,0,0.091,0.909,-0.5267,0.307142857142857,NEGATIVE,-0.998103857040405,large/real/enough/Roman/,0.103571428571429,0.307142857142857,-0.288023889064789
+2017-03-14T02:59:47+0000,,0,0,1,0,0,NEGATIVE,-0.997033953666687,,0,0,0
+2016-07-25T16:44:18+0000,,0,0.135,0.865,-0.5994,0,NEGATIVE,-0.999265134334564,holl/,0,0,0.533489406108856
+2016-09-10T07:49:31+0000,,0,0,1,0,0,NEGATIVE,-0.99847823381424,,0,0,0
+2017-01-12T21:54:19+0000,,0,0,1,0,0.5,POSITIVE,0.989964783191681,numerous/,0,0.5,0.879741847515106
+2016-06-21T12:11:04+0000,,0.227,0.052,0.721,0.8316,0.257142857142857,NEGATIVE,-0.880679130554199,British/normal/human/great/,0.2375,0.375,0.52049121260643
+2016-07-12T06:39:37+0000,,0.358,0,0.642,0.8658,0.484848484848485,POSITIVE,0.860372424125671,new/larger/decisive/,0.0454545454545455,0.318181818181818,0.8499436378479
+2016-06-23T12:41:43+0000,,0,0.254,0.746,-0.5267,0.333333333333333,NEGATIVE,-0.999908328056335,FIRST/,0.25,0.333333333333333,0.912291407585144
+2016-07-15T12:18:52+0000,,0,0.153,0.847,-0.4023,0.51,NEGATIVE,-0.999906897544861,thin/blue/aged/,-0.166666666666667,0.45,-0.35261599222819
+2016-08-11T10:42:28+0000,,0,0,1,0,0.3,NEGATIVE,-0.754233956336975,,0,0,0
+2016-07-25T16:44:18+0000,,0.105,0,0.895,0.5859,0,NEGATIVE,-0.969977974891663,U/,0,0,-0.605727016925812
+2016-06-21T12:11:04+0000,,0,0,1,0,0.25,POSITIVE,0.993721127510071,Many/British/,0.25,0.25,0.937956750392914
+2016-07-11T18:59:47+0000,,0,0,1,0,0.25,POSITIVE,0.964689254760742,,0,0,0
+2016-06-25T05:18:54+0000,,0,0.3,0.7,-0.7184,0,NEGATIVE,-0.998925983905792,,0,0,0
+2017-01-12T21:56:07+0000,,0,0.091,0.909,-0.296,0.166666666666667,NEGATIVE,-0.987521827220917,specific/other/British/,-0.0416666666666667,0.166666666666667,0.940877060095469
+2016-06-22T22:15:09+0000,,0.394,0,0.606,0.6378,0.272222222222222,POSITIVE,0.633083462715149,prepared/less rich/Irish/,0.0347222222222222,0.136111111111111,0.898722271124522
+2016-06-24T16:52:52+0000,,0,0,1,0,0.26,NEGATIVE,-0.999824821949005,,0,0,0
+2016-09-10T07:49:31+0000,,0,0,1,0,0,NEGATIVE,-0.987752795219421,,0,0,0
+2016-06-27T15:40:39+0000,,0.535,0,0.465,0.3182,0.2,POSITIVE,0.920706331729889,how much/,0.2,0.2,0.915372669696808
+2016-06-27T12:38:41+0000,,0,0.121,0.879,-0.5719,0.1,NEGATIVE,-0.964888036251068,big/,0,0.1,-0.755753993988037
+2016-06-30T23:28:57+0000,,0.154,0.031,0.815,0.8316,0.388636363636364,NEGATIVE,-0.99930465221405,such/native/German/new/splendid/vigorous/,0.161616161616162,0.325757575757576,0.672521114349365
+2015-09-19T12:55:17+0000,,0,0,1,0,0,NEGATIVE,-0.993460416793823,,0,0,0
+2016-06-21T12:11:04+0000,,0.574,0,0.426,0.6597,0,POSITIVE,0.992199957370758,,0,0,0
+2016-04-24T07:29:24+0000,,0,0,1,0,0.325,POSITIVE,0.782549500465393,past/,-0.25,0.25,-0.829448282718658
+2016-06-19T13:14:10+0000,,0.329,0,0.671,0.5319,0,POSITIVE,0.993573844432831,,0,0,0
+2016-09-26T17:48:36+0000,,0,0,1,0,0,NEGATIVE,-0.999553382396698,,0,0,0
+2016-07-25T16:44:18+0000,,0,0,1,0,0,NEGATIVE,-0.983303546905518,devez/Mezheven/diwar/nevez/,0,0,0.409092351794243
+2016-06-08T06:18:30+0000,,0.183,0.219,0.597,-0.1372,1,NEGATIVE,-0.685615956783295,weakest/,0,0,-0.998242378234863
+2016-06-22T14:46:40+0000,,0,0,1,0,0,NEGATIVE,-0.994982421398163,,0,0,0
+2016-07-14T07:49:18+0000,,0.167,0,0.833,0.3818,0,POSITIVE,0.997398138046265,dual/,0,0,0.992233514785767
+2016-11-09T21:37:27+0000,,0,0.583,0.417,-0.4215,0,NEGATIVE,-0.999191582202911,,0,0,0
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.992958068847656,Ur/,0,0,-0.836710631847382
+2016-07-25T16:44:18+0000,,0.321,0.321,0.357,0,0.383333333333333,NEGATIVE,-0.999306440353394,,0,0,0
+2016-09-10T07:49:31+0000,,0,0,1,0,0.6875,POSITIVE,0.933283507823944,,0,0,0
+2016-06-22T22:05:13+0000,,0,0.2,0.8,-0.0644,0,NEGATIVE,-0.65990823507309,,0,0,0
+2016-05-31T06:11:29+0000,,0,0,1,0,0,POSITIVE,0.885771036148071,,0,0,0
+2016-06-13T18:07:35+0000,,0.377,0.091,0.532,0.5809,0.5,NEGATIVE,-0.998017072677612,more/,0.5,0.5,0.992647409439087
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.925434648990631,hollvedeladur/,0,0,0.760393917560577
+2016-06-30T23:28:57+0000,,0,0,1,0,0,NEGATIVE,-0.903606474399567,,0,0,0
+2016-05-31T06:11:29+0000,,0.565,0,0.435,0.3818,0,POSITIVE,0.992665946483612,Stronger/,0,0,0.998615264892578
+2016-07-16T18:23:06+0000,,0.067,0.081,0.852,-0.0772,0.0666666666666667,NEGATIVE,-0.845851063728333,Anglo/French/feudal/legal/,0.05,0.05,0.461006492376328
+2017-01-07T12:35:22+0000,,0.066,0.115,0.82,-0.2023,0.325,NEGATIVE,-0.999514579772949,liberal/strange/ordinary/,-0.1,0.216666666666667,-0.871036132176717
+2016-06-21T12:11:04+0000,,0.181,0,0.819,0.4754,0.583928571428572,POSITIVE,0.999076008796692,most popular/,0.55,0.7,0.999610960483551
+2016-06-22T21:02:47+0000,,0,0,1,0,0.5,NEGATIVE,-0.921163618564606,little/,-0.1875,0.5,-0.709233701229096
+2016-06-30T23:28:57+0000,,0.071,0.106,0.823,-0.3818,0.173333333333333,NEGATIVE,-0.987481594085693,titanic/internal/adequate/external/pro/-/refugee/faux/,0.0416666666666667,0.0541666666666667,0.225925996899605
+2017-02-12T22:33:20+0000,,0.14,0.062,0.798,0.2382,0.35,POSITIVE,0.988714039325714,successive/economic/,0.1,0.1,0.988899976015091
+2016-06-22T22:15:09+0000,,0,0.154,0.846,-0.2057,0.0625,NEGATIVE,-0.997962713241577,same/,0,0.125,0.514155149459839
+2016-06-22T21:02:47+0000,,0,0.281,0.719,-0.5994,0,NEGATIVE,-0.991249561309815,,0,0,0
+2017-01-12T21:56:07+0000,,0.07,0.102,0.828,-0.128,0,NEGATIVE,-0.989809632301331,affected/,0,0,0.577391028404236
+2016-06-22T22:15:09+0000,,0,0,1,0,0.166666666666667,NEGATIVE,-0.704846739768982,INNER/,0,0.166666666666667,0.997637987136841
+2016-09-10T07:49:31+0000,,0,0,1,0,0,NEGATIVE,-0.998426556587219,,0,0,0
+2016-11-09T21:37:27+0000,,0,0,1,0,0,POSITIVE,0.942822217941284,too fizzy/,0,0,-0.981084525585175
+2016-05-31T06:11:29+0000,,0,0,1,0,0.454545454545455,POSITIVE,0.955826103687286,new/sycophantic/,0.0681818181818182,0.227272727272727,0.0220215022563934
+2017-01-07T12:35:22+0000,,0,0,1,0,0.3,POSITIVE,0.994800806045532,shorter/real/longer/,0.0666666666666667,0.1,0.209644556045532
+2016-06-13T06:38:06+0000,,0,0,1,0,0,POSITIVE,0.99740332365036,,0,0,0
+2016-09-26T17:48:36+0000,,0.086,0,0.914,0.4404,0.05,NEGATIVE,-0.996707916259766,,0,0,0
+2016-05-13T13:24:37+0000,,0,0,1,0,0.4,NEGATIVE,-0.80157858133316,similar/,0,0.4,-0.909181416034699
+2016-05-31T06:11:29+0000,,0,0,1,0,0.567857142857143,POSITIVE,0.988273978233337,about right/,0.285714285714286,0.535714285714286,0.561012923717499
+2016-04-16T10:28:27+0000,,0.143,0.235,0.622,-0.6124,0.583333333333333,POSITIVE,0.584958434104919,great/,0.8,0.75,0.99007648229599
+2016-06-08T06:18:30+0000,,0.222,0.153,0.625,0.2467,0.522222222222222,POSITIVE,0.963662087917328,more creative/,0.5,0.75,0.999326586723328
+2016-04-12T09:07:53+0000,,0.289,0,0.711,0.875,0.525,NEGATIVE,-0.843464612960815,ready/clean/free/Roman/,0.241666666666667,0.5,0.477222070097923
+2016-07-27T22:57:38+0000,,0,0,1,0,0,NEGATIVE,-0.99881112575531,Ã¢ÂÂbig/,0,0,-0.929361462593079
+2017-01-18T01:26:19+0000,,0,0,1,0,0,NEGATIVE,-0.838920176029205,,0,0,0
+2016-09-10T07:49:31+0000,,0.171,0,0.829,0.8018,0.366666666666667,POSITIVE,0.999452769756317,collective/European/so very appetising/exciting/,0.125,0.275,0.996478974819183
+2016-06-25T08:16:08+0000,,0,0.39,0.61,-0.4939,0,POSITIVE,0.53082537651062,,0,0,0
+2017-01-18T01:26:19+0000,,0.433,0,0.567,0.7269,1,POSITIVE,0.99409419298172,brilliant/,0.9,1,0.998248934745789
+2016-06-22T21:50:41+0000,,0,0.405,0.595,-0.5267,0.333333333333333,NEGATIVE,-0.999934434890747,FIRST/,0.25,0.333333333333333,0.912291407585144
+2017-03-23T15:05:40+0000,,0.229,0.229,0.542,0,0,NEGATIVE,-0.986857891082764,next/,0,0,0.899904370307922
+2017-03-02T17:39:38+0000,,0.036,0.274,0.691,-0.8834,1,NEGATIVE,-0.999655365943909,nasty/evil/,-1,1,-0.997360199689865
+2016-06-22T22:05:13+0000,,0,0.39,0.61,-0.4927,0.541666666666667,NEGATIVE,-0.999902367591858,More dreadful/foreign/,-0.1875,0.4375,-0.992754340171814
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.669258058071137,,0,0,0
+2016-06-23T12:41:43+0000,,0,0.13,0.87,-0.0516,0,NEGATIVE,-0.925531327724457,,0,0,0
+2016-05-31T06:11:29+0000,,0.167,0,0.833,0.4215,0.2,NEGATIVE,-0.994048357009888,much easier/counterfeit/,0.1,0.1,-0.173820227384567
+2016-09-10T07:49:31+0000,,0.074,0,0.926,0.4939,0.5,NEGATIVE,-0.999549686908722,electric/Indian/impertinent/little/more/,0.0625,0.2,0.252007961273193
+2015-09-19T12:55:17+0000,,0,0,1,0,0,POSITIVE,0.968569934368134,rural/,0,0,-0.876789510250092
+2016-06-12T21:32:44+0000,,0.042,0.231,0.727,-0.878,0.52962962962963,NEGATIVE,-0.808672189712524,Roman/sure/rash/,0.166666666666667,0.296296296296296,-0.255690117677053
+2017-01-07T12:35:22+0000,,0,0,1,0,0,NEGATIVE,-0.967906773090363,liberal/,0,0,-0.728751420974731
+2017-01-12T21:54:19+0000,,0,0,1,0,0,POSITIVE,0.972732186317444,,0,0,0
+2016-06-21T12:11:04+0000,,0.351,0,0.649,0.4019,0,NEGATIVE,-0.982084333896637,,0,0,0
+2016-06-16T10:06:23+0000,,0.129,0.155,0.717,-0.4508,0.420833333333333,NEGATIVE,-0.989307582378388,British/straight/just confused/,-0.0666666666666667,0.366666666666667,0.304978688557943
+2016-06-30T23:28:57+0000,,0.073,0.146,0.781,-0.4215,0.713333333333333,NEGATIVE,-0.920368015766144,such/anti/-/Soros/all enough popular/conservative/nationalist/sensational/,0.120833333333333,0.233333333333333,0.484844893217087
+2016-06-01T10:33:56+0000,,0,0,1,0,0,POSITIVE,0.975065588951111,,0,0,0
+2016-06-08T06:18:30+0000,,0,0.177,0.823,-0.5106,0.141666666666667,POSITIVE,0.784496426582336,same/old/ignorant/,0.0333333333333333,0.108333333333333,-0.495148460070292
+2016-06-22T21:02:47+0000,,0,0.102,0.898,-0.3818,0.65,POSITIVE,0.843980371952057,always possible/personal/civic/,0,0.433333333333333,0.99749227364858
+2016-06-30T23:28:57+0000,,0.177,0.059,0.764,0.7003,0.341666666666667,NEGATIVE,-0.9882892370224,valiant/quick/British/,0.111111111111111,0.166666666666667,0.96111665169398
+2016-06-13T18:07:35+0000,,0.045,0.123,0.832,-0.3716,0.180555555555556,NEGATIVE,-0.949167430400848,UKs/British/,0,0,0.172275066375732
+2016-12-26T05:37:27+0000,,0,0.326,0.674,-0.4404,0,NEGATIVE,-0.998835623264313,Muslim/,0,0,-0.835408747196198
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.954742670059204,,0,0,0
+2016-06-13T18:07:35+0000,,0.045,0.123,0.832,-0.3716,0.180555555555556,NEGATIVE,-0.949167430400848,UKs/British/,0,0,0.172275066375732
+2016-07-27T09:43:16+0000,,0,0,1,0,0,NEGATIVE,-0.994941651821137,British/,0,0,0.95611697435379
+2016-05-31T06:11:29+0000,,0,0,1,0,0,POSITIVE,0.945016801357269,,0,0,0
+2017-01-07T12:35:22+0000,,0,0.242,0.758,-0.4364,0.3,POSITIVE,0.956618845462799,,0,0,0
+2016-05-23T18:22:35+0000,,0,0.126,0.874,-0.0772,0,POSITIVE,0.926764905452728,,0,0,0
+2017-01-12T21:56:07+0000,,0,0,1,0,0.5,POSITIVE,0.989964783191681,numerous/,0,0.5,0.879741847515106
+2016-04-16T10:28:27+0000,,0,0.161,0.839,-0.3182,0,NEGATIVE,-0.98847883939743,,0,0,0
+2016-06-27T12:38:41+0000,,0,0,1,0,0,POSITIVE,0.688526511192322,,0,0,0
+2016-09-10T07:49:31+0000,,0.124,0,0.876,0.5267,0.107142857142857,POSITIVE,0.962940275669098,European/single/,-0.0357142857142857,0.107142857142857,0.215900540351868
+2016-06-22T21:02:47+0000,,0,0.216,0.784,-0.296,0.175,NEGATIVE,-0.98437887430191,,0,0,0
+2016-06-13T18:07:35+0000,,0,0.709,0.291,-0.8074,0.3,NEGATIVE,-0.999961733818054,dismal/,0,0,-0.99996030330658
+2016-06-22T21:02:47+0000,,0,0,1,0,0.1,POSITIVE,0.929431557655335,few/,-0.2,0.1,-0.542768478393555
+2016-07-15T13:53:39+0000,,0.156,0.144,0.7,0.25,0.0933333333333333,NEGATIVE,-0.942520022392273,urgent/last/best/classical/Western/half respectable/constitutional/1st/co/-/ordinated/,0.106060606060606,0.0636363636363636,0.781558920036663
+2016-06-24T05:55:01+0000,,0,0,1,0,0,POSITIVE,0.979363858699799,,0,0,0
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.979363858699799,,0,0,0
+2016-05-31T06:11:29+0000,,0,0.131,0.869,-0.3089,0,NEGATIVE,-0.887545704841614,,0,0,0
+2016-06-21T12:11:04+0000,,0.344,0,0.656,0.8591,0.5,POSITIVE,0.99771249294281,common/non/-/discrimination/,-0.075,0.125,-0.0589225292205811
+2016-06-22T21:02:47+0000,,0.13,0,0.87,0.34,0,NEGATIVE,-0.992572367191315,bet/,0,0,0.913745522499085
+2016-06-22T22:15:09+0000,,0,0.405,0.595,-0.5267,0.333333333333333,NEGATIVE,-0.999934434890747,FIRST/,0.25,0.333333333333333,0.912291407585144
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.768318891525269,neketa/,0,0,0.562492430210114
+2016-06-21T21:52:35+0000,,0,0,1,0,0,POSITIVE,0.986640632152557,,0,0,0
+2016-09-26T17:48:36+0000,,0.262,0,0.738,0.4939,0.125,POSITIVE,0.982017755508423,same/,0,0.125,0.514155149459839
+2016-06-22T22:05:13+0000,,0.597,0,0.403,0.8126,0.775,POSITIVE,0.948556005954742,shalt/great/free/,0.4,0.516666666666667,0.236462414264679
+2016-04-16T10:28:27+0000,,0,0,1,0,0,POSITIVE,0.853300273418427,,0,0,0
+2016-06-23T12:41:43+0000,,0.212,0.166,0.622,-0.0258,0.5,NEGATIVE,-0.995410144329071,several/,0,0,0.823158323764801
+2016-06-25T12:54:06+0000,,0,0,1,0,0,NEGATIVE,-0.930010974407196,,0,0,0
+2016-08-11T10:42:28+0000,,0.315,0,0.685,0.3182,0,POSITIVE,0.997044861316681,,0,0,0
+2016-06-30T23:28:57+0000,,0,0,1,0,0,POSITIVE,0.887571156024933,open/,0,0.5,0.977954268455505
+2016-06-13T18:07:35+0000,,0,0.055,0.945,-0.1027,0.625,NEGATIVE,-0.990713953971863,able/upcoming/,0.25,0.3125,0.995810866355896
+2016-07-25T16:44:18+0000,,0,0.574,0.426,-0.4019,0,NEGATIVE,-0.994725167751312,,0,0,0
+2016-06-07T18:12:16+0000,,0.263,0.434,0.303,-0.4019,0.4,NEGATIVE,-0.892934024333954,alive/dead/,-0.05,0.4,-0.000441044569015503
+2016-06-22T21:02:47+0000,,0,0.29,0.71,-0.4745,0.833333333333333,NEGATIVE,-0.996764779090881,important/empty/,0.15,0.75,-0.00420123338699341
+2016-06-21T12:11:04+0000,,0,0,1,0,0.375,POSITIVE,0.970870792865753,other/,-0.125,0.375,0.873019635677338
+2016-07-25T16:44:18+0000,,0.294,0,0.706,0.3612,0,POSITIVE,0.873088479042053,,0,0,0
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.954742670059204,,0,0,0
+2017-01-12T21:56:07+0000,,0,0,1,0,0.454545454545455,POSITIVE,0.988586723804474,new/,0.136363636363636,0.454545454545455,0.998695313930512
+2016-05-31T06:11:29+0000,,0.623,0,0.377,0.5106,0.733333333333333,POSITIVE,0.996071219444275,Strong/,0.433333333333333,0.733333333333333,0.993737101554871
+2017-02-22T00:27:44+0000,,0,0,1,0,0,NEGATIVE,-0.950917363166809,,0,0,0
+2016-11-09T21:37:27+0000,,0.6,0,0.4,0.5423,0,NEGATIVE,-0.729598581790924,colonial/,0,0,-0.657203137874603
+2016-07-25T16:44:18+0000,,0,0.16,0.84,-0.8225,0.35,NEGATIVE,-0.984872460365295,,0,0,0
+2017-03-11T21:27:21+0000,,0,0,1,0,0,NEGATIVE,-0.99965226650238,,0,0,0
+2016-06-22T21:02:47+0000,,0.072,0.077,0.851,-0.0258,0.166666666666667,POSITIVE,0.812977492809296,Selfless/,0,0,-0.756847202777863
+2016-06-08T06:18:30+0000,,0,0,1,0,0,POSITIVE,0.885876476764679,,0,0,0
+2016-06-01T10:33:56+0000,,0,0.438,0.562,-0.5994,0,POSITIVE,0.999751389026642,,0,0,0
+2016-05-31T06:11:29+0000,,0,0,1,0,0,POSITIVE,0.760032594203949,,0,0,0
+2016-06-29T19:35:01+0000,,0,0,1,0,0,NEGATIVE,-0.63345193862915,,0,0,0
+2016-06-22T21:02:47+0000,,0.079,0,0.921,0.34,0,NEGATIVE,-0.514759361743927,KÃÂªrdiz/,0,0,-0.983831763267517
+2016-06-01T10:33:56+0000,,0,0.438,0.562,-0.5994,0,POSITIVE,0.99770587682724,,0,0,0
+2016-05-31T06:11:29+0000,,0,0,1,0,0,POSITIVE,0.997887194156647,,0,0,0
+2016-02-27T20:50:26+0000,,0.063,0.144,0.794,-0.4482,0.9,NEGATIVE,-0.990445733070374,,0,0,0
+2017-01-03T11:00:00+0000,,0,0,1,0,0.266666666666667,NEGATIVE,-0.996433615684509,Second/long/,-0.025,0.2,0.0393955111503601
+2016-05-13T13:24:37+0000,,0.225,0,0.775,0.4939,0.5,POSITIVE,0.953378558158875,,0,0,0
+2016-06-24T05:55:01+0000,,0,0,1,0,0,POSITIVE,0.979363858699799,,0,0,0
+2016-06-21T12:11:04+0000,,0,0,1,0,0.3,POSITIVE,0.999498963356018,Many/human/,0.25,0.3,0.95945805311203
+2017-01-07T12:35:22+0000,,0,0.381,0.619,-0.8126,1,NEGATIVE,-0.947272121906281,outrageous/,-1,1,0.82719624042511
+2016-04-15T19:18:28+0000,,0,0.12,0.88,-0.3818,0,POSITIVE,0.631245911121368,,0,0,0
+2016-06-22T22:05:13+0000,,0.597,0,0.403,0.8126,0.775,POSITIVE,0.948556005954742,shalt/great/free/,0.4,0.516666666666667,0.236462414264679
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.614848434925079,,0,0,0
+2016-06-23T12:41:43+0000,,0,0,1,0,0.85,POSITIVE,0.992916822433472,,0,0,0
+2017-01-18T01:26:19+0000,,0,0,1,0,0.25,NEGATIVE,-0.991933166980743,equal/,0,0.25,0.998474299907684
+2016-06-22T21:02:47+0000,,0,0,1,0,0.475,POSITIVE,0.962417721748352,Relocated/such/,0,0.25,0.905570209026337
+2016-05-31T06:11:29+0000,,0.224,0,0.776,0.3818,0.55,NEGATIVE,-0.891610026359558,political/,0,0.1,0.706426918506622
+2016-06-27T12:38:41+0000,,0,0.808,0.192,-0.8126,0,NEGATIVE,-0.999971866607666,,0,0,0
+2016-05-31T06:11:29+0000,,0,0,0,0,0,POSITIVE,0.920023441314697,,0,0,0
+2016-06-04T14:58:25+0000,,0.105,0.016,0.88,0.8519,0.322098214285714,NEGATIVE,-0.507583200931549,tidal/unwanted/further/single/European/unitary/ever more/foreign/contrary/own/national/,0.0821428571428571,0.212662337662338,0.30772480097684
+2016-05-31T06:11:29+0000,,0,0.235,0.765,-0.4728,0.191666666666667,NEGATIVE,-0.998851418495178,reciprocal/medical/other/useless/,-0.15625,0.14375,0.435569286346436
+2016-06-01T10:33:56+0000,,0,0,1,0,0.5,NEGATIVE,-0.999963879585266,heavy/,-0.2,0.5,-0.734548449516296
+2016-06-30T23:28:57+0000,,0,0,1,0,0.7,NEGATIVE,-0.931905686855316,,0,0,0
+2016-06-22T22:15:09+0000,,0.134,0.162,0.704,-0.1027,0.269230769230769,NEGATIVE,-0.996582329273224,prepared/,0,0,0.991618990898132
+2016-06-22T21:02:47+0000,,0,0,1,0,0.291666666666667,NEGATIVE,-0.654761075973511,adjacent/more local/other/,0.0416666666666667,0.208333333333333,0.913365602493286
+2016-07-16T18:39:10+0000,,0,0,1,0,0,POSITIVE,0.547831833362579,,0,0,0
+2016-07-12T06:39:37+0000,,0.726,0,0.274,0.6486,0,NEGATIVE,-0.62330961227417,,0,0,0
+2016-06-27T12:38:41+0000,,0.608,0,0.392,0.4767,0,POSITIVE,0.996022820472717,,0,0,0
+2017-01-12T21:56:07+0000,,0.081,0.068,0.851,0.0772,0,NEGATIVE,-0.977380216121674,discretionary/,0,0,0.800250351428986
+2016-06-21T12:11:04+0000,,0,0.403,0.597,-0.4019,0,NEGATIVE,-0.985557973384857,,0,0,0
+2017-03-01T20:47:00+0000,,0,0.17,0.83,-0.7876,0.502380952380952,NEGATIVE,-0.991783618927002,current/just few/short/catastrophic/,-0.05,0.2,-0.495201423764229
+2017-03-29T11:30:57+0000,,0,0,1,0,0,POSITIVE,0.979363858699799,,0,0,0
+2017-01-19T02:09:03+0000,,0,0.158,0.842,-0.4588,0,NEGATIVE,-0.996770620346069,kosher/,0,0,0.528162360191345
+2016-06-22T21:02:47+0000,,0.094,0,0.906,0.34,0,POSITIVE,0.849517643451691,,0,0,0
+2016-06-21T12:11:04+0000,,0,0,1,0,0.1875,POSITIVE,0.854950308799744,other/European/,-0.0625,0.1875,0.932755649089813
+2016-04-16T10:28:27+0000,,0.135,0.156,0.709,-0.0772,0,NEGATIVE,-0.8208127617836,,0,0,0
+2016-08-19T07:54:55+0000,,0,0,1,0,0,POSITIVE,0.997617661952972,,0,0,0
+2016-06-24T21:40:17+0000,,0.592,0,0.408,0.4404,0.6,POSITIVE,0.977218508720398,Good/,0.7,0.6,0.931395173072815
+2017-03-02T17:39:38+0000,,0,0.333,0.667,-0.5413,0.5,NEGATIVE,-0.999079585075378,french/completely mad/,-0.3125,0.5,-0.0142858028411865
+2016-06-24T16:52:52+0000,,0.135,0.031,0.833,0.6124,0.433333333333333,NEGATIVE,-0.980651557445526,own/nationalist/far/right/,0.246428571428571,0.633928571428571,0.586898863315582
+2016-06-08T06:18:30+0000,,0.183,0.219,0.597,-0.1372,1,NEGATIVE,-0.685615956783295,weakest/,0,0,-0.998242378234863
+2016-07-27T09:43:16+0000,,0.21,0.21,0.58,0,0.383333333333333,NEGATIVE,-0.994899809360504,clear/,0.1,0.383333333333333,0.99899560213089
+2016-06-22T21:02:47+0000,,0.237,0,0.763,0.4215,0.592857142857143,POSITIVE,0.995422422885895,true/,0.35,0.65,0.997733473777771
+2016-12-26T05:37:27+0000,,0,0,1,0,0,NEGATIVE,-0.989061594009399,,0,0,0
+2016-12-08T11:00:00+0000,,0,0.197,0.803,-0.4019,0.95,NEGATIVE,-0.992809534072876,,0,0,0
+2016-05-31T06:11:29+0000,,0.464,0,0.536,0.3818,0.4,POSITIVE,0.997635126113892,young/,0.1,0.4,0.954427897930145
+2016-06-30T23:12:47+0000,,0.402,0.304,0.294,0.25,0.825,NEGATIVE,-0.960241377353668,wrong/,-0.5,0.9,-0.994579553604126
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.913187325000763,,0,0,0
+2017-03-09T11:00:00+0000,,0.138,0.036,0.826,0.5719,0.31,POSITIVE,0.976838767528534,ordinary/narrow/useful/different/,-0.0375,0.375,-0.481888487935066
+2016-06-08T06:18:30+0000,,0.211,0,0.789,0.5499,0.65,POSITIVE,0.996899127960205,best/,1,0.3,0.996064603328705
+2016-06-22T22:15:09+0000,,0.394,0,0.606,0.6378,0.272222222222222,POSITIVE,0.633083462715149,prepared/less rich/Irish/,0.0347222222222222,0.136111111111111,0.898722271124522
+2016-07-07T08:34:26+0000,,0,0,1,0,0.4,POSITIVE,0.879899680614471,deeply pro/-/Europe/,0,0.133333333333333,0.974968910217285
+2016-06-27T12:38:41+0000,,0,0.121,0.879,-0.5719,0.1,NEGATIVE,-0.964888036251068,big/,0,0.1,-0.755753993988037
+2017-02-10T21:03:52+0000,,0.329,0,0.671,0.5994,0,POSITIVE,0.602473318576813,,0,0,0
+2016-06-22T22:05:13+0000,,0.277,0,0.723,0.3182,0.9,POSITIVE,0.995056986808777,fair/,0.7,0.9,-0.99515163898468
+2017-03-14T02:59:47+0000,,0,0,1,0,0,NEGATIVE,-0.997033953666687,,0,0,0
+2016-07-07T08:34:26+0000,,0,0,1,0,0.4,POSITIVE,0.879899680614471,deeply pro/-/Europe/,0,0.133333333333333,0.974968910217285
+2016-06-22T21:02:47+0000,,0.112,0,0.888,0.4404,0.375,NEGATIVE,-0.991824686527252,Czech/other/,-0.0625,0.1875,0.830638647079468
+2016-07-15T13:53:39+0000,,0.067,0,0.933,0.128,1,POSITIVE,0.911437571048737,federal/,0,0,0.886969327926636
+2016-06-22T21:02:47+0000,,0.131,0.213,0.656,-0.3612,0,POSITIVE,0.88527923822403,,0,0,0
+2017-03-11T21:27:21+0000,,0,0,1,0,0,NEGATIVE,-0.99965226650238,,0,0,0
+2016-06-21T21:52:35+0000,,0,0,1,0,1,POSITIVE,0.795745432376862,final/,0,1,0.955391883850098
+2016-06-08T06:18:30+0000,,0,0,1,0,0,POSITIVE,0.94075870513916,,0,0,0
+2016-06-30T23:28:57+0000,,0,0,1,0,0,NEGATIVE,-0.632992565631867,,0,0,0
+2016-07-14T07:49:18+0000,,0,0,1,0,0,POSITIVE,0.99117636680603,,0,0,0
+2016-06-22T21:02:47+0000,,0,0.29,0.71,-0.4745,0.833333333333333,NEGATIVE,-0.996764779090881,important/empty/,0.15,0.75,-0.00420123338699341
+2017-02-22T00:27:44+0000,,0,0.094,0.906,-0.3818,0.267857142857143,NEGATIVE,-0.581507325172424,clean/,0.366666666666667,0.7,0.994915723800659
+2016-06-21T21:52:35+0000,,0.109,0,0.891,0.0258,0.288888888888889,NEGATIVE,-0.993393123149872,,0,0,0
+2016-06-22T22:05:13+0000,,0,0,1,0,0,NEGATIVE,-0.999710857868195,Blest/,0,0,-0.999908924102783
+2016-06-30T23:28:57+0000,,0,0,1,0,0,POSITIVE,0.975745379924774,,0,0,0
+2017-01-12T21:54:19+0000,,0,0.091,0.909,-0.296,0.166666666666667,NEGATIVE,-0.987521827220917,specific/other/British/,-0.0416666666666667,0.166666666666667,0.940877060095469
+2016-05-31T06:11:29+0000,,0,0,1,0,0.288888888888889,NEGATIVE,-0.852319896221161,numerical/,0,0,0.965987026691437
+2016-11-09T21:37:27+0000,,0,0.347,0.653,-0.1513,1,NEGATIVE,-0.999944567680359,so sorry/,-0.5,1,-0.999789416790009
+2016-06-22T21:02:47+0000,,0.04,0.066,0.894,-0.3612,0,POSITIVE,0.713276207447052,galloud/brezel/,0,0,-0.066631555557251
+2016-06-30T23:28:57+0000,,0,0,1,0,0,NEGATIVE,-0.745319902896881,,0,0,0
+2016-06-01T10:33:56+0000,,0,0.351,0.649,-0.4019,0,NEGATIVE,-0.902769505977631,,0,0,0
+2016-09-26T17:48:36+0000,,0.153,0.137,0.71,0.0772,0.458333333333333,NEGATIVE,-0.983503043651581,Really informative/nice/,0.4,0.6,0.981572985649109
+2016-06-08T06:18:30+0000,,0.477,0.295,0.227,0.3818,0.6,POSITIVE,0.99731171131134,,0,0,0
+2016-05-31T06:11:29+0000,,0,0,1,0,1,POSITIVE,0.999423146247864,,0,0,0
+2016-08-19T07:54:55+0000,,0,0,1,0,0,NEGATIVE,-0.956888377666473,,0,0,0
+2016-06-22T21:02:47+0000,,0,0.074,0.926,-0.5994,0,NEGATIVE,-0.782733917236328,haÃÂ±val/-/kaout/,0,0,0.331981341044108
+2016-06-23T12:41:43+0000,,0,0.432,0.568,-0.7261,0.541666666666667,NEGATIVE,-0.998637020587921,more WEAK/vulnerable/,-0.21875,0.53125,-0.0243873596191406
+2016-03-11T03:55:17+0000,,0.13,0,0.87,0.5106,0.8,NEGATIVE,-0.998725235462189,IcelandÃ¢ÂÂs/prime/free/,0.133333333333333,0.266666666666667,0.280340135097504
+2016-09-10T07:49:31+0000,,0.261,0,0.739,0.6486,0.6,NEGATIVE,-0.687760055065155,as many/possible/personal/,0.166666666666667,0.6,0.482477148373922
+2016-09-10T07:49:31+0000,,0,0,1,0,0.333333333333333,NEGATIVE,-0.997626602649689,most pernicious/Little/English/,0.104166666666667,0.333333333333333,-0.27004732688268
+2016-06-08T06:18:30+0000,,0.125,0.091,0.784,0.0258,1,NEGATIVE,-0.99564254283905,mega/own/,0.3,0.5,0.979138076305389
+2016-06-21T12:11:04+0000,,0.639,0,0.361,0.6486,0.55,NEGATIVE,-0.954358816146851,brave/worth/,0.55,0.55,0.991384446620941
+2016-11-09T21:37:27+0000,,0,0.347,0.653,-0.1513,1,NEGATIVE,-0.999944567680359,so sorry/,-0.5,1,-0.999789416790009
+2016-05-31T06:11:29+0000,,0,0,0,0,0,POSITIVE,0.890068471431732,,0,0,0
+2017-03-14T05:24:12+0000,,0.371,0,0.629,0.6289,0,POSITIVE,0.981582641601563,,0,0,0
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.903336822986603,FraÃÂ±s/,0,0,-0.991503357887268
+2017-03-11T21:27:21+0000,,0,0,1,0,0,NEGATIVE,-0.641242682933807,new/london/official/,0.0454545454545455,0.151515151515152,0.9472536444664
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.97047370672226,,0,0,0
+2016-06-16T10:06:23+0000,,0.036,0.053,0.911,-0.3071,0.5625,NEGATIVE,-0.974676072597504,fierce/fake/,-0.25,0.5,-0.0282203853130341
+2017-01-03T11:00:00+0000,,0,0,1,0,0,NEGATIVE,-0.995242357254028,noblest/Roman/,0,0,0.117966651916504
+2016-09-10T07:49:31+0000,,0.103,0.066,0.831,0.5267,0.45,NEGATIVE,-0.879379272460938,old/,0.1,0.2,-0.999815046787262
+2016-11-09T21:37:27+0000,,0,0,1,0,0,NEGATIVE,-0.97297477722168,,0,0,0
+2016-11-28T07:31:26+0000,,0,0,1,0,0.5,POSITIVE,0.939385890960693,more/,0.5,0.5,0.992647409439087
+2017-02-17T16:00:47+0000,,0,0.113,0.887,-0.3182,0,NEGATIVE,-0.985934615135193,imperfect/,0,0,-0.999331474304199
+2016-12-08T11:00:00+0000,,0.054,0.073,0.873,-0.2023,0.567777777777778,POSITIVE,0.950653374195099,late/wrong/recent/sure/,-0.075,0.659722222222222,0.0678042471408844
+2016-07-25T16:44:18+0000,,0.265,0,0.735,0.6597,0.2625,NEGATIVE,-0.620331168174744,same/,0,0.125,0.514155149459839
+2016-11-09T21:37:27+0000,,0,0.615,0.385,-0.4939,0,NEGATIVE,-0.989744365215302,hateful/,0,0,-0.995836853981018
+2017-03-14T14:47:21+0000,,0.216,0,0.784,0.0258,0,NEGATIVE,-0.96633118391037,POSH/,0,0,-0.949044942855835
+2016-10-31T16:17:24+0000,,0,0,1,0,0,NEGATIVE,-0.928204238414764,,0,0,0
+2016-06-23T12:41:43+0000,,0.219,0,0.781,0.6187,0.444444444444444,POSITIVE,0.959371685981751,FIRST/spoken/nice/,0.283333333333333,0.444444444444444,0.916630585988363
+2016-06-30T23:28:57+0000,,0.127,0,0.873,0.7264,0.445555555555556,NEGATIVE,-0.660938143730164,highly respected/multi/-/billionaire/real/famous/many/humanitarian/European/,0.151111111111111,0.26,0.983003437519074
+2016-06-21T12:11:04+0000,,0.302,0,0.698,0.3818,0.1,POSITIVE,0.958572387695313,,0,0,0
+2016-09-10T07:49:31+0000,,0,0,1,0,0,NEGATIVE,-0.993409633636475,,0,0,0
+2017-03-09T11:00:00+0000,,0,0,1,0,1,NEGATIVE,-0.999807059764862,cold/raining/too complicated/,-0.366666666666667,0.666666666666667,-0.970174670219421
+2016-04-24T07:29:24+0000,,0,0,1,0,0.375,POSITIVE,0.97854608297348,other/,-0.125,0.375,0.873019635677338
+2016-12-08T11:00:00+0000,,0.095,0,0.905,0.2716,0.833333333333333,POSITIVE,0.994065880775452,more important/,0.45,0.75,0.998956441879273
+2016-06-25T12:54:06+0000,,0,0.439,0.561,-0.5719,0.375,NEGATIVE,-0.983591258525848,Other/,-0.125,0.375,0.873019635677338
+2017-03-02T00:36:58+0000,,0,0.236,0.764,-0.5719,0,NEGATIVE,-0.931784510612488,BRITISH/,0,0,0.95611697435379
+2016-03-14T21:47:06+0000,,0,0.187,0.813,-0.3182,0.833333333333333,NEGATIVE,-0.999982714653015,Now bloated/,0,0,-0.999969601631165
+2016-06-22T22:05:13+0000,,0.457,0,0.543,0.6369,0,POSITIVE,0.995242714881897,,0,0,0
+2017-03-14T02:59:47+0000,,0.247,0,0.753,0.3182,0.5,POSITIVE,0.988438308238983,meaningful/,0.5,0.5,0.998703360557556
+2017-01-07T12:35:22+0000,,0,0,1,0,0,POSITIVE,0.999793827533722,,0,0,0
+2016-07-15T13:53:39+0000,,0,0.205,0.795,-0.596,0.5,POSITIVE,0.894431471824646,disturbingly plausible/,0.5,0.5,0.902010679244995
+2016-06-22T21:02:47+0000,,0.102,0.273,0.625,-0.4939,0,NEGATIVE,-0.987115025520325,,0,0,0
+2017-01-03T11:00:00+0000,,0.165,0.154,0.682,0.0511,0.9,POSITIVE,0.628141403198242,honest/,0.6,0.9,0.998367965221405
+2016-07-15T12:18:52+0000,,0.239,0.307,0.455,-0.1531,0,NEGATIVE,-0.998451471328735,,0,0,0
+2016-10-31T16:17:24+0000,,0,0,1,0,0.05,POSITIVE,0.999602496623993,big/fat/Greek/,0,0.0333333333333333,-0.260051210721334
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.954742670059204,,0,0,0
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.578930735588074,,0,0,0
+2016-06-30T23:28:57+0000,,0.127,0.079,0.794,0.296,0.3875,NEGATIVE,-0.998979210853577,other/just illusory/feverish/-/,-0.05625,0.19375,-0.0392721593379974
+2016-11-09T21:37:27+0000,,0,0,1,0,0,POSITIVE,0.995739579200745,,0,0,0
+2016-06-29T19:35:01+0000,,0,0,1,0,0,NEGATIVE,-0.63345193862915,,0,0,0
+2017-03-23T21:05:26+0000,,0.192,0.146,0.662,0.1027,1,NEGATIVE,-0.708420872688294,Celtic/Labour/,0,0,-0.00126665830612183
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.971358478069305,,0,0,0
+2016-06-01T10:33:56+0000,,0.241,0,0.759,0.2263,0.4,POSITIVE,0.988988339900971,,0,0,0
+2016-02-27T20:50:26+0000,,0,0,1,0,0.5,POSITIVE,0.989222764968872,open/,0,0.5,0.977954268455505
+2016-02-27T20:50:26+0000,,0.12,0.218,0.662,-0.3869,0.717857142857143,POSITIVE,0.987804651260376,23rd/,0,0,0.954016208648682
+2016-12-08T11:00:00+0000,,0.355,0,0.645,0.5927,0.458333333333333,NEGATIVE,-0.986846208572388,normal/same/good/,0.283333333333333,0.458333333333333,0.194067378838857
+2016-05-31T06:11:29+0000,,0,0.515,0.485,-0.6486,1,NEGATIVE,-0.999539375305176,awful/,-1,1,-0.999949336051941
+2016-05-31T06:11:29+0000,,0.574,0,0.426,0.4019,0,POSITIVE,0.965172111988068,,0,0,0
+2016-06-22T21:02:47+0000,,0.191,0.216,0.593,-0.1154,0.5,NEGATIVE,-0.976571977138519,unfortunate/,-0.5,1,-0.999512195587158
+2015-09-19T12:55:17+0000,,0,0,1,0,0,POSITIVE,0.996033489704132,,0,0,0
+2017-01-07T12:35:22+0000,,0,0,1,0,0.59375,POSITIVE,0.877610921859741,other/key/more/anti/-/,0.075,0.375,0.567680156230927
+2016-05-31T06:11:29+0000,,0.167,0,0.833,0.4215,0.2,NEGATIVE,-0.994048357009888,much easier/counterfeit/,0.1,0.1,-0.173820227384567
+2016-07-25T16:44:18+0000,,0,0,1,0,0,NEGATIVE,-0.996209859848023,electoral/exemple/Scottish/,0,0,0.993216117223104
+2017-03-27T21:57:01+0000,,0,0,1,0,0,POSITIVE,0.853641092777252,,0,0,0
+2016-12-08T11:00:00+0000,,0.095,0,0.905,0.2716,0.833333333333333,POSITIVE,0.994065880775452,more important/,0.45,0.75,0.998956441879273
+2017-03-29T15:30:52+0000,,0,0,1,0,0,POSITIVE,0.570223391056061,global/steady/,0.0833333333333333,0.25,0.996776908636093
+2017-01-12T21:54:19+0000,,0,0.091,0.909,-0.296,0.166666666666667,NEGATIVE,-0.987521827220917,specific/other/British/,-0.0416666666666667,0.166666666666667,0.940877060095469
+2017-01-07T12:35:22+0000,,0,0,1,0,0,POSITIVE,0.841762721538544,,0,0,0
+2016-04-24T07:29:24+0000,,0.097,0,0.903,0.128,0.6,POSITIVE,0.995105385780335,constitutional/legal/,0.1,0.1,0.98782479763031
+2016-06-22T21:02:47+0000,,0.112,0,0.888,0.34,0,NEGATIVE,-0.593855619430542,Hent/,0,0,0.757402122020721
+2016-04-24T07:29:24+0000,,0,0,1,0,0.25,POSITIVE,0.996160745620728,,0,0,0
+2017-01-07T12:35:22+0000,,0.043,0.14,0.817,-0.7003,0.22,NEGATIVE,-0.883626401424408,central/same/as many/military/,0.1,0.24375,0.466666400432587
+2016-05-23T18:22:35+0000,,0,0,1,0,0,POSITIVE,0.862430691719055,,0,0,0
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.995037138462067,,0,0,0
+2016-05-31T06:11:29+0000,,0.105,0,0.895,0.6249,0.5125,POSITIVE,0.999242901802063,Individual/industrial/unnecessary/,-0.133333333333333,0.433333333333333,0.296812037626902
+2016-06-23T12:41:43+0000,,0,0,1,0,0.3,POSITIVE,0.95839649438858,real/,0.2,0.3,0.999257981777191
+2016-09-14T20:47:50+0000,,0.081,0,0.919,0.296,0.271428571428571,POSITIVE,0.980197787284851,geographical/single/,-0.0357142857142857,0.107142857142857,0.216914534568787
+2016-06-22T21:02:47+0000,,0,0.065,0.935,-0.1027,0.194444444444444,POSITIVE,0.99643087387085,,0,0,0
+2016-07-15T13:53:39+0000,,0.2,0,0.8,0.4588,0.65,POSITIVE,0.997371315956116,Modern/glad/,0.35,0.65,0.990179747343063
+2016-07-01T03:20:18+0000,,0,0.595,0.405,-0.9559,0.8,NEGATIVE,-0.995223343372345,evil/stupid/,-0.9,1,-0.994025766849518
+2016-12-08T11:00:00+0000,,0.048,0.199,0.753,-0.7645,0.435,POSITIVE,0.534536302089691,more critical/many/other/,0.208333333333333,0.508333333333333,0.92253985007604
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.947178184986115,haÃÂ±val/,0,0,-0.964217901229858
+2017-01-07T12:35:22+0000,,0,0.412,0.588,-0.4215,0,NEGATIVE,-0.999444544315338,,0,0,0
+2016-12-12T04:48:11+0000,,0,0,1,0,0,NEGATIVE,-0.999866843223572,,0,0,0
+2016-12-08T11:00:00+0000,,0,0.619,0.381,-0.7579,0.375,NEGATIVE,-0.9880730509758,Other/wicked/,-0.0625,0.1875,0.935916095972061
+2016-07-15T13:53:39+0000,,0.11,0.051,0.838,0.4404,0.291666666666667,POSITIVE,0.874446392059326,sound/social/formal/essentially mystical/similar/,0.0866666666666667,0.233333333333333,0.615170645713806
+2016-06-13T18:07:35+0000,,0.218,0,0.782,0.6486,0.8,NEGATIVE,-0.991696953773499,free/,0.4,0.8,0.718962788581848
+2016-06-30T23:28:57+0000,,0.091,0,0.909,0.4767,0.5,POSITIVE,0.533202052116394,modus/fiendish/European/effective/national/parliamentary/,0,0.25,0.653778533140818
+2016-07-15T12:18:52+0000,,0.455,0,0.545,0.3612,0,NEGATIVE,-0.892289698123932,,0,0,0
+2016-08-11T10:42:28+0000,,0.283,0,0.717,0.743,0.5,POSITIVE,0.999460279941559,countless/happy/,0.4,0.75,0.974262565374374
+2016-07-27T09:43:16+0000,,0.089,0.257,0.654,-0.5647,0.5,NEGATIVE,-0.839734315872192,general/,0.05,0.5,-0.713002562522888
+2016-06-21T12:11:04+0000,,0.195,0.201,0.604,-0.0258,0,NEGATIVE,-0.99809604883194,NATIONAL/,0,0,0.99201911687851
+2016-07-26T22:57:52+0000,,0.226,0.261,0.513,-0.2023,0.383333333333333,NEGATIVE,-0.99932873249054,,0,0,0
+2016-09-30T10:29:57+0000,,0.164,0.128,0.708,0.5563,0.436111111111111,NEGATIVE,-0.845535099506378,Big/particular/strong/most successful/financial/,0.245,0.378333333333333,0.641144645214081
+2016-06-22T22:15:09+0000,,0,0,1,0,0,NEGATIVE,-0.93783974647522,,0,0,0
+2017-03-09T11:00:00+0000,,0,0,1,0,0,POSITIVE,0.95896327495575,,0,0,0
+2016-06-27T12:38:41+0000,,0,0,1,0,0.166666666666667,NEGATIVE,-0.989223003387451,particular/,0.166666666666667,0.333333333333333,0.980380058288574
+2016-09-22T11:43:28+0000,,0,0,1,0,0,POSITIVE,0.992700517177582,,0,0,0
+2017-01-10T17:11:08+0000,,0.12,0.163,0.718,0.0258,0.1,NEGATIVE,-0.984537482261658,economic/medieval/,0.1,0.1,0.882451057434082
+2016-06-30T23:28:57+0000,,0,0,1,0,0,NEGATIVE,-0.999288380146027,,0,0,0
+2016-06-30T23:12:47+0000,,0.072,0.117,0.811,-0.5267,0.122222222222222,NEGATIVE,-0.983670830726624,completely unlogical/English/inferior/,0.0333333333333333,0.133333333333333,-0.389032284418742
+2016-06-25T12:54:06+0000,,0.282,0.031,0.687,0.9339,0.875,POSITIVE,0.994248628616333,great/proud/influencial/,0.533333333333333,0.583333333333333,0.346432189146678
+2016-06-22T22:05:13+0000,,0,0,1,0,0.5,POSITIVE,0.97120201587677,more majestic/,0.5,0.5,0.999866962432861
+2016-07-15T13:53:39+0000,,0.137,0.049,0.814,0.5719,0.65,NEGATIVE,-0.975098073482513,best/,1,0.3,0.996064603328705
+2016-04-15T19:18:28+0000,,0.497,0,0.503,0.9413,0.766666666666667,POSITIVE,0.9798504114151,strong/Free/,0.416666666666667,0.766666666666667,0.856349945068359
+2017-03-03T11:06:08+0000,,0.168,0,0.832,0.3885,0,NEGATIVE,-0.999786674976349,,0,0,0
+2016-07-15T13:53:39+0000,,0.196,0.221,0.583,-0.5709,0.389583333333333,NEGATIVE,-0.996526777744293,murderous/deeply cynical/fractured/big/stable/popular/quasi/-/secular/chemical/social/Russian/Chinese/,0.00256410256410256,0.158974358974359,0.0675369271865258
+2016-06-21T12:11:04+0000,,0,0,1,0,0,POSITIVE,0.999069154262543,,0,0,0
+2017-03-09T11:00:00+0000,,0,0.104,0.896,-0.2144,0.616666666666667,NEGATIVE,-0.994813561439514,factually false/,-0.4,0.6,-0.995110094547272
+2016-11-09T21:37:27+0000,,0,0.412,0.588,-0.2732,0,NEGATIVE,-0.843004405498505,,0,0,0
+2016-12-08T11:00:00+0000,,0,0,1,0,0.375,NEGATIVE,-0.992708921432495,other/,-0.125,0.375,0.873019635677338
+2016-06-01T10:33:56+0000,,0,0.392,0.608,-0.5945,0.5,NEGATIVE,-0.793332397937775,So many/,0.5,0.5,0.815731883049011
+2016-06-21T12:11:04+0000,,0,0,1,0,0,POSITIVE,0.998178839683533,global/,0,0,0.996753871440888
+2016-10-31T16:17:24+0000,,0,0,1,0,0,NEGATIVE,-0.928204238414764,,0,0,0
+2016-06-01T10:33:56+0000,,0,0,1,0,1,NEGATIVE,-0.848278880119324,own/,0.6,1,0.966281414031982
+2016-11-09T21:37:27+0000,,0,0.362,0.638,-0.5267,0,NEGATIVE,-0.791320502758026,,0,0,0
+2017-02-20T00:59:12+0000,,0,0.703,0.297,-0.694,0,NEGATIVE,-0.999749720096588,RACIST/,0,0,-0.999887704849243
+2016-06-21T12:11:04+0000,,0,0,1,0,0,POSITIVE,0.53635847568512,,0,0,0
+2016-07-15T13:53:39+0000,,0.127,0,0.873,0.5859,0.285714285714286,NEGATIVE,-0.677063465118408,certain/,0.214285714285714,0.571428571428571,0.988804161548615
+2017-01-07T12:35:22+0000,,0,0,1,0,0.55,NEGATIVE,-0.913004338741303,Ordinary/different/,-0.125,0.55,-0.900862395763397
+2016-02-27T20:50:26+0000,,0.12,0.218,0.662,-0.3869,0.717857142857143,POSITIVE,0.987804651260376,23rd/,0,0,0.954016208648682
+2016-06-25T05:18:54+0000,,0.089,0.188,0.723,-0.7964,0.449358974358974,NEGATIVE,-0.999992966651917,low/more/more more/even more/enough/how stupid/second/next/top/pure/stupid/,0.0558441558441559,0.481818181818182,0.296737340363589
+2016-07-25T16:44:18+0000,,0.127,0.201,0.672,-0.25,0,POSITIVE,0.966993093490601,23th/,0,0,0.925100326538086
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.970579147338867,heuliet/,0,0,-0.518885374069214
+2016-09-26T17:48:36+0000,,0.153,0.137,0.71,0.0772,0.458333333333333,NEGATIVE,-0.983503043651581,Really informative/nice/,0.4,0.6,0.981572985649109
+2016-09-26T17:48:36+0000,,0,0,1,0,0,POSITIVE,0.660360753536224,,0,0,0
+2016-06-13T18:07:35+0000,,0,0,1,0,0.5,NEGATIVE,-0.977908551692963,,0,0,0
+2016-11-09T21:37:27+0000,,0.408,0,0.592,0.2665,0.5,NEGATIVE,-0.997381389141083,So hardly surprising/,0.7,0.5,-0.999400973320007
+2016-05-31T06:11:29+0000,,0,0,0,0,0,POSITIVE,0.984086811542511,,0,0,0
+2016-06-08T06:18:30+0000,,0,0,1,0,0.32,NEGATIVE,-0.941925644874573,How many/present/how many/cultural/,0.275,0.275,0.863720297813416
+2016-08-19T07:54:55+0000,,0,0.388,0.612,-0.2263,0,NEGATIVE,-0.996093451976776,obsessive/,0,0,-0.998666048049927
+2016-10-31T16:17:24+0000,,0,0,1,0,0,NEGATIVE,-0.727301895618439,,0,0,0
+2016-06-30T23:28:57+0000,,0,0,1,0,0,NEGATIVE,-0.925699770450592,httpjournal/,0,0,-0.779216527938843
+2016-06-25T12:54:06+0000,,0.097,0,0.903,0.4767,0.75,POSITIVE,0.999974012374878,little/unique/how multicultural/,0.0625,0.5,0.414476831754049
+2016-07-25T16:44:18+0000,,0,0,1,0,0,NEGATIVE,-0.997026741504669,,0,0,0
+2016-05-31T06:11:29+0000,,0,0,0,0,0,POSITIVE,0.920023441314697,,0,0,0
+2016-05-20T19:17:27+0000,,0,0.452,0.548,-0.5106,1,NEGATIVE,-0.996197879314423,angry/,-0.5,1,-0.998428106307983
+2016-04-24T07:29:24+0000,,0.326,0,0.674,0.892,0.8,POSITIVE,0.987032055854797,most powerful/totally benevolent/totally dedicated/,0.133333333333333,0.75,0.994138379891714
+2017-01-03T11:00:00+0000,,0.234,0,0.766,0.7003,0.55,NEGATIVE,-0.999251902103424,good/,0.7,0.6,0.931395173072815
+2016-07-27T22:57:38+0000,,0.129,0.224,0.647,-0.2263,0,NEGATIVE,-0.992277979850769,punitive/,0,0,-0.992050111293793
+2016-06-22T21:50:41+0000,,0,0.202,0.798,-0.5106,0.5625,NEGATIVE,-0.999549686908722,only/future/,0,0.5625,0.770747601985931
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.979027569293976,,0,0,0
+2016-08-11T10:42:28+0000,,0.283,0,0.717,0.743,0.5,POSITIVE,0.999460279941559,countless/happy/,0.4,0.75,0.974262565374374
+2016-11-09T21:37:27+0000,,0,0,1,0,0,POSITIVE,0.942822217941284,too fizzy/,0,0,-0.981084525585175
+2016-05-20T19:17:27+0000,,0.085,0.345,0.57,-0.8109,1,NEGATIVE,-0.955379664897919,eternal/,0,0,0.9993896484375
+2016-06-24T16:52:52+0000,,0,0.333,0.667,-0.7579,1,NEGATIVE,-0.991613149642944,sad/even sadder/,-0.25,0.5,-0.98536542057991
+2016-07-15T13:53:39+0000,,0.087,0.256,0.656,-0.7506,0.1875,NEGATIVE,-0.999800741672516,other/terrorist/,-0.0625,0.1875,-0.0628534555435181
+2017-01-07T12:35:22+0000,,0,0.597,0.403,-0.8126,1,NEGATIVE,-0.999808728694916,racist/narrow/minded/just stupid/,-0.25,0.35,-0.499711394309998
