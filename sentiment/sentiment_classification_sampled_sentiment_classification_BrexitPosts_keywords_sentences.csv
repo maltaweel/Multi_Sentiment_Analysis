@@ -1,0 +1,501 @@
+created_time,_id,positive,negative,neutral,compound,subjectivity,flair,flair score,aspect terms,aspect tb polarity,aspect tb subjectivity,aspect flair,lexicon score
+2016-06-30T23:12:47+0000,,0,0.123,0.877,-0.3041,0.395833333333333,NEGATIVE,-0.998030364513397,logical/logical/logical/logical/logical/logical/logical/logical/ÃÂ¢ÃÂÃÂGreat/ÃÂ¢ÃÂÃÂGreat/,0.2,0.2,0.999137854576111,-0.0557
+2017-01-07T12:35:22+0000,,0,0.111,0.889,-0.128,0.333333333333333,NEGATIVE,-0.994488477706909,academic/academic/academic/academic/overwhelmingly left/overwhelmingly left/overwhelmingly left/overwhelmingly left/overwhelmingly left/overwhelmingly left/overwhelmingly left/overwhelmingly left/overwhelmingly left/overwhelmingly left/,0,0,-0.426893251282828,0.0221
+2016-07-25T16:44:18+0000,,0.35,0,0.65,0.8271,0,NEGATIVE,-0.831680417060852,gouarnamant/,0,0,0.995710134506226,0.8271
+2016-09-10T07:49:31+0000,,0,0,1,0,0,POSITIVE,0.997899413108826,,0,0,0,0
+2016-12-08T11:00:00+0000,,0.125,0,0.875,0.5106,0,POSITIVE,0.791542232036591,jolly/jolly/jolly/jolly/jolly/jolly/jolly/jolly/jolly/jolly/jolly/jolly/jolly/jolly/jolly/jolly/jolly/,0,0,0.9908327460289,0.1193
+2017-01-12T21:56:07+0000,,0,0,1,0,0,POSITIVE,0.994012176990509,victorious/victorious/victorious/victorious/victorious/victorious/victorious/victorious/victorious/victorious/victorious/victorious/victorious/victorious/victorious/victorious/victorious/victorious/victorious/,0,0,0.997191846370697,0.1157
+2016-05-31T06:11:29+0000,,0,0,1,0,0.288888888888889,NEGATIVE,-0.852319955825806,numerical/numerical/,0,0,0.965987026691437,-0.0018
+2016-07-12T06:39:37+0000,,1,0,0,0.0258,0,NEGATIVE,-0.982176780700684,,0,0,0,0.0258
+2016-05-31T06:11:29+0000,,0,0,1,0,1,POSITIVE,0.999423146247864,,0,0,0,0.094
+2016-06-27T15:40:39+0000,,0.243,0,0.757,0.8519,0.375,POSITIVE,0.986848056316376,outside jolly old/outside jolly old/outside jolly old/outside jolly old/outside jolly old/outside jolly old/huge/huge/huge/happy/happy/happy/happy/happy/happy/happy/happy/happy/happy/happy/happy/even few/English/English/English/heavy/heavy/heavy/heavy/heavy/heavy/,0.312903225806452,0.598387096774193,0.328237966183693,0.6543
+2016-07-16T18:39:10+0000,,0,0,1,0,0,POSITIVE,0.547832369804382,,0,0,0,0
+2016-06-01T10:33:56+0000,,0,0,1,0,0.125,POSITIVE,0.968445956707001,fellow/fellow/fellow/fellow/fellow/fellow/same/same/,0,0.03125,0.876642912626267,0.1265
+2016-06-22T22:05:13+0000,,0.351,0,0.649,0.4019,0.333333333333333,POSITIVE,0.790080964565277,,0,0,0,0.4296
+2017-03-02T17:39:38+0000,,0.045,0.288,0.667,-0.926,0.583333333333333,NEGATIVE,-0.860613644123077,french/french/unable/unable/unable/unable/unable/unable/unable/unable/unable/unable/unable/unable/unable/unable/unable/unable/unable/brutal/brutal/brutal/brutal/brutal/brutal/brutal/brutal/brutal/brutal/brutal/brutal/brutal/brutal/brutal/brutal/many/many/many/many/many/many/bataclan/bataclan/,-0.453488372093023,0.63953488372093,-0.543825465579366,-0.6265
+2016-07-25T16:44:18+0000,,0.123,0,0.877,0.4497,1,NEGATIVE,-0.896774411201477,,0,0,0,0.5098
+2017-02-17T10:51:34+0000,,0,0,1,0,0,POSITIVE,0.996054410934448,,0,0,0,0.0405
+2016-06-22T21:02:47+0000,,0.072,0.077,0.851,-0.0258,0.166666666666667,POSITIVE,0.812977731227875,Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/,0,0,-0.756847321987152,0.1503
+2016-05-31T06:11:29+0000,,0,0.218,0.782,-0.7783,0.269230769230769,NEGATIVE,-0.996896862983704,false/false/false/false/false/false/false/false/false/false/false/false/complete/complete/complete/complete/complete/complete/regular/regular/regular/regular/regular/regular/ample/ample/ample/ample/ample/ample/,-0.14,0.335384615384615,-0.193991410732269,-0.6615
+2016-07-15T13:53:39+0000,,0,0,1,0,0.375,NEGATIVE,-0.996380031108856,multi/-/kulti/kulti/kulti/kulti/kulti/kulti/other/other/other/other/other/cultural/cultural/cultural/,-0.0203125,0.1359375,0.209568474441767,0.0577
+2016-06-21T21:52:35+0000,,0,0,1,0,0.333333333333333,NEGATIVE,-0.919932901859283,first/first/first/first/first/first/,0.25,0.333333333333333,0.91229122877121,0.0672
+2016-06-08T06:18:30+0000,,0.13,0,0.87,0.4019,0.5,POSITIVE,0.983796775341034,lesser/lesser/lesser/lesser/lesser/lesser/lesser/lesser/lesser/,0,0.5,-0.991211950778961,0.5251
+2016-09-10T07:49:31+0000,,0.05,0,0.95,0.2023,0.318181818181818,NEGATIVE,-0.997314751148224,top/top/top/top/top/top/,0.5,0.5,0.99587893486023,0.2943
+2016-06-22T21:02:47+0000,,0,0.065,0.935,-0.1027,0.194444444444444,POSITIVE,0.99643087387085,,0,0,0,0.105
+2016-06-22T22:15:09+0000,,0.174,0,0.826,0.2263,0,NEGATIVE,-0.978328824043274,prepared/prepared/prepared/prepared/prepared/prepared/prepared/prepared/prepared/,0,0,0.991618990898132,0.1181
+2016-06-21T12:11:04+0000,,0,0,1,0,0.5,NEGATIVE,-0.96727329492569,,0,0,0,0.1081
+2016-07-15T12:18:52+0000,,0.114,0.219,0.667,-0.2732,0.55,NEGATIVE,-0.999877452850342,blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/blue/,0,0.1,0.941060423851013,0.4355
+2016-07-11T18:59:47+0000,,0,0.091,0.909,-0.4767,0.357142857142857,NEGATIVE,-0.98637330532074,right/right/same/same/same/same/same/same/same/same/same/same/same/same/same/incorrect/incorrect/wrong/,0.00396825396825397,0.199801587301587,0.315183271964391,0.1096
+2016-06-24T18:19:14+0000,,0.658,0,0.342,0.8625,0.5,POSITIVE,0.994597673416138,better/better/better/better/,0.5,0.5,0.981102883815765,0.7824
+2016-07-03T23:11:31+0000,,0,0,1,0,0,POSITIVE,0.983761250972748,,0,0,0,0
+2016-06-21T12:11:04+0000,,0,0,1,0,0.4,POSITIVE,0.997566819190979,Wide/Wide/,-0.1,0.4,-0.66744989156723,0.1286
+2016-06-08T06:18:30+0000,,0,0,1,0,0,POSITIVE,0.940758466720581,,0,0,0,0
+2016-06-08T06:18:30+0000,,0,0,1,0,0.5,NEGATIVE,-0.948638141155243,,0,0,0,0.0836
+2016-06-24T05:12:00+0000,,0,0,1,0,0,POSITIVE,0.979363739490509,,0,0,0,0
+2017-01-07T12:35:22+0000,,0.23,0,0.77,0.1258,0.875,NEGATIVE,-0.989212930202484,so silly/,-0.5,0.875,-0.970364630222321,0.0448
+2016-09-26T17:48:36+0000,,0.152,0,0.848,0.3612,0,NEGATIVE,-0.532662034034729,fast/fast/fast/fast/fast/fast/,0.2,0.6,0.954195976257324,0.4159
+2016-07-25T16:44:18+0000,,0.212,0.18,0.608,0.0516,0.777777777777778,NEGATIVE,-0.983552396297455,violent/violent/violent/violent/clearly determined/clearly determined/clearly determined/clearly determined/,-0.35,0.691666666666666,0.00221961736679077,0.2765
+2016-05-31T06:11:29+0000,,0,0.545,0.455,-0.34,0,POSITIVE,0.672368884086609,European/European/European/,0,0,0.992491662502289,-0.274
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.983761250972748,,0,0,0,0
+2016-06-22T21:02:47+0000,,0.324,0,0.676,0.34,0,NEGATIVE,-0.880071938037872,KÃÂÃÂªrdiz/KÃÂÃÂªrdiz/KÃÂÃÂªrdiz/,0,0,-0.901983976364136,0.34
+2016-06-07T18:12:16+0000,,0,0,1,0,0,POSITIVE,0.858221232891083,,0,0,0,0.128
+2016-05-23T18:22:35+0000,,0,0,1,0,0,NEGATIVE,-0.997902870178223,,0,0,0,0.0409
+2016-06-13T18:07:35+0000,,0,0.055,0.945,-0.1027,0.625,NEGATIVE,-0.990713953971863,able/able/able/able/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/,0.142857142857143,0.178571428571429,0.995935542242868,0.1218
+2016-08-11T10:42:28+0000,,0.124,0,0.876,0.34,0,POSITIVE,0.550459325313568,,0,0,0,0.4493
+2016-06-22T21:50:41+0000,,0,0,1,0,0,POSITIVE,0.849695265293121,,0,0,0,0
+2016-06-13T18:07:35+0000,,0,0.055,0.945,-0.1027,0.625,NEGATIVE,-0.990713953971863,able/able/able/able/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/,0.142857142857143,0.178571428571429,0.995935542242868,0.1218
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.984029889106751,diwar/diwar/diwar/diwar/diwar/,0,0,-0.872213363647461,0
+2016-06-21T12:11:04+0000,,0,0,1,0,0.4,POSITIVE,0.993470191955566,human/human/human/human/human/,0,0.1,0.999119579792023,0.2997
+2016-06-21T12:11:04+0000,,0,0.307,0.693,-0.4767,0,NEGATIVE,-0.991643846035004,,0,0,0,-0.4276
+2016-06-21T12:11:04+0000,,0,0.433,0.567,-0.7469,0,POSITIVE,0.843388974666596,,0,0,0,-0.7283
+2017-01-12T21:54:19+0000,,0.067,0,0.933,0.3612,0.38,NEGATIVE,-0.941119015216827,horizontal/horizontal/horizontal/wide/wide/wide/wide/more/more/more/more/more/more/more/more/more/more/more/more/more/wider/post/-/Brexit/industrial/industrial/industrial/industrial/British/British/fit/fit/fit/fit/fit/global/global/,0.218918918918919,0.272972972972973,0.693288221552565,0.3654
+2016-08-11T10:42:28+0000,,0.107,0,0.893,0.2846,0.344166666666667,POSITIVE,0.8841273188591,very least/very least/very least/very least/fun/fun/fun/fun/broad/broad/broad/broad/broad/broad/broad/broad/,0.00875,0.33625,-0.307169631123543,0.3861
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.997173070907593,,0,0,0,0
+2016-06-30T23:28:57+0000,,0,0.138,0.862,-0.34,0,NEGATIVE,-0.999837040901184,disorderly/disorderly/disorderly/disorderly/ÃÂ¢ÃÂÃÂcatastrophic/ÃÂ¢ÃÂÃÂcatastrophic/ÃÂ¢ÃÂÃÂcatastrophic/ÃÂ¢ÃÂÃÂcatastrophic/,0,0,-0.998835921287537,-0.3707
+2016-05-31T06:11:29+0000,,0,0.167,0.833,-0.296,0,NEGATIVE,-0.997756659984589,unchecked/unhindered/unhindered/unhindered/unhindered/unhindered/,0,0,-0.973248302936554,0.2482
+2016-07-15T13:53:39+0000,,0.294,0.334,0.371,-0.1027,0.175,NEGATIVE,-0.584570467472076,,0,0,0,0.418
+2016-06-27T15:40:39+0000,,0.353,0,0.647,0.8979,0.65,POSITIVE,0.990967810153961,best/best/best/best/best/best/best/best/best/best/best/,1,0.3,0.996064603328705,0.7123
+2016-05-31T06:11:29+0000,,0,0,1,0,1,NEGATIVE,-0.997136354446411,,0,0,0,-0.0138
+2016-06-13T18:07:35+0000,,0,0,1,0,0.2,POSITIVE,0.868959009647369,,0,0,0,0
+2016-07-25T16:44:18+0000,,0.156,0,0.844,0.34,0,NEGATIVE,-0.997395277023315,,0,0,0,0.3956
+2016-07-14T07:49:18+0000,,0,0,1,0,0,NEGATIVE,-0.537763893604279,,0,0,0,0
+2016-06-22T21:02:47+0000,,0.5,0,0.5,0.25,1,POSITIVE,0.975458979606628,necessary/,0,1,0.959551990032196,0.2908
+2016-06-22T21:50:41+0000,,0.212,0.166,0.622,-0.0258,0.5,NEGATIVE,-0.995410144329071,several/several/several/several/several/several/several/,0,0,0.823158204555512,-0.2433
+2016-09-14T20:47:50+0000,,0.086,0,0.914,0.128,0.133333333333333,NEGATIVE,-0.963134527206421,politically incompatible/politically incompatible/politically incompatible/politically incompatible/politically incompatible/diverse/legal/legal/,0.05,0.1125,-0.227284967899323,0.1182
+2017-01-07T12:35:22+0000,,0,0,1,0,0.5,POSITIVE,0.917322516441345,,0,0,0,0.0405
+2016-06-22T21:02:47+0000,,0.122,0,0.878,0.3612,0,NEGATIVE,-0.96686589717865,,0,0,0,0.3612
+2016-07-25T16:44:18+0000,,0,0,1,0,0,NEGATIVE,-0.79694938659668,disocÃÂ¢ÃÂÃÂh/disocÃÂ¢ÃÂÃÂh/disocÃÂ¢ÃÂÃÂh/disocÃÂ¢ÃÂÃÂh/disocÃÂ¢ÃÂÃÂh/disocÃÂ¢ÃÂÃÂh/disocÃÂ¢ÃÂÃÂh/disocÃÂ¢ÃÂÃÂh/disocÃÂ¢ÃÂÃÂh/,0,0,-0.99893194437027,0
+2016-12-08T11:00:00+0000,,0.432,0,0.568,0.5859,0.6,POSITIVE,0.988616049289703,,0,0,0,0.626
+2016-06-08T06:18:30+0000,,0,0,1,0,0,POSITIVE,0.940758466720581,,0,0,0,0
+2016-11-09T21:37:27+0000,,0,0,1,0,0,NEGATIVE,-0.97297477722168,,0,0,0,0
+2015-09-19T12:55:17+0000,,0,0,1,0,0.216666666666667,NEGATIVE,-0.980348765850067,Thee/haughty/haughty/haughty/haughty/haughty/,0,0,-0.65949339667956,0.0577
+2016-11-09T21:37:27+0000,,0,0,1,0,0,NEGATIVE,-0.920262038707733,,0,0,0,-0.0215
+2016-06-13T18:07:35+0000,,0,0,1,0,0.266931216931217,POSITIVE,0.577403068542481,such/such/such/such/such/such/most iconic/political/political/political/political/political/political/political/political/political/political/political/political/political/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/,0.0166666666666667,0.16,0.31174754301707,nan
+2016-06-22T21:02:47+0000,,0,0,1,0,0.5,NEGATIVE,-0.996145129203796,biological/biological/biological/biological/biological/biological/biological/biological/biological/biological/biological/biological/biological/biological/onlyA/onlyA/,0,0,0.989592656493187,-0.0426
+2017-01-12T21:54:19+0000,,0,0,1,0,0,POSITIVE,0.972732067108154,,0,0,0,0
+2016-03-14T21:47:06+0000,,0,0,1,0,0,NEGATIVE,-0.979060053825378,,0,0,0,0.0243
+2016-06-25T12:54:06+0000,,0.194,0,0.806,0.6249,0.75,POSITIVE,0.998953104019165,industrial/industrial/industrial/industrial/industrial/industrial/great/great/great/great/great/great/great/great/great/great/great/,0.517647058823529,0.485294117647059,0.95472578792011,0.139
+2016-07-15T13:53:39+0000,,0.137,0.049,0.814,0.5719,0.65,NEGATIVE,-0.975097894668579,best/best/best/best/best/best/best/best/best/best/best/best/best/best/best/best/,1,0.3,0.996064603328705,0.0281
+2016-06-28T15:57:08+0000,,0.258,0.176,0.566,0.5574,0.7,NEGATIVE,-0.998412847518921,collective/collective/collective/collective/collective/collective/collective/collective/collective/collective/collective/collective/collective/collective/collective/collective/collectively worse/collectively worse/collectively worse/collectively worse/collectively worse/,-0.0952380952380952,0.142857142857143,0.521868785222372,-0.1307
+2017-01-18T01:26:19+0000,,0,0.286,0.714,-0.0516,0,POSITIVE,0.803626537322998,,0,0,0,-0.0516
+2016-07-27T09:43:16+0000,,0.057,0.062,0.881,-0.0772,0.4,NEGATIVE,-0.96852433681488,illegal/illegal/illegal/illegal/illegal/illegal/illegal/illegal/illegal/illegal/illegal/illegal/illegal/illegal/illegal/illegal/illegal/illegal/illegal/,-0.5,0.5,-0.973088324069977,0.7266
+2016-06-22T22:05:13+0000,,0.351,0,0.649,0.4019,0.333333333333333,POSITIVE,0.790080964565277,,0,0,0,0.4296
+2016-07-15T13:53:39+0000,,0,0,1,0,0,POSITIVE,0.942158162593842,armed/armed/armed/armed/genocidal/genocidal/genocidal/political/political/bent/bent/bent/bent/bent/bent/bent/bent/bent/bent/bent/bent/bent/bent/bent/bent/bent/bent/bent/bent/,0,0.00689655172413793,-0.405809305865189,0.2588
+2016-07-16T18:39:10+0000,,0.071,0.342,0.587,-0.8775,0.84,NEGATIVE,-0.999754369258881,Conservative/Conservative/Conservative/Conservative/bad/bad/mad/mad/easy/easy/easy/easy/completely confused/completely confused/completely confused/totally bored/totally bored/totally bored/,-0.200925925925926,0.653703703703704,-0.598005526595645,-0.0835
+2017-02-12T22:33:20+0000,,0,0,1,0,0,POSITIVE,0.998391091823578,,0,0,0,0
+2016-07-15T13:53:39+0000,,0,0,1,0,0,NEGATIVE,-0.949597895145416,,0,0,0,0
+2016-06-30T23:28:57+0000,,0,0.33,0.67,-0.7845,0,NEGATIVE,-0.916766822338104,ongoing/ongoing/ongoing/ongoing/ongoing/,0,0,0.988417685031891,-0.7554
+2017-03-29T11:30:57+0000,,0,0,1,0,0,NEGATIVE,-0.847884476184845,,0,0,0,0
+2016-11-09T21:37:27+0000,,0,0.583,0.417,-0.4215,0,NEGATIVE,-0.999191582202911,,0,0,0,-0.4215
+2017-01-07T12:35:22+0000,,0,0,1,0,0,POSITIVE,0.991340935230255,,0,0,0,0
+2017-03-02T17:39:38+0000,,0.036,0.274,0.691,-0.8834,1,NEGATIVE,-0.999655365943909,nasty/evil/evil/evil/evil/evil/evil/evil/evil/evil/evil/evil/evil/evil/evil/evil/,-1,1,-0.997131060808897,-0.1691
+2016-06-22T21:02:47+0000,,0,0,1,0,0.0833333333333333,POSITIVE,0.997742772102356,human/human/human/last/,0,0.0916666666666667,0.909777015447617,0.0596
+2017-03-03T11:06:08+0000,,0.244,0,0.756,0.6705,0,NEGATIVE,-0.633744180202484,rapturous/rapturous/rapturous/rapturous/rapturous/rapturous/rapturous/rapturous/rapturous/rapturous/rapturous/rapturous/rapturous/rapturous/,0,0,0.98936939239502,0.5631
+2016-07-11T18:59:47+0000,,0.773,0,0.227,0.5267,0,POSITIVE,0.993041753768921,,0,0,0,0.5509
+2016-06-27T15:40:39+0000,,0.271,0,0.729,0.3818,0,POSITIVE,0.989554882049561,,0,0,0,0.4131
+2016-05-13T13:24:37+0000,,0.225,0,0.775,0.4939,0.5,POSITIVE,0.953378558158875,,0,0,0,0.5184
+2016-06-08T06:18:30+0000,,0,0,1,0,1,POSITIVE,0.913585901260376,,0,0,0,0.1148
+2016-06-22T21:02:47+0000,,0.167,0,0.833,0.34,0,POSITIVE,0.724402844905853,,0,0,0,0.3034
+2017-03-26T13:11:52+0000,,0,0.245,0.755,-0.6369,0.155555555555556,NEGATIVE,-0.990391254425049,public/public/public/public/public/overwhelmingly negative/overwhelmingly negative/overwhelmingly negative/overwhelmingly negative/overwhelmingly negative/overwhelmingly negative/overwhelmingly negative/,-0.175,0.261111111111111,-0.176759243011475,0.2882
+2017-01-07T12:35:22+0000,,0.289,0,0.711,0.7845,0.9,POSITIVE,0.992919027805328,morally superior/morally superior/morally superior/morally superior/morally superior/morally superior/morally superior/morally superior/morally superior/morally superior/morally superior/morally superior/virtuous/,0.646153846153846,0.830769230769231,0.995730262536269,0.0639
+2016-05-31T06:11:29+0000,,0,0,1,0,0,POSITIVE,0.964538633823395,,0,0,0,0
+2016-04-24T07:29:24+0000,,0.189,0,0.811,0.5994,0.25,POSITIVE,0.996940135955811,historical/historical/historical/historical/historical/historical/historical/historical/historical/historical/historical/ever greater/ever greater/,0.0769230769230769,0.0769230769230769,0.995308481729948,0.5608
+2017-01-07T12:35:22+0000,,0,0.072,0.928,-0.1027,0.541666666666667,NEGATIVE,-0.998642861843109,hard/misguided/misguided/,-0.0972222222222222,0.180555555555556,-0.898450354735057,0.0394
+2017-03-14T02:59:47+0000,,0,0,1,0,0,NEGATIVE,-0.997033953666687,,0,0,0,0
+2016-06-21T12:11:04+0000,,0.206,0.13,0.664,0.3182,0.55,POSITIVE,0.974696099758148,different/different/different/different/different/different/different/different/different/different/greater/greater/,0.0833333333333333,0.583333333333333,-0.591446797053019,0.3112
+2016-06-22T22:05:13+0000,,0,0.2,0.8,-0.0644,0,NEGATIVE,-0.659907996654511,,0,0,0,-0.0644
+2016-04-15T19:18:28+0000,,0.667,0,0.333,0.7184,0.3,POSITIVE,0.995264768600464,Good/Good/Good/British/British/,0.42,0.36,0.941283965110779,0.5349
+2017-01-05T09:49:54+0000,,0.225,0,0.775,0.4404,0.1,POSITIVE,0.889508545398712,medieval/medieval/medieval/medieval/,0,0,0.769038915634155,0.4404
+2016-07-25T16:44:18+0000,,0,0,1,0,1,NEGATIVE,-0.982431948184967,advisory/advisory/,0,0,0.979017555713654,0.202
+2016-09-10T07:49:31+0000,,0,0,1,0,0.6875,POSITIVE,0.94925457239151,,0,0,0,0.1085
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.61484831571579,,0,0,0,0.0542
+2016-06-22T22:15:09+0000,,0.394,0,0.606,0.6378,0.272222222222222,POSITIVE,0.633082211017609,prepared/prepared/prepared/prepared/less rich/less rich/less rich/Irish/Irish/,0.0347222222222222,0.136111111111111,0.911473294099172,0.2086
+2016-07-11T18:59:47+0000,,0,0.279,0.721,-0.7845,0.546875,NEGATIVE,-0.986283421516419,whole/whole/whole/whole/whole/whole/whole/whole/whole/erroneous/erroneous/erroneous/erroneous/erroneous/erroneous/erroneous/erroneous/further/,-0.122222222222222,0.494444444444444,0.104475965102514,-0.1258
+2016-05-31T06:11:29+0000,,0,0,1,0,1,NEGATIVE,-0.998002350330353,only polite/only polite/only polite/only polite/only polite/only polite/only polite/only polite/only polite/only polite/correct/,0,0.909090909090909,-0.421862006187439,0.2201
+2016-09-10T07:49:31+0000,,0,0,1,0,0.2,POSITIVE,0.996752142906189,European/European/European/,0,0,0.992491662502289,0.1235
+2017-01-03T11:00:00+0000,,0.264,0,0.736,0.8271,0.458333333333333,POSITIVE,0.993870854377747,Much/Much/Much/Much/Much/Much/Much/Much/Much/Much/Much/Much/Much/full/full/full/full/full/full/full/full/able/able/able/able/able/able/able/able/able/able/,0.335483870967742,0.42741935483871,0.946995366004206,0.8712
+2017-01-18T01:26:19+0000,,0.204,0,0.796,0.6249,0.375,NEGATIVE,-0.998159468173981,great/great/great/great/great/great/great/great/great/great/great/great/great/British/British/,0.693333333333333,0.65,0.985548547903697,0.221
+2016-05-31T06:11:29+0000,,0,0,1,0,0,POSITIVE,0.684203326702118,,0,0,0,0
+2016-02-27T20:50:26+0000,,0,0,1,0,0,NEGATIVE,-0.979060053825378,,0,0,0,0.0243
+2016-06-01T10:33:56+0000,,0,0,1,0,1,NEGATIVE,-0.84827733039856,own/own/own/own/own/own/,0.6,1,0.966281414031982,0.087
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.710487842559815,,0,0,0,0
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.980465173721314,,0,0,0,0
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.983761250972748,,0,0,0,0
+2016-06-04T14:58:25+0000,,0.189,0.086,0.726,0.8316,0.466666666666667,POSITIVE,0.994461715221405,warmly encouraged/warmly encouraged/warmly encouraged/warmly encouraged/excellent/excellent/excellent/excellent/excellent/excellent/excellent/excellent/excellent/excellent/excellent/excellent/excellent/excellent/excellent/excellent/excellent/available/free/free/free/free/free/free/free/free/free/free/free/free/free/free/free/free/,0.689473684210526,0.857894736842106,0.873704657742852,nan
+2017-02-17T16:00:47+0000,,0,0,1,0,0,POSITIVE,0.998187720775604,,0,0,0,0
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.86791342496872,,0,0,0,-0.0525
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.954742610454559,,0,0,0,0
+2016-06-21T12:11:04+0000,,0,0,1,0,0.25,POSITIVE,0.993721127510071,Many/British/British/British/British/British/British/British/British/British/British/British/,0.0416666666666667,0.0416666666666667,0.953090280294418,0.1078
+2016-05-31T06:11:29+0000,,0.209,0.093,0.698,0.3612,0.15,POSITIVE,0.674244821071625,Paid/Paid/Paid/Paid/Paid/Paid/Paid/Paid/early/20th/20th/,0.00909090909090909,0.0272727272727273,0.930305296724493,0.4385
+2016-09-14T20:47:50+0000,,0,0,1,0,0.3,NEGATIVE,-0.916532218456268,political/political/political/political/political/political/political/political/political/political/political/political/political/political/political/political/,0,0.1,0.706427097320557,0.2323
+2016-06-30T23:28:57+0000,,0,0.069,0.931,-0.25,0.383333333333333,NEGATIVE,-0.99078756570816,anti/-/Brexit/Brexit/pro/-/mass/mass/mass/mass/mass/mass/mass/mass/mass/full/full/full/full/full/such/such/such/such/such/23rd/23rd/23rd/23rd/23rd/23rd/23rd/23rd/23rd/,0.0514705882352941,0.154411764705882,0.659111431416343,0.1576
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.99947327375412,,0,0,0,0
+2017-01-12T21:54:19+0000,,0,0,1,0,0.5,POSITIVE,0.989964663982391,numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/,0,0.5,0.879741847515106,0.0244
+2017-01-12T21:56:07+0000,,0.187,0,0.813,0.4964,0.5,NEGATIVE,-0.994835019111633,more relaxed/more relaxed/ÃÂ¢ÃÂÃÂagricultural/ÃÂ¢ÃÂÃÂagricultural/ÃÂ¢ÃÂÃÂagricultural/ÃÂ¢ÃÂÃÂagricultural/most/most/most/most/,0.3,0.3,0.209068882465363,0.0964
+2016-06-08T06:18:30+0000,,0,0.099,0.901,-0.296,0.375,POSITIVE,0.996879696846008,other/other/other/other/other/other/other/other/other/other/other/other/other/other/other/other/other/other/other/other/other/other/,-0.125,0.375,0.873019635677338,0.239
+2017-01-07T12:35:22+0000,,0,0.306,0.694,-0.296,0,NEGATIVE,-0.991306126117706,,0,0,0,0.0757
+2017-03-28T20:00:09+0000,,0,0,1,0,0,NEGATIVE,-0.997033953666687,,0,0,0,0
+2016-06-22T21:02:47+0000,,0.13,0,0.87,0.34,0,NEGATIVE,-0.941848635673523,bet/bet/bet/bet/bet/bet/bet/bet/bet/bet/bet/bet/bet/bet/,0,0,0.913745641708374,0.34
+2016-07-25T16:44:18+0000,,0,0,1,0,0,NEGATIVE,-0.928313255310059,CÃÂ¢ÃÂÃÂHALLER/CÃÂ¢ÃÂÃÂHALLER/CÃÂ¢ÃÂÃÂHALLER/CÃÂ¢ÃÂÃÂHALLER/,0,0,0.95822012424469,0
+2016-11-09T21:37:27+0000,,0,0.347,0.653,-0.1513,1,NEGATIVE,-0.999944567680359,so sorry/so sorry/,-0.5,1,-0.999789416790009,0.0043
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.527622759342194,,0,0,0,0
+2016-06-22T22:05:13+0000,,0.277,0,0.723,0.3182,0.9,POSITIVE,0.995056867599487,fair/,0.7,0.9,-0.995151519775391,0.0457
+2016-08-19T07:54:55+0000,,0.11,0,0.89,0.3818,0.383333333333333,NEGATIVE,-0.9980588555336,clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/,0.1,0.383333333333333,0.99899560213089,0.0138
+2016-06-30T23:12:47+0000,,0,0.091,0.909,-0.5267,0.307142857142857,NEGATIVE,-0.998103857040405,large/large/large/large/real/real/real/real/real/enough/enough/enough/enough/enough/enough/enough/enough/enough/enough/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/,0.0395136778115502,0.174772036474164,-0.536616093300759,0.1804
+2017-03-14T02:59:47+0000,,0,0,1,0,0,NEGATIVE,-0.997033953666687,,0,0,0,0
+2016-07-25T16:44:18+0000,,0,0.135,0.865,-0.5994,0,NEGATIVE,-0.994232594966888,nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/nÃÂ¢ÃÂÃÂeus/holl/holl/holl/holl/holl/holl/holl/holl/holl/,0,0,-0.457759057100003,-0.5994
+2016-09-10T07:49:31+0000,,0,0,1,0,0,NEGATIVE,-0.993889212608337,,0,0,0,0.1672
+2017-01-12T21:54:19+0000,,0,0,1,0,0.5,POSITIVE,0.989964663982391,numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/,0,0.5,0.879741847515106,0.0244
+2016-06-21T12:11:04+0000,,0.227,0.052,0.721,0.8316,0.257142857142857,NEGATIVE,-0.951883971691132,British/British/British/British/British/British/British/British/British/British/all ÃÂ¢ÃÂÃÂforeignÃÂ¢ÃÂÃÂ/all ÃÂ¢ÃÂÃÂforeignÃÂ¢ÃÂÃÂ/all ÃÂ¢ÃÂÃÂforeignÃÂ¢ÃÂÃÂ/all ÃÂ¢ÃÂÃÂforeignÃÂ¢ÃÂÃÂ/all ÃÂ¢ÃÂÃÂforeignÃÂ¢ÃÂÃÂ/all ÃÂ¢ÃÂÃÂforeignÃÂ¢ÃÂÃÂ/normal/human/human/human/human/human/British/human/human/human/human/human/human/human/human/human/great/great/great/great/,0.0930555555555555,0.140277777777778,0.600373551249504,0.6638
+2016-07-12T06:39:37+0000,,0.358,0,0.642,0.8658,0.484848484848485,POSITIVE,0.860373079776764,new/new/new/new/new/new/new/larger/larger/larger/larger/larger/larger/larger/decisive/decisive/decisive/decisive/decisive/decisive/decisive/decisive/decisive/decisive/decisive/,0.0381818181818182,0.267272727272727,0.873843758106232,0.8058
+2016-06-23T12:41:43+0000,,0,0.254,0.746,-0.5267,0.333333333333333,NEGATIVE,-0.999973177909851,FIRST/FIRST/,0.25,0.333333333333333,0.91229122877121,-0.333
+2016-07-15T12:18:52+0000,,0,0.153,0.847,-0.4023,0.51,NEGATIVE,-0.999916076660156,thin/blue/blue/blue/aged/aged/aged/aged/aged/aged/aged/,-0.1,0.359090909090909,-0.470080798322504,0.6432
+2016-08-11T10:42:28+0000,,0,0,1,0,0.3,NEGATIVE,-0.754234373569489,,0,0,0,0.0902
+2016-07-25T16:44:18+0000,,0.105,0,0.895,0.5859,0,NEGATIVE,-0.986300051212311,U/U/U/U/U/U/U/U/U/U/U/U/U/U/U/,0,0,-0.605727910995483,0.5859
+2016-06-21T12:11:04+0000,,0,0,1,0,0.25,POSITIVE,0.993721127510071,Many/British/British/British/British/British/British/British/British/British/British/British/,0.0416666666666667,0.0416666666666667,0.953090280294418,0.1078
+2016-07-11T18:59:47+0000,,0,0,1,0,0.25,POSITIVE,0.964688956737518,,0,0,0,nan
+2016-06-25T05:18:54+0000,,0,0.3,0.7,-0.7184,0,NEGATIVE,-0.998925983905792,,0,0,0,-0.6555
+2017-01-12T21:56:07+0000,,0,0.091,0.909,-0.296,0.166666666666667,NEGATIVE,-0.987521827220917,specific/specific/specific/other/other/other/other/other/other/British/British/,-0.0681818181818182,0.238636363636364,0.920985043048859,0.323
+2016-06-22T22:15:09+0000,,0.394,0,0.606,0.6378,0.272222222222222,POSITIVE,0.633082211017609,prepared/prepared/prepared/prepared/less rich/less rich/less rich/Irish/Irish/,0.0347222222222222,0.136111111111111,0.911473294099172,0.2086
+2016-06-24T16:52:52+0000,,0,0,1,0,0.26,NEGATIVE,-0.999824821949005,,0,0,0,0.0668
+2016-09-10T07:49:31+0000,,0,0,1,0,0,NEGATIVE,-0.964178562164307,,0,0,0,0.0691
+2016-06-27T15:40:39+0000,,0.535,0,0.465,0.3182,0.2,POSITIVE,0.920706152915955,how much/how much/,0.2,0.2,0.915372610092163,0.3527
+2016-06-27T12:38:41+0000,,0,0.121,0.879,-0.5719,0.1,NEGATIVE,-0.964887320995331,big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/,0,0.1,-0.755754292011261,-0.508
+2016-06-30T23:28:57+0000,,0.154,0.031,0.815,0.8316,0.388636363636364,NEGATIVE,-0.99930465221405,such/such/such/such/such/such/such/such/such/such/such/such/such/such/such/such/native/German/German/German/German/German/new/new/new/new/new/new/new/new/new/new/new/new/new/new/German/German/German/German/German/German/German/German/splendid/splendid/vigorous/vigorous/vigorous/vigorous/vigorous/vigorous/vigorous/vigorous/vigorous/vigorous/,0.0638528138528138,0.292207792207792,0.546010631535735,0.8364
+2015-09-19T12:55:17+0000,,0,0,1,0,0,NEGATIVE,-0.993460416793823,,0,0,0,0.0918
+2016-06-21T12:11:04+0000,,0.574,0,0.426,0.6597,0,POSITIVE,0.99443119764328,,0,0,0,0.6597
+2016-04-24T07:29:24+0000,,0,0,1,0,0.325,POSITIVE,0.782545804977417,past/past/past/,-0.25,0.25,-0.829449057579041,0.0683
+2016-06-19T13:14:10+0000,,0.329,0,0.671,0.5319,0,POSITIVE,0.993573844432831,,0,0,0,0.6722
+2016-09-26T17:48:36+0000,,0,0,1,0,0,NEGATIVE,-0.999553382396698,,0,0,0,0.0257
+2016-07-25T16:44:18+0000,,0,0,1,0,0,NEGATIVE,-0.607486486434937,Mezheven/Mezheven/Mezheven/Mezheven/Mezheven/Mezheven/Mezheven/Mezheven/Mezheven/Mezheven/Mezheven/Mezheven/Mezheven/Mezheven/diwar/diwar/diwar/diwar/diwar/diwar/nevez/nevez/nevez/nevez/nevez/nevez/nevez/nevez/,0,0,0.471658481018884,0.0691
+2016-06-08T06:18:30+0000,,0.183,0.219,0.597,-0.1372,1,NEGATIVE,-0.685615718364716,weakest/,0,0,-0.998242378234863,-0.0364
+2016-06-22T14:46:40+0000,,0,0,1,0,0,NEGATIVE,-0.994982421398163,,0,0,0,0.1112
+2016-07-14T07:49:18+0000,,0.167,0,0.833,0.3818,0,POSITIVE,0.997398138046265,dual/dual/dual/dual/dual/dual/dual/dual/dual/dual/dual/,0,0,0.992233395576477,0.5785
+2016-11-09T21:37:27+0000,,0,0.583,0.417,-0.4215,0,NEGATIVE,-0.999191582202911,,0,0,0,-0.4215
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.801558494567871,Ur/Ur/dichortoz/dichortoz/dichortoz/dichortoz/dichortoz/dichortoz/dichortoz/dichortoz/,0,0,-0.967139577865601,0
+2016-07-25T16:44:18+0000,,0.321,0.321,0.357,0,0.383333333333333,NEGATIVE,-0.999306440353394,,0,0,0,-0.386
+2016-09-10T07:49:31+0000,,0,0,1,0,0.6875,POSITIVE,0.933282792568207,,0,0,0,0.0399
+2016-06-22T22:05:13+0000,,0,0.2,0.8,-0.0644,0,NEGATIVE,-0.659907996654511,,0,0,0,-0.0644
+2016-05-31T06:11:29+0000,,0,0,1,0,0,POSITIVE,0.88577127456665,,0,0,0,0
+2016-06-13T18:07:35+0000,,0.377,0.091,0.532,0.5809,0.5,NEGATIVE,-0.998017072677612,more/more/more/more/more/more/more/more/,0.5,0.5,0.992647409439087,0.5423
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.925434768199921,hollvedeladur/hollvedeladur/hollvedeladur/hollvedeladur/hollvedeladur/hollvedeladur/hollvedeladur/hollvedeladur/hollvedeladur/hollvedeladur/hollvedeladur/,0,0,0.760393261909485,-0.0525
+2016-06-30T23:28:57+0000,,0,0,1,0,0,NEGATIVE,-0.903605878353119,,0,0,0,0
+2016-05-31T06:11:29+0000,,0.565,0,0.435,0.3818,0,POSITIVE,0.992665946483612,Stronger/Stronger/Stronger/,0,0,0.998615264892578,0.415
+2016-07-16T18:23:06+0000,,0.067,0.081,0.852,-0.0772,0.0666666666666667,NEGATIVE,-0.845852553844452,Anglo/Anglo/Anglo/Anglo/Anglo/Anglo/Anglo/French/feudal/feudal/feudal/legal/legal/legal/legal/legal/legal/legal/legal/legal/legal/legal/legal/,0.104347826086957,0.104347826086957,0.683865319127622,0.0886
+2017-01-07T12:35:22+0000,,0.066,0.115,0.82,-0.2023,0.325,NEGATIVE,-0.999514579772949,liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/liberal/strange/strange/ordinary/ordinary/,-0.0206896551724138,0.0448275862068966,-0.758190243408598,0.1879
+2016-06-21T12:11:04+0000,,0.181,0,0.819,0.4754,0.583928571428572,POSITIVE,0.999076008796692,most popular/most popular/most popular/most popular/most popular/most popular/most popular/most popular/,0.55,0.7,0.999610960483551,0.2553
+2016-06-22T21:02:47+0000,,0,0,1,0,0.5,NEGATIVE,-0.921163618564606,little/little/little/little/,-0.1875,0.5,-0.709233820438385,0.0568
+2016-06-30T23:28:57+0000,,0.071,0.106,0.823,-0.3818,0.173333333333333,NEGATIVE,-0.987481534481049,titanic/titanic/titanic/titanic/titanic/titanic/titanic/titanic/titanic/titanic/titanic/titanic/internal/internal/internal/internal/internal/internal/adequate/adequate/adequate/adequate/adequate/adequate/adequate/external/external/external/external/external/external/pro/-/refugee/refugee/refugee/refugee/refugee/refugee/refugee/refugee/refugee/faux/faux/faux/,0.0518518518518518,0.0651851851851852,-0.0872775475184123,-0.3546
+2017-02-12T22:33:20+0000,,0.14,0.062,0.798,0.2382,0.35,POSITIVE,0.988713920116425,successive/successive/successive/successive/successive/successive/successive/economic/economic/economic/economic/economic/economic/economic/economic/economic/economic/economic/,0.122222222222222,0.122222222222222,0.990447411934535,-0.0094
+2016-06-22T22:15:09+0000,,0,0.154,0.846,-0.2057,0.0625,NEGATIVE,-0.997962713241577,same/same/,0,0.125,0.514154613018036,0.0852
+2016-06-22T21:02:47+0000,,0,0.281,0.719,-0.5994,0,NEGATIVE,-0.991249561309815,,0,0,0,-0.562
+2017-01-12T21:56:07+0000,,0.07,0.102,0.828,-0.128,0,NEGATIVE,-0.989809632301331,affected/affected/,0,0,0.577390968799591,0.0544
+2016-06-22T22:15:09+0000,,0,0,1,0,0.166666666666667,NEGATIVE,-0.704847693443298,INNER/INNER/INNER/INNER/INNER/INNER/INNER/INNER/INNER/INNER/,0,0.166666666666667,0.997637987136841,0.4972
+2016-09-10T07:49:31+0000,,0,0,1,0,0,NEGATIVE,-0.998426556587219,,0,0,0,0
+2016-11-09T21:37:27+0000,,0,0,1,0,0,POSITIVE,0.94282191991806,too fizzy/,0,0,-0.981084585189819,0.0973
+2016-05-31T06:11:29+0000,,0,0,1,0,0.454545454545455,POSITIVE,0.955825746059418,new/new/new/new/sycophantic/sycophantic/sycophantic/,0.0779220779220779,0.25974025974026,0.16154625586101,0.2017
+2017-01-07T12:35:22+0000,,0,0,1,0,0.3,POSITIVE,0.994800686836243,shorter/shorter/shorter/shorter/shorter/shorter/shorter/real/real/real/longer/,0.0545454545454546,0.0818181818181818,-0.292562701485374,0.1889
+2016-06-13T06:38:06+0000,,0,0,1,0,0,POSITIVE,0.99740332365036,,0,0,0,0.0918
+2016-09-26T17:48:36+0000,,0.086,0,0.914,0.4404,0.05,NEGATIVE,-0.99906200170517,favour/favour/favour/favour/favour/favour/favour/favour/favour/favour/favour/favour/favour/favour/favour/favour/favour/favour/,0,0,0.944740414619446,0.4402
+2016-05-13T13:24:37+0000,,0,0,1,0,0.4,NEGATIVE,-0.801579475402832,similar/similar/similar/similar/similar/similar/similar/similar/,0,0.4,-0.909181833267212,0.1714
+2016-05-31T06:11:29+0000,,0,0,1,0,0.567857142857143,POSITIVE,0.988273859024048,about right/about right/about right/about right/about right/about right/about right/about right/about right/about right/about right/about right/about right/about right/about right/,0.285714285714286,0.535714285714286,0.561014413833618,0.1604
+2016-04-16T10:28:27+0000,,0.143,0.235,0.622,-0.6124,0.583333333333333,POSITIVE,0.584957838058472,great/great/great/great/great/,0.8,0.75,0.99007648229599,-0.7992
+2016-06-08T06:18:30+0000,,0.222,0.153,0.625,0.2467,0.522222222222222,POSITIVE,0.963661968708038,more creative/more creative/more creative/more creative/more creative/,0.5,0.75,0.999326586723328,-0.2203
+2016-04-12T09:07:53+0000,,0.289,0,0.711,0.875,0.525,NEGATIVE,-0.843466401100159,ready/ready/ready/ready/ready/ready/ready/ready/ready/clean/clean/clean/clean/clean/clean/clean/free/free/free/free/Roman/Roman/,0.271212121212121,0.572727272727273,0.766483138908039,0.2976
+2016-07-27T22:57:38+0000,,0,0,1,0,0,NEGATIVE,-0.999897956848145,,0,0,0,0.1206
+2017-01-18T01:26:19+0000,,0,0,1,0,0,NEGATIVE,-0.838920772075653,,0,0,0,0
+2016-09-10T07:49:31+0000,,0.171,0,0.829,0.8018,0.366666666666667,POSITIVE,0.999452769756317,collective/collective/collective/collective/collective/European/European/European/European/European/European/European/European/European/European/European/European/so very appetising/so very appetising/exciting/,0.035,0.07,0.994594138860703,0.6908
+2016-06-25T08:16:08+0000,,0,0.39,0.61,-0.4939,0,POSITIVE,0.53082549571991,,0,0,0,-0.4315
+2017-01-18T01:26:19+0000,,0.433,0,0.567,0.7269,1,POSITIVE,0.99409419298172,brilliant/brilliant/brilliant/brilliant/brilliant/brilliant/brilliant/brilliant/brilliant/,0.9,1,0.998248934745789,0.3955
+2016-06-22T21:50:41+0000,,0,0.405,0.595,-0.5267,0.333333333333333,NEGATIVE,-0.999934434890747,FIRST/FIRST/,0.25,0.333333333333333,0.91229122877121,-0.3663
+2017-03-23T15:05:40+0000,,0.229,0.229,0.542,0,0,NEGATIVE,-0.986857891082764,next/next/next/next/next/next/,0,0,0.899904251098633,0.4414
+2017-03-02T17:39:38+0000,,0.036,0.274,0.691,-0.8834,1,NEGATIVE,-0.999655365943909,nasty/evil/evil/evil/evil/evil/evil/evil/evil/evil/evil/evil/evil/evil/evil/evil/,-1,1,-0.997131060808897,-0.1691
+2016-06-22T22:05:13+0000,,0,0.39,0.61,-0.4927,0.541666666666667,NEGATIVE,-0.999902367591858,More dreadful/More dreadful/More dreadful/foreign/foreign/,-0.2,0.5,-0.994195628166199,0.0119
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.669258296489716,,0,0,0,0.0886
+2016-06-23T12:41:43+0000,,0,0.13,0.87,-0.0516,0,NEGATIVE,-0.925531566143036,,0,0,0,-0.0059
+2016-05-31T06:11:29+0000,,0.167,0,0.833,0.4215,0.2,NEGATIVE,-0.994048357009888,much easier/much easier/much easier/counterfeit/counterfeit/counterfeit/counterfeit/counterfeit/counterfeit/counterfeit/counterfeit/counterfeit/counterfeit/,0.0461538461538462,0.0461538461538462,-0.617421416135935,0.4975
+2016-09-10T07:49:31+0000,,0.074,0,0.926,0.4939,0.5,NEGATIVE,-0.998969197273254,electric/electric/electric/electric/electric/electric/electric/electric/electric/electric/electric/Indian/Indian/Indian/Indian/Indian/Indian/impertinent/impertinent/impertinent/impertinent/impertinent/impertinent/impertinent/impertinent/impertinent/impertinent/impertinent/little/little/little/little/little/more/more/more/more/,0.0287162162162162,0.121621621621622,0.169566876179463,0.5465
+2015-09-19T12:55:17+0000,,0,0,1,0,0,POSITIVE,0.968569934368134,rural/rural/,0,0,-0.876789689064026,0.0751
+2016-06-12T21:32:44+0000,,0.042,0.231,0.727,-0.878,0.52962962962963,NEGATIVE,-0.808672726154327,Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/Roman/sure/sure/sure/sure/sure/sure/sure/sure/rash/rash/,0.153846153846154,0.273504273504274,-0.23680723630465,-0.6117
+2017-01-07T12:35:22+0000,,0,0,1,0,0,NEGATIVE,-0.967906653881073,liberal/liberal/,0,0,-0.728752076625824,0.0461
+2017-01-12T21:54:19+0000,,0,0,1,0,0,POSITIVE,0.972732067108154,,0,0,0,0
+2016-06-21T12:11:04+0000,,0.351,0,0.649,0.4019,0,NEGATIVE,-0.999543309211731,,0,0,0,0.4019
+2016-06-16T10:06:23+0000,,0.129,0.155,0.717,-0.4508,0.420833333333333,NEGATIVE,-0.989307582378388,British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/British/straight/straight/straight/just confused/,0.00338983050847458,0.0322033898305085,0.923084774259794,0.1205
+2016-06-30T23:28:57+0000,,0.073,0.146,0.781,-0.4215,0.713333333333333,NEGATIVE,-0.920368373394013,such/anti/-/Soros/Soros/Soros/Soros/Soros/Soros/Soros/all enough popular/all enough popular/all enough popular/conservative/conservative/nationalist/nationalist/nationalist/nationalist/nationalist/nationalist/nationalist/nationalist/sensational/sensational/sensational/sensational/sensational/,0.151190476190476,0.211904761904762,0.764839940837451,-0.2102
+2016-06-01T10:33:56+0000,,0,0,1,0,0,POSITIVE,0.975065588951111,,0,0,0,0
+2016-06-08T06:18:30+0000,,0,0.177,0.823,-0.5106,0.141666666666667,POSITIVE,0.784495890140533,same/old/old/old/old/old/old/old/old/ignorant/ignorant/ignorant/ignorant/ignorant/ignorant/,0.0533333333333333,0.115,-0.898871910572052,0.0414
+2016-06-22T21:02:47+0000,,0,0.102,0.898,-0.3818,0.65,POSITIVE,0.843980610370636,always possible/always possible/always possible/always possible/personal/personal/civic/civic/civic/civic/civic/civic/civic/civic/civic/civic/,0,0.2875,0.995867483317852,-0.1669
+2016-06-30T23:28:57+0000,,0.177,0.059,0.764,0.7003,0.341666666666667,NEGATIVE,-0.954841792583466,valiant/valiant/valiant/valiant/valiant/valiant/valiant/valiant/valiant/valiant/valiant/valiant/quick/quick/quick/quick/quick/quick/quick/quick/quick/quick/quick/quick/quick/quick/British/British/British/British/British/British/,0.145833333333333,0.21875,0.96013955399394,0.7809
+2016-06-13T18:07:35+0000,,0.045,0.123,0.832,-0.3716,0.180555555555556,NEGATIVE,-0.949167311191559,UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/British/British/British/British/British/,0,0,-0.321255412366655,-0.1461
+2016-12-26T05:37:27+0000,,0,0.326,0.674,-0.4404,0,NEGATIVE,-0.998835623264313,Muslim/Muslim/,0,0,-0.835408866405487,-0.5656
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.954742610454559,,0,0,0,0
+2016-06-13T18:07:35+0000,,0.045,0.123,0.832,-0.3716,0.180555555555556,NEGATIVE,-0.949167311191559,UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/UKs/British/British/British/British/British/,0,0,-0.321255412366655,-0.1461
+2016-07-27T09:43:16+0000,,0,0,1,0,0,NEGATIVE,-0.994941651821137,British/British/,0,0,0.95611697435379,0.0998
+2016-05-31T06:11:29+0000,,0,0,1,0,0,POSITIVE,0.945016801357269,,0,0,0,0
+2017-01-07T12:35:22+0000,,0,0.242,0.758,-0.4364,0.3,POSITIVE,0.956618428230286,,0,0,0,-0.1755
+2016-05-23T18:22:35+0000,,0,0.126,0.874,-0.0772,0,POSITIVE,0.926764607429504,,0,0,0,0.1333
+2017-01-12T21:56:07+0000,,0,0,1,0,0.5,POSITIVE,0.989964663982391,numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/numerous/,0,0.5,0.879741847515106,0.0244
+2016-04-16T10:28:27+0000,,0,0.161,0.839,-0.3182,0,NEGATIVE,-0.98847895860672,,0,0,0,0.119
+2016-06-27T12:38:41+0000,,0,0,1,0,0,POSITIVE,0.688525795936585,,0,0,0,0.0517
+2016-09-10T07:49:31+0000,,0.124,0,0.876,0.5267,0.107142857142857,POSITIVE,0.962940156459808,European/European/European/European/European/European/European/European/European/single/single/,-0.012987012987013,0.038961038961039,0.710094890811227,nan
+2016-06-22T21:02:47+0000,,0,0.216,0.784,-0.296,0.175,NEGATIVE,-0.9843789935112,,0,0,0,-0.1095
+2016-06-13T18:07:35+0000,,0,0.709,0.291,-0.8074,0.3,NEGATIVE,-0.999961733818054,dismal/dismal/dismal/dismal/,0,0,-0.99996030330658,-0.5272
+2016-06-22T21:02:47+0000,,0,0,1,0,0.1,POSITIVE,0.929430961608887,few/few/,-0.2,0.1,-0.542768120765686,0.0476
+2016-07-15T13:53:39+0000,,0.156,0.144,0.7,0.25,0.0933333333333333,NEGATIVE,-0.942520081996918,urgent/urgent/urgent/urgent/urgent/urgent/urgent/urgent/last/best/best/best/best/best/best/best/best/best/best/classical/Western/Western/Western/Western/Western/Western/Western/Western/Western/Western/half respectable/half respectable/half respectable/constitutional/constitutional/constitutional/constitutional/1st/1st/1st/1st/1st/1st/1st/1st/1st/1st/1st/1st/1st/1st/1st/1st/1st/1st/1st/1st/1st/co/-/ordinated/ordinated/ordinated/ordinated/ordinated/ordinated/ordinated/ordinated/ordinated/ordinated/ordinated/ordinated/ordinated/ordinated/ordinated/ordinated/,0.138157894736842,0.0535087719298246,0.927895494197544,-0.4576
+2016-06-24T05:55:01+0000,,0,0,1,0,0,POSITIVE,0.979363739490509,,0,0,0,0
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.979363739490509,,0,0,0,0
+2016-05-31T06:11:29+0000,,0,0.131,0.869,-0.3089,0,NEGATIVE,-0.887544870376587,,0,0,0,-0.1473
+2016-06-21T12:11:04+0000,,0.344,0,0.656,0.8591,0.5,POSITIVE,0.996360599994659,common/common/common/common/common/common/common/common/common/common/common/non/-/discrimination/discrimination/discrimination/discrimination/discrimination/discrimination/discrimination/discrimination/discrimination/discrimination/discrimination/,-0.1375,0.229166666666667,-0.127329245209694,0.8759
+2016-06-22T21:02:47+0000,,0.13,0,0.87,0.34,0,NEGATIVE,-0.941848635673523,bet/bet/bet/bet/bet/bet/bet/bet/bet/bet/bet/bet/bet/bet/,0,0,0.913745641708374,0.34
+2016-06-22T22:15:09+0000,,0,0.405,0.595,-0.5267,0.333333333333333,NEGATIVE,-0.999934434890747,FIRST/FIRST/,0.25,0.333333333333333,0.91229122877121,-0.3663
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.941947638988495,,0,0,0,0
+2016-06-21T21:52:35+0000,,0,0,1,0,0,POSITIVE,0.986640512943268,,0,0,0,0.0859
+2016-09-26T17:48:36+0000,,0.262,0,0.738,0.4939,0.125,POSITIVE,0.982017636299133,same/same/same/same/same/same/,0,0.125,0.514154613018036,0.5131
+2016-06-22T22:05:13+0000,,0.597,0,0.403,0.8126,0.775,POSITIVE,0.948556184768677,shalt/shalt/great/great/free/,0.4,0.46,0.139962434768677,0.1442
+2016-04-16T10:28:27+0000,,0,0,1,0,0,POSITIVE,0.853299975395203,,0,0,0,0.0691
+2016-06-23T12:41:43+0000,,0.212,0.166,0.622,-0.0258,0.5,NEGATIVE,-0.995410144329071,several/several/several/several/several/several/several/,0,0,0.823158204555512,-0.2433
+2016-06-25T12:54:06+0000,,0,0,1,0,0,NEGATIVE,-0.930010676383972,,0,0,0,0.0306
+2016-08-11T10:42:28+0000,,0.315,0,0.685,0.3182,0,POSITIVE,0.997044861316681,,0,0,0,0.3182
+2016-06-30T23:28:57+0000,,0,0,1,0,0,POSITIVE,0.887570858001709,open/open/open/open/open/open/open/open/open/open/open/open/open/open/open/open/open/,0,0.5,0.977954268455505,0
+2016-06-13T18:07:35+0000,,0,0.055,0.945,-0.1027,0.625,NEGATIVE,-0.990713953971863,able/able/able/able/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/upcoming/,0.142857142857143,0.178571428571429,0.995935542242868,0.1218
+2016-07-25T16:44:18+0000,,0,0.574,0.426,-0.4019,0,NEGATIVE,-0.994725048542023,,0,0,0,-0.4019
+2016-06-07T18:12:16+0000,,0.263,0.434,0.303,-0.4019,0.4,NEGATIVE,-0.89293497800827,alive/alive/dead/,0,0.4,0.332723180452983,0.1105
+2016-06-22T21:02:47+0000,,0,0.29,0.71,-0.4745,0.833333333333333,NEGATIVE,-0.996764779090881,important/important/important/important/important/important/empty/empty/empty/,0.233333333333333,0.833333333333333,0.327654898166657,-0.0167
+2016-06-21T12:11:04+0000,,0,0,1,0,0.375,POSITIVE,0.970870792865753,other/,-0.125,0.375,0.873019635677338,0.0382
+2016-07-25T16:44:18+0000,,0.294,0,0.706,0.3612,0,POSITIVE,0.873088777065277,,0,0,0,0.3821
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.954742610454559,,0,0,0,0
+2017-01-12T21:56:07+0000,,0,0,1,0,0.454545454545455,POSITIVE,0.988586723804474,new/new/new/new/new/new/new/new/new/new/new/new/new/new/,0.136363636363636,0.454545454545454,0.998695313930512,0.2152
+2016-05-31T06:11:29+0000,,0.623,0,0.377,0.5106,0.733333333333333,POSITIVE,0.996071219444275,Strong/Strong/Strong/,0.433333333333333,0.733333333333333,0.993737101554871,0.0447
+2017-02-22T00:27:44+0000,,0,0,1,0,0,NEGATIVE,-0.950917601585388,,0,0,0,0
+2016-11-09T21:37:27+0000,,0.6,0,0.4,0.5423,0,NEGATIVE,-0.729598462581635,colonial/colonial/,0,0,-0.657203853130341,0.5839
+2016-07-25T16:44:18+0000,,0,0.16,0.84,-0.8225,0.35,NEGATIVE,-0.984872460365295,,0,0,0,-0.8197
+2017-03-11T21:27:21+0000,,0,0,1,0,0,NEGATIVE,-0.99965226650238,,0,0,0,0
+2016-06-22T21:02:47+0000,,0.072,0.077,0.851,-0.0258,0.166666666666667,POSITIVE,0.812977731227875,Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/Selfless/,0,0,-0.756847321987152,0.1503
+2016-06-08T06:18:30+0000,,0,0,1,0,0,POSITIVE,0.88587611913681,,0,0,0,0.128
+2016-06-01T10:33:56+0000,,0,0.438,0.562,-0.5994,0,POSITIVE,0.999751389026642,,0,0,0,-0.5711
+2016-05-31T06:11:29+0000,,0,0,1,0,0,POSITIVE,0.760032653808594,,0,0,0,0
+2016-06-29T19:35:01+0000,,0,0,1,0,0,NEGATIVE,-0.633453667163849,,0,0,0,0
+2016-06-22T21:02:47+0000,,0.079,0,0.921,0.34,0,POSITIVE,0.540428102016449,KÃÂÃÂªrdiz/,0,0,-0.901983976364136,0.34
+2016-06-01T10:33:56+0000,,0,0.438,0.562,-0.5994,0,POSITIVE,0.99770587682724,,0,0,0,-0.5711
+2016-05-31T06:11:29+0000,,0,0,1,0,0,POSITIVE,0.997887194156647,,0,0,0,0.0457
+2016-02-27T20:50:26+0000,,0.063,0.144,0.794,-0.4482,0.9,NEGATIVE,-0.990445733070374,,0,0,0,0.7616
+2017-01-03T11:00:00+0000,,0,0,1,0,0.266666666666667,NEGATIVE,-0.988678276538849,Second/Second/Second/Second/Second/Second/long/long/long/long/long/long/long/long/long/long/long/long/long/,-0.0342105263157895,0.273684210526316,-0.302450823156457,0.2349
+2016-05-13T13:24:37+0000,,0.225,0,0.775,0.4939,0.5,POSITIVE,0.953378558158875,,0,0,0,0.5184
+2016-06-24T05:55:01+0000,,0,0,1,0,0,POSITIVE,0.979363739490509,,0,0,0,0
+2016-06-21T12:11:04+0000,,0,0,1,0,0.3,POSITIVE,0.999498963356018,Many/Many/Many/Many/Many/Many/Many/Many/Many/Many/Many/Many/Many/Many/Many/human/,0.46875,0.475,0.924754329025745,0.218
+2017-01-07T12:35:22+0000,,0,0.381,0.619,-0.8126,1,NEGATIVE,-0.94727224111557,outrageous/outrageous/outrageous/outrageous/outrageous/outrageous/outrageous/outrageous/outrageous/outrageous/outrageous/outrageous/,-1,1,0.827196478843689,-0.6252
+2016-04-15T19:18:28+0000,,0,0.12,0.88,-0.3818,0,POSITIVE,0.631244659423828,,0,0,0,-0.3818
+2016-06-22T22:05:13+0000,,0.597,0,0.403,0.8126,0.775,POSITIVE,0.948556184768677,shalt/shalt/great/great/free/,0.4,0.46,0.139962434768677,0.1442
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.61484831571579,,0,0,0,0.0542
+2016-06-23T12:41:43+0000,,0,0,1,0,0.85,POSITIVE,0.992916822433472,,0,0,0,0
+2017-01-18T01:26:19+0000,,0,0,1,0,0.25,NEGATIVE,-0.991933166980743,equal/equal/equal/equal/equal/equal/equal/,0,0.25,0.998474299907684,0.2114
+2016-06-22T21:02:47+0000,,0,0,1,0,0.475,POSITIVE,0.962417721748352,Relocated/Relocated/Relocated/Relocated/such/such/such/such/such/such/such/such/such/such/,0,0.357142857142857,0.894969514438084,0.3113
+2016-05-31T06:11:29+0000,,0.224,0,0.776,0.3818,0.55,NEGATIVE,-0.89160966873169,political/political/,0,0.1,0.706427097320557,0.5234
+2016-06-27T12:38:41+0000,,0,0.808,0.192,-0.8126,0,NEGATIVE,-0.999971866607666,,0,0,0,-0.7992
+2016-05-31T06:11:29+0000,,0,0,0,0,0,POSITIVE,0.920023322105408,,0,0,0,0
+2016-06-04T14:58:25+0000,,0.105,0.016,0.88,0.8519,0.322098214285714,NEGATIVE,-0.981862008571625,tidal/tidal/tidal/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/unwanted/single/European/European/European/single/European/European/European/European/European/European/European/European/unitary/European/European/European/European/European/European/ever more/ever more/ever more/ever more/ever more/ever more/ever more/ever more/ever more/ever more/ever more/foreign/foreign/foreign/foreign/foreign/foreign/foreign/foreign/foreign/foreign/foreign/foreign/foreign/foreign/foreign/foreign/contrary/contrary/contrary/own/national/national/,0.0507326007326007,0.114468864468864,-0.0915608421350137,0.9483
+2016-05-31T06:11:29+0000,,0,0.235,0.765,-0.4728,0.191666666666667,NEGATIVE,-0.998851418495178,reciprocal/medical/medical/medical/other/other/other/other/other/useless/,-0.1125,0.2075,0.697761559486389,0.2356
+2016-06-01T10:33:56+0000,,0,0,1,0,0.5,NEGATIVE,-0.999963879585266,heavy/heavy/heavy/heavy/heavy/heavy/heavy/,-0.2,0.5,-0.73454886674881,0.0715
+2016-06-30T23:28:57+0000,,0,0,1,0,0.7,NEGATIVE,-0.931905388832092,,0,0,0,0.053
+2016-06-22T22:15:09+0000,,0.134,0.162,0.704,-0.1027,0.269230769230769,NEGATIVE,-0.996582329273224,prepared/prepared/prepared/prepared/prepared/prepared/prepared/prepared/prepared/prepared/prepared/,0,0,0.991618990898132,0.0419
+2016-06-22T21:02:47+0000,,0,0,1,0,0.291666666666667,NEGATIVE,-0.654762327671051,adjacent/adjacent/adjacent/adjacent/adjacent/adjacent/adjacent/adjacent/adjacent/adjacent/more local/more local/other/other/other/other/other/,-0.00735294117647059,0.139705882352941,0.931647984420552,0.4213
+2016-07-16T18:39:10+0000,,0,0,1,0,0,POSITIVE,0.547832369804382,,0,0,0,0
+2016-07-12T06:39:37+0000,,0.726,0,0.274,0.6486,0,NEGATIVE,-0.62330973148346,,0,0,0,0.6542
+2016-06-27T12:38:41+0000,,0.608,0,0.392,0.4767,0,POSITIVE,0.996022820472717,,0,0,0,0.5068
+2017-01-12T21:56:07+0000,,0.081,0.068,0.851,0.0772,0,NEGATIVE,-0.953173995018005,discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/discretionary/,0,0,0.800248622894287,0.3174
+2016-06-21T12:11:04+0000,,0,0.403,0.597,-0.4019,0,NEGATIVE,-0.985557973384857,,0,0,0,-0.4005
+2017-03-01T20:47:00+0000,,0,0.17,0.83,-0.7876,0.502380952380952,NEGATIVE,-0.991783618927002,current/current/current/current/current/just few/short/short/short/short/short/catastrophic/,-0.0166666666666667,0.3,-0.162792429327965,0.0269
+2017-03-29T11:30:57+0000,,0,0,1,0,0,POSITIVE,0.979363739490509,,0,0,0,0
+2017-01-19T02:09:03+0000,,0,0.158,0.842,-0.4588,0,NEGATIVE,-0.996770620346069,kosher/kosher/kosher/kosher/kosher/kosher/kosher/kosher/kosher/kosher/kosher/kosher/kosher/kosher/kosher/,0,0,0.528164684772492,-0.2953
+2016-06-22T21:02:47+0000,,0.094,0,0.906,0.34,0,POSITIVE,0.74289083480835,,0,0,0,0.34
+2016-06-21T12:11:04+0000,,0,0,1,0,0.1875,POSITIVE,0.854951083660126,other/other/other/European/European/,-0.075,0.225,0.920808446407318,0.1782
+2016-04-16T10:28:27+0000,,0.135,0.156,0.709,-0.0772,0,NEGATIVE,-0.820814073085785,,0,0,0,-0.0112
+2016-08-19T07:54:55+0000,,0,0,1,0,0,POSITIVE,0.997617661952972,,0,0,0,0
+2016-06-24T21:40:17+0000,,0.592,0,0.408,0.4404,0.6,POSITIVE,0.977218508720398,Good/Good/Good/,0.7,0.6,0.931395292282105,0.0363
+2017-03-02T17:39:38+0000,,0,0.333,0.667,-0.5413,0.5,NEGATIVE,-0.999079585075378,french/french/french/french/french/completely mad/,-0.104166666666667,0.166666666666667,0.641845107078552,0.085
+2016-06-24T16:52:52+0000,,0.135,0.031,0.833,0.6124,0.433333333333333,NEGATIVE,-0.980651676654816,own/nationalist/far/far/right/right/right/right/right/right/,0.251428571428571,0.621428571428571,0.676101171970368,0.631
+2016-06-08T06:18:30+0000,,0.183,0.219,0.597,-0.1372,1,NEGATIVE,-0.685615718364716,weakest/,0,0,-0.998242378234863,-0.0364
+2016-07-27T09:43:16+0000,,0.21,0.21,0.58,0,0.383333333333333,NEGATIVE,-0.994899809360504,clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/clear/,0.1,0.383333333333333,0.99899560213089,-0.3863
+2016-06-22T21:02:47+0000,,0.237,0,0.763,0.4215,0.592857142857143,POSITIVE,0.995422303676605,true/true/true/true/true/true/true/true/true/true/,0.35,0.65,0.997733473777771,0.1586
+2016-12-26T05:37:27+0000,,0,0,1,0,0,NEGATIVE,-0.989061594009399,,0,0,0,0
+2016-12-08T11:00:00+0000,,0,0.197,0.803,-0.4019,0.95,NEGATIVE,-0.992809414863586,,0,0,0,-0.3282
+2016-05-31T06:11:29+0000,,0.464,0,0.536,0.3818,0.4,POSITIVE,0.997635126113892,young/young/,0.1,0.4,0.954427897930145,0.4222
+2016-06-30T23:12:47+0000,,0.402,0.304,0.294,0.25,0.825,NEGATIVE,-0.960241258144379,wrong/wrong/,-0.5,0.9,-0.994579553604126,0.1128
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.556090831756592,,0,0,0,-0.0525
+2017-03-09T11:00:00+0000,,0.138,0.036,0.826,0.5719,0.31,POSITIVE,0.976838767528534,ordinary/ordinary/ordinary/ordinary/ordinary/ordinary/ordinary/ordinary/ordinary/ordinary/ordinary/narrow/narrow/narrow/narrow/useful/useful/useful/useful/useful/different/different/different/different/different/different/different/different/,-0.0732142857142858,0.425,-0.597181020038469,0.3323
+2016-06-08T06:18:30+0000,,0.211,0,0.789,0.5499,0.65,POSITIVE,0.996899127960205,best/best/best/best/best/best/best/best/best/best/best/best/,1,0.3,0.996064603328705,0.3554
+2016-06-22T22:15:09+0000,,0.394,0,0.606,0.6378,0.272222222222222,POSITIVE,0.633082211017609,prepared/prepared/prepared/prepared/less rich/less rich/less rich/Irish/Irish/,0.0347222222222222,0.136111111111111,0.911473294099172,0.2086
+2016-07-07T08:34:26+0000,,0,0,1,0,0.4,POSITIVE,0.879899978637695,deeply pro/-/Europe/Europe/Europe/,0,0.08,0.968228936195374,0
+2016-06-27T12:38:41+0000,,0,0.121,0.879,-0.5719,0.1,NEGATIVE,-0.964887320995331,big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/big/,0,0.1,-0.755754292011261,-0.508
+2017-02-10T21:03:52+0000,,0.329,0,0.671,0.5994,0,POSITIVE,0.602473676204681,,0,0,0,0.6889
+2016-06-22T22:05:13+0000,,0.277,0,0.723,0.3182,0.9,POSITIVE,0.995056867599487,fair/,0.7,0.9,-0.995151519775391,0.0457
+2017-03-14T02:59:47+0000,,0,0,1,0,0,NEGATIVE,-0.997033953666687,,0,0,0,0
+2016-07-07T08:34:26+0000,,0,0,1,0,0.4,POSITIVE,0.879899978637695,deeply pro/-/Europe/Europe/Europe/,0,0.08,0.968228936195374,0
+2016-06-22T21:02:47+0000,,0.112,0,0.888,0.4404,0.375,NEGATIVE,-0.991824686527252,Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/Czech/other/other/,-0.00925925925925926,0.0277777777777778,0.79453659940649,0.5734
+2016-07-15T13:53:39+0000,,0.067,0,0.933,0.128,1,POSITIVE,0.91143786907196,federal/federal/federal/federal/federal/federal/federal/federal/federal/federal/federal/federal/federal/federal/federal/federal/,0,0,0.886969387531281,0.1999
+2016-06-22T21:02:47+0000,,0.131,0.213,0.656,-0.3612,0,POSITIVE,0.905430018901825,,0,0,0,-0.3953
+2017-03-11T21:27:21+0000,,0,0,1,0,0,NEGATIVE,-0.99965226650238,,0,0,0,0
+2016-06-21T21:52:35+0000,,0,0,1,0,1,POSITIVE,0.79574465751648,final/final/final/final/final/final/final/final/,0,1,0.955391883850098,0.1363
+2016-06-08T06:18:30+0000,,0,0,1,0,0,POSITIVE,0.940758466720581,,0,0,0,0
+2016-06-30T23:28:57+0000,,0,0,1,0,0,NEGATIVE,-0.632993996143341,,0,0,0,0
+2016-07-14T07:49:18+0000,,0,0,1,0,0,POSITIVE,0.99117636680603,,0,0,0,0.2107
+2016-06-22T21:02:47+0000,,0,0.29,0.71,-0.4745,0.833333333333333,NEGATIVE,-0.996764779090881,important/important/important/important/important/important/empty/empty/empty/,0.233333333333333,0.833333333333333,0.327654898166657,-0.0167
+2017-02-22T00:27:44+0000,,0,0.094,0.906,-0.3818,0.267857142857143,NEGATIVE,-0.581507444381714,clean/clean/clean/clean/clean/clean/clean/clean/clean/clean/clean/clean/clean/clean/clean/,0.366666666666667,0.7,0.994915723800659,-0.1727
+2016-06-21T21:52:35+0000,,0.109,0,0.891,0.0258,0.288888888888889,NEGATIVE,-0.993393123149872,,0,0,0,0.1127
+2016-06-22T22:05:13+0000,,0,0,1,0,0,NEGATIVE,-0.999710857868195,Blest/Blest/,0,0,-0.999908924102783,-0.0143
+2016-06-30T23:28:57+0000,,0,0,1,0,0,POSITIVE,0.975745260715485,,0,0,0,0.0662
+2017-01-12T21:54:19+0000,,0,0.091,0.909,-0.296,0.166666666666667,NEGATIVE,-0.987521827220917,specific/specific/specific/other/other/other/other/other/other/British/British/,-0.0681818181818182,0.238636363636364,0.920985043048859,0.323
+2016-05-31T06:11:29+0000,,0,0,1,0,0.288888888888889,NEGATIVE,-0.852319955825806,numerical/numerical/,0,0,0.965987026691437,-0.0018
+2016-11-09T21:37:27+0000,,0,0.347,0.653,-0.1513,1,NEGATIVE,-0.999944567680359,so sorry/so sorry/,-0.5,1,-0.999789416790009,0.0043
+2016-06-22T21:02:47+0000,,0.04,0.066,0.894,-0.3612,0,POSITIVE,0.775425791740418,ouzh/ouzh/ouzh/ouzh/ouzh/ouzh/ouzh/ouzh/ouzh/ouzh/ouzh/ouzh/ouzh/ouzh/ouzh/ouzh/ouzh/ouzh/galloud/galloud/galloud/galloud/galloud/galloud/galloud/galloud/galloud/galloud/galloud/galloud/galloud/galloud/galloud/galloud/galloud/galloud/galloud/galloud/brezel/brezel/brezel/brezel/brezel/brezel/brezel/brezel/brezel/brezel/brezel/,0,0,-0.570865345244505,-0.3612
+2016-06-30T23:28:57+0000,,0,0,1,0,0,NEGATIVE,-0.745319724082947,,0,0,0,0
+2016-06-01T10:33:56+0000,,0,0.351,0.649,-0.4019,0,NEGATIVE,-0.902769267559052,,0,0,0,-0.4019
+2016-09-26T17:48:36+0000,,0.153,0.137,0.71,0.0772,0.458333333333333,NEGATIVE,-0.964894652366638,Really informative/Really informative/Really informative/Really informative/Really informative/Really informative/nice/nice/nice/nice/nice/nice/nice/nice/nice/nice/nice/,0.458823529411765,0.717647058823529,0.977545075556811,-0.2325
+2016-06-08T06:18:30+0000,,0.477,0.295,0.227,0.3818,0.6,POSITIVE,0.99731171131134,,0,0,0,0.3818
+2016-05-31T06:11:29+0000,,0,0,1,0,1,POSITIVE,0.999423146247864,,0,0,0,0.094
+2016-08-19T07:54:55+0000,,0,0,1,0,0,NEGATIVE,-0.956888735294342,,0,0,0,0
+2016-06-22T21:02:47+0000,,0,0.074,0.926,-0.5994,0,POSITIVE,0.867322146892548,-/-/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/kaout/,0,0,0.989707572893663,-0.5994
+2016-06-23T12:41:43+0000,,0,0.432,0.568,-0.7261,0.541666666666667,NEGATIVE,-0.998637020587921,more WEAK/more WEAK/vulnerable/vulnerable/vulnerable/vulnerable/,-0.3125,0.520833333333333,0.299667080243429,0.1714
+2016-03-11T03:55:17+0000,,0.13,0,0.87,0.5106,0.8,NEGATIVE,-0.999228000640869,prime/prime/prime/prime/prime/prime/prime/prime/prime/prime/prime/prime/free/free/free/free/free/free/free/free/free/free/free/,0.191304347826087,0.382608695652174,0.864371771397798,0.1591
+2016-09-10T07:49:31+0000,,0.261,0,0.739,0.6486,0.6,NEGATIVE,-0.687758922576904,as many/as many/as many/possible/possible/possible/possible/possible/personal/personal/,0.15,0.71,0.533625465631485,0.7885
+2016-09-10T07:49:31+0000,,0,0,1,0,0.333333333333333,NEGATIVE,-0.999193608760834,most pernicious/most pernicious/most pernicious/Little/English/English/English/,0.1875,0.285714285714286,-0.144565650394985,-0.1351
+2016-06-08T06:18:30+0000,,0.125,0.091,0.784,0.0258,1,NEGATIVE,-0.99564254283905,mega/mega/mega/mega/mega/mega/mega/mega/own/own/own/own/own/own/own/,0.28,0.466666666666667,0.979995187123617,0.0575
+2016-06-21T12:11:04+0000,,0.639,0,0.361,0.6486,0.55,NEGATIVE,-0.988870918750763,brave/brave/brave/worth/worth/worth/,0.55,0.55,0.991384446620941,0.5625
+2016-11-09T21:37:27+0000,,0,0.347,0.653,-0.1513,1,NEGATIVE,-0.999944567680359,so sorry/so sorry/,-0.5,1,-0.999789416790009,0.0043
+2016-05-31T06:11:29+0000,,0,0,0,0,0,POSITIVE,0.890068590641022,,0,0,0,0
+2017-03-14T05:24:12+0000,,0.371,0,0.629,0.6289,0,POSITIVE,0.981582522392273,,0,0,0,0.6494
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.621410846710205,,0,0,0,0
+2017-03-11T21:27:21+0000,,0,0,1,0,0,NEGATIVE,-0.6412433385849,new/new/new/new/new/new/new/new/new/new/new/new/london/london/official/official/official/official/official/official/official/,0.0779220779220779,0.25974025974026,0.961868799868084,0
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.97047370672226,,0,0,0,0
+2016-06-16T10:06:23+0000,,0.036,0.053,0.911,-0.3071,0.5625,NEGATIVE,-0.974676072597504,fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fierce/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/fake/,-0.226415094339623,0.452830188679245,0.0627982177824344,nan
+2017-01-03T11:00:00+0000,,0,0,1,0,0,NEGATIVE,-0.576238632202148,noblest/Roman/Roman/Roman/Roman/,0,0,-0.404294693470001,0.1432
+2016-09-10T07:49:31+0000,,0.103,0.066,0.831,0.5267,0.45,NEGATIVE,-0.541543066501617,old/old/old/old/old/old/old/old/old/old/old/old/old/old/old/old/old/old/old/old/old/old/,0.1,0.2,-0.999815046787262,0.7239
+2016-11-09T21:37:27+0000,,0,0,1,0,0,NEGATIVE,-0.97297477722168,,0,0,0,0
+2016-11-28T07:31:26+0000,,0,0,1,0,0.5,POSITIVE,0.939385890960693,more/more/,0.5,0.5,0.992647409439087,0
+2017-02-17T16:00:47+0000,,0,0.113,0.887,-0.3182,0,NEGATIVE,-0.985934555530548,imperfect/imperfect/imperfect/imperfect/imperfect/imperfect/imperfect/imperfect/imperfect/imperfect/imperfect/imperfect/imperfect/,0,0,-0.999331474304199,0.1517
+2016-12-08T11:00:00+0000,,0.054,0.073,0.873,-0.2023,0.567777777777778,POSITIVE,0.950653553009033,late/late/late/late/late/late/late/late/late/late/late/late/late/late/wrong/wrong/wrong/recent/recent/recent/recent/recent/recent/recent/recent/recent/sure/sure/sure/sure/sure/sure/sure/,-0.0666666666666667,0.593097643097643,0.0901106722427137,0.375
+2016-07-25T16:44:18+0000,,0.265,0,0.735,0.6597,0.2625,NEGATIVE,-0.620330452919006,same/same/same/same/same/same/,0,0.125,0.514154613018036,0.7661
+2016-11-09T21:37:27+0000,,0,0.615,0.385,-0.4939,0,NEGATIVE,-0.989744365215302,hateful/hateful/,0,0,-0.995836853981018,0.0644
+2017-03-14T14:47:21+0000,,0.216,0,0.784,0.0258,0,NEGATIVE,-0.966331541538239,POSH/POSH/POSH/POSH/,0,0,-0.949044942855835,0.2619
+2016-10-31T16:17:24+0000,,0,0,1,0,0,NEGATIVE,-0.928204476833344,,0,0,0,0.004
+2016-06-23T12:41:43+0000,,0.219,0,0.781,0.6187,0.444444444444444,POSITIVE,0.959371507167816,FIRST/spoken/spoken/spoken/spoken/spoken/spoken/spoken/spoken/spoken/spoken/spoken/nice/nice/nice/nice/nice/,0.191176470588235,0.313725490196078,0.901095768984626,0.5276
+2016-06-30T23:28:57+0000,,0.127,0,0.873,0.7264,0.445555555555556,POSITIVE,0.514154255390167,highly respected/multi/-/billionaire/billionaire/billionaire/billionaire/billionaire/billionaire/billionaire/billionaire/billionaire/billionaire/billionaire/billionaire/real/real/real/real/real/real/real/famous/famous/famous/famous/famous/famous/famous/famous/famous/famous/famous/famous/many/humanitarian/humanitarian/humanitarian/humanitarian/humanitarian/humanitarian/,0.196585365853659,0.369268292682927,0.989554254020133,0.6989
+2016-06-21T12:11:04+0000,,0.302,0,0.698,0.3818,0.1,POSITIVE,0.958572387695313,,0,0,0,0.3818
+2016-09-10T07:49:31+0000,,0,0,1,0,0,NEGATIVE,-0.996551752090454,,0,0,0,0.0863
+2017-03-09T11:00:00+0000,,0,0,1,0,1,NEGATIVE,-0.999807059764862,cold/cold/raining/raining/raining/raining/raining/raining/raining/raining/raining/raining/raining/too complicated/too complicated/too complicated/,-0.16875,0.3125,-0.938873514533043,0.1658
+2016-04-24T07:29:24+0000,,0,0,1,0,0.375,POSITIVE,0.97854608297348,other/,-0.125,0.375,0.873019635677338,0.0382
+2016-12-08T11:00:00+0000,,0.095,0,0.905,0.2716,0.833333333333333,POSITIVE,0.994065880775452,more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/,0.45,0.75,0.998956441879273,0.1834
+2016-06-25T12:54:06+0000,,0,0.439,0.561,-0.5719,0.375,NEGATIVE,-0.983591258525848,Other/Other/Other/Other/Other/Other/Other/Other/,-0.125,0.375,0.873019635677338,-0.5208
+2017-03-02T00:36:58+0000,,0,0.236,0.764,-0.5719,0,NEGATIVE,-0.931784629821777,BRITISH/BRITISH/BRITISH/BRITISH/,0,0,0.95611697435379,-0.3395
+2016-03-14T21:47:06+0000,,0,0.187,0.813,-0.3182,0.833333333333333,NEGATIVE,-0.999982714653015,Now bloated/Now bloated/Now bloated/Now bloated/Now bloated/Now bloated/Now bloated/Now bloated/Now bloated/Now bloated/,0,0,-0.999969601631165,0.2464
+2016-06-22T22:05:13+0000,,0.457,0,0.543,0.6369,0,POSITIVE,0.995242774486542,,0,0,0,0.6749
+2017-03-14T02:59:47+0000,,0.247,0,0.753,0.3182,0.5,POSITIVE,0.988438189029694,meaningful/meaningful/meaningful/meaningful/meaningful/meaningful/meaningful/,0.5,0.5,0.998703360557556,0.1857
+2017-01-07T12:35:22+0000,,0,0,1,0,0,POSITIVE,0.999793827533722,,0,0,0,0
+2016-07-15T13:53:39+0000,,0,0.205,0.795,-0.596,0.5,POSITIVE,0.894431471824646,disturbingly plausible/disturbingly plausible/,0.5,0.5,0.902010560035706,0.0134
+2016-06-22T21:02:47+0000,,0.102,0.273,0.625,-0.4939,0,NEGATIVE,-0.987114906311035,,0,0,0,-0.4939
+2017-01-03T11:00:00+0000,,0.165,0.154,0.682,0.0511,0.9,POSITIVE,0.628143548965454,honest/honest/honest/honest/honest/honest/honest/honest/honest/honest/,0.6,0.9,0.998367965221405,0.5146
+2016-07-15T12:18:52+0000,,0.239,0.307,0.455,-0.1531,0,NEGATIVE,-0.996969759464264,,0,0,0,-0.1531
+2016-10-31T16:17:24+0000,,0,0,1,0,0.05,POSITIVE,0.999602496623993,big/fat/Greek/Greek/,0,0.025,0.0483382791280746,0.1226
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.954742610454559,,0,0,0,0
+2016-06-22T21:02:47+0000,,0,0,1,0,0,POSITIVE,0.578933119773865,,0,0,0,0
+2016-06-30T23:28:57+0000,,0.127,0.079,0.794,0.296,0.3875,NEGATIVE,-0.998979210853577,other/other/other/other/other/other/other/just illusory/just illusory/just illusory/just illusory/just illusory/just illusory/just illusory/feverish/feverish/feverish/feverish/feverish/feverish/-/-/-/,-0.0641304347826087,0.218478260869565,-0.172975643821385,0.3148
+2016-11-09T21:37:27+0000,,0,0,1,0,0,POSITIVE,0.995739579200745,,0,0,0,0.0128
+2016-06-29T19:35:01+0000,,0,0,1,0,0,NEGATIVE,-0.633453667163849,,0,0,0,0
+2017-03-23T21:05:26+0000,,0.192,0.146,0.662,0.1027,1,NEGATIVE,-0.708423674106598,Celtic/Celtic/Celtic/Celtic/Celtic/Celtic/Celtic/Celtic/Celtic/Celtic/Labour/Labour/Labour/Labour/Labour/Labour/,0,0,0.247056365013123,0.5629
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.971358358860016,,0,0,0,0
+2016-06-01T10:33:56+0000,,0.241,0,0.759,0.2263,0.4,POSITIVE,0.98898845911026,,0,0,0,0.081
+2016-02-27T20:50:26+0000,,0,0,1,0,0.5,POSITIVE,0.989222764968872,open/open/open/open/open/open/open/open/open/,0,0.5,0.977954268455505,0.3428
+2016-02-27T20:50:26+0000,,0.12,0.218,0.662,-0.3869,0.717857142857143,POSITIVE,0.987804770469666,23rd/23rd/23rd/23rd/23rd/23rd/,0,0,0.954016208648682,0.4449
+2016-12-08T11:00:00+0000,,0.355,0,0.645,0.5927,0.458333333333333,NEGATIVE,-0.986846208572388,normal/normal/normal/normal/same/same/good/,0.185714285714286,0.492857142857143,-0.213383998189654,0.2737
+2016-05-31T06:11:29+0000,,0,0.515,0.485,-0.6486,1,NEGATIVE,-0.999539375305176,awful/awful/,-1,1,-0.999949336051941,-0.3606
+2016-05-31T06:11:29+0000,,0.574,0,0.426,0.4019,0,POSITIVE,0.965171992778778,,0,0,0,0.4019
+2016-06-22T21:02:47+0000,,0.191,0.216,0.593,-0.1154,0.5,NEGATIVE,-0.976571977138519,unfortunate/unfortunate/unfortunate/unfortunate/unfortunate/unfortunate/unfortunate/unfortunate/unfortunate/unfortunate/unfortunate/unfortunate/,-0.5,1,-0.999512195587158,0.5998
+2015-09-19T12:55:17+0000,,0,0,1,0,0,POSITIVE,0.996033489704132,,0,0,0,0
+2017-01-07T12:35:22+0000,,0,0,1,0,0.59375,POSITIVE,0.877610802650452,other/key/key/more/more/more/more/more/anti/-/-/,0.215909090909091,0.443181818181818,0.797953042117032,0.1553
+2016-05-31T06:11:29+0000,,0.167,0,0.833,0.4215,0.2,NEGATIVE,-0.994048357009888,much easier/much easier/much easier/counterfeit/counterfeit/counterfeit/counterfeit/counterfeit/counterfeit/counterfeit/counterfeit/counterfeit/counterfeit/,0.0461538461538462,0.0461538461538462,-0.617421416135935,0.4975
+2016-07-25T16:44:18+0000,,0,0,1,0,0,NEGATIVE,-0.996209859848023,electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/electoral/exemple/exemple/exemple/exemple/exemple/Scottish/Scottish/Scottish/Scottish/Scottish/Scottish/Scottish/Scottish/Scottish/Scottish/Scottish/Scottish/Scottish/Scottish/Scottish/Scottish/Scottish/Scottish/,0,0,0.991454093406598,0.3845
+2017-03-27T21:57:01+0000,,0,0,1,0,0,POSITIVE,0.853641629219055,,0,0,0,0
+2016-12-08T11:00:00+0000,,0.095,0,0.905,0.2716,0.833333333333333,POSITIVE,0.994065880775452,more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/more important/,0.45,0.75,0.998956441879273,0.1834
+2017-03-29T15:30:52+0000,,0,0,1,0,0,POSITIVE,0.570221900939941,global/global/global/global/steady/steady/steady/,0.0714285714285714,0.214285714285714,0.996773617608207,0
+2017-01-12T21:54:19+0000,,0,0.091,0.909,-0.296,0.166666666666667,NEGATIVE,-0.987521827220917,specific/specific/specific/other/other/other/other/other/other/British/British/,-0.0681818181818182,0.238636363636364,0.920985043048859,0.323
+2017-01-07T12:35:22+0000,,0,0,1,0,0,POSITIVE,0.841762959957123,,0,0,0,0.0595
+2016-04-24T07:29:24+0000,,0.097,0,0.903,0.128,0.6,POSITIVE,0.995105266571045,constitutional/constitutional/constitutional/constitutional/legal/legal/legal/legal/legal/,0.111111111111111,0.111111111111111,0.986814366446601,-0.0992
+2016-06-22T21:02:47+0000,,0.112,0,0.888,0.34,0,NEGATIVE,-0.611091375350952,Hent/Hent/Hent/Hent/Hent/Hent/Hent/Hent/Hent/Hent/Hent/Hent/,0,0,0.757402718067169,0.3997
+2016-04-24T07:29:24+0000,,0,0,1,0,0.25,POSITIVE,0.996160745620728,,0,0,0,0.3751
+2017-01-07T12:35:22+0000,,0.043,0.14,0.817,-0.7003,0.22,NEGATIVE,-0.883625268936157,central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/central/same/same/same/same/same/same/same/as many/as many/as many/military/military/military/military/military/military/military/military/military/,0.0113207547169811,0.222169811320755,0.804624265094973,0.6923
+2016-05-23T18:22:35+0000,,0,0,1,0,0,POSITIVE,0.862430691719055,,0,0,0,0.0748
+2016-06-22T22:05:13+0000,,0,0,1,0,0,POSITIVE,0.995037138462067,,0,0,0,0.1518
+2016-05-31T06:11:29+0000,,0.105,0,0.895,0.6249,0.5125,POSITIVE,0.999242901802063,Individual/Individual/Individual/Individual/Individual/Individual/Individual/Individual/Individual/Individual/Individual/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/industrial/unnecessary/unnecessary/,-0.0222222222222222,0.172222222222222,0.818315870232052,0.3362
+2016-06-23T12:41:43+0000,,0,0,1,0,0.3,POSITIVE,0.958396315574646,real/real/real/,0.2,0.3,0.999257981777191,0.0831
+2016-09-14T20:47:50+0000,,0.081,0,0.919,0.296,0.271428571428571,POSITIVE,0.980197787284851,geographical/geographical/geographical/geographical/geographical/geographical/geographical/geographical/geographical/geographical/geographical/geographical/geographical/geographical/geographical/geographical/geographical/geographical/geographical/single/single/single/single/,-0.0124223602484472,0.0372670807453416,0.724048306112704,0.6236
+2016-06-22T21:02:47+0000,,0,0.065,0.935,-0.1027,0.194444444444444,POSITIVE,0.99643087387085,,0,0,0,0.105
+2016-07-15T13:53:39+0000,,0.2,0,0.8,0.4588,0.65,POSITIVE,0.997371315956116,Modern/Modern/Modern/Modern/Modern/Modern/Modern/glad/glad/glad/glad/glad/glad/,0.338461538461539,0.623076923076923,0.990658475802495,0.2998
+2016-07-01T03:20:18+0000,,0,0.595,0.405,-0.9559,0.8,NEGATIVE,-0.995223343372345,evil/evil/evil/evil/stupid/stupid/stupid/stupid/stupid/stupid/stupid/stupid/stupid/,-0.861538461538462,1,-0.992844013067392,-0.7115
+2016-12-08T11:00:00+0000,,0.048,0.199,0.753,-0.7645,0.435,POSITIVE,0.534538984298706,more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/more critical/many/other/other/,0.230769230769231,0.623076923076923,0.964858330213107,-0.4169
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.872261822223663,,0,0,0,0
+2017-01-07T12:35:22+0000,,0,0.412,0.588,-0.4215,0,NEGATIVE,-0.999444544315338,,0,0,0,-0.318
+2016-12-12T04:48:11+0000,,0,0,1,0,0,NEGATIVE,-0.999866843223572,,0,0,0,-0.0563
+2016-12-08T11:00:00+0000,,0,0.619,0.381,-0.7579,0.375,NEGATIVE,-0.9880730509758,Other/Other/Other/wicked/wicked/wicked/,-0.0625,0.1875,0.935916095972061,-0.3974
+2016-07-15T13:53:39+0000,,0.11,0.051,0.838,0.4404,0.291666666666667,POSITIVE,0.874446570873261,sound/sound/sound/sound/sound/sound/sound/sound/sound/sound/sound/sound/sound/sound/sound/sound/sound/sound/sound/sound/social/social/social/social/formal/formal/formal/formal/formal/formal/formal/formal/formal/formal/formal/formal/formal/formal/essentially mystical/essentially mystical/essentially mystical/similar/similar/similar/similar/similar/similar/similar/similar/,0.165986394557823,0.252380952380953,0.685250791968132,0.6234
+2016-06-13T18:07:35+0000,,0.218,0,0.782,0.6486,0.8,NEGATIVE,-0.991696953773499,free/free/free/free/free/free/free/free/free/free/free/free/,0.4,0.8,0.718963265419006,0.3571
+2016-06-30T23:28:57+0000,,0.091,0,0.909,0.4767,0.5,POSITIVE,0.533204317092896,modus/modus/modus/modus/modus/modus/modus/modus/modus/modus/modus/modus/fiendish/fiendish/fiendish/fiendish/fiendish/fiendish/fiendish/fiendish/fiendish/European/European/European/European/European/European/European/European/European/European/European/effective/national/parliamentary/parliamentary/,-0.133333333333333,0.197222222222222,0.493905247913467,0.1378
+2016-07-15T12:18:52+0000,,0.455,0,0.545,0.3612,0,NEGATIVE,-0.924951791763306,,0,0,0,0.045
+2016-08-11T10:42:28+0000,,0.283,0,0.717,0.743,0.5,POSITIVE,0.999460279941559,countless/happy/happy/happy/happy/happy/,0.666666666666667,0.916666666666667,0.980711966753006,0.5194
+2016-07-27T09:43:16+0000,,0.089,0.257,0.654,-0.5647,0.5,NEGATIVE,-0.839734315872192,general/general/,0.05,0.5,-0.713002681732178,-0.2678
+2016-06-21T12:11:04+0000,,0.195,0.201,0.604,-0.0258,0,NEGATIVE,-0.999766290187836,NATIONAL/NATIONAL/NATIONAL/NATIONAL/,0,0,0.99201911687851,0.1207
+2016-07-26T22:57:52+0000,,0.226,0.261,0.513,-0.2023,0.383333333333333,NEGATIVE,-0.99932873249054,,0,0,0,-0.2454
+2016-09-30T10:29:57+0000,,0.164,0.128,0.708,0.5563,0.436111111111111,NEGATIVE,-0.84553587436676,Big/Big/Big/Big/Big/Big/Big/Big/Big/Big/Big/Big/Big/Big/Big/Big/Big/Big/Big/Big/Big/Big/particular/particular/particular/strong/strong/strong/strong/strong/strong/most successful/most successful/most successful/most successful/financial/financial/,0.151351351351351,0.283783783783784,-0.0473343262801299,0.1043
+2016-06-22T22:15:09+0000,,0,0,1,0,0,NEGATIVE,-0.93783962726593,,0,0,0,0
+2017-03-09T11:00:00+0000,,0,0,1,0,0,POSITIVE,0.95896327495575,,0,0,0,0.0588
+2016-06-27T12:38:41+0000,,0,0,1,0,0.166666666666667,NEGATIVE,-0.989223122596741,particular/particular/particular/particular/particular/particular/particular/,0.166666666666667,0.333333333333333,0.980380058288574,0.2046
+2016-09-22T11:43:28+0000,,0,0,1,0,0,POSITIVE,0.992700397968292,,0,0,0,0
+2017-01-10T17:11:08+0000,,0.12,0.163,0.718,0.0258,0.1,NEGATIVE,-0.98451578617096,economic/economic/economic/economic/medieval/medieval/medieval/medieval/medieval/medieval/medieval/medieval/medieval/medieval/medieval/medieval/medieval/medieval/,0.0444444444444444,0.0444444444444444,0.819444364971585,-0.2353
+2016-06-30T23:28:57+0000,,0,0,1,0,0,NEGATIVE,-0.999288380146027,,0,0,0,0
+2016-06-30T23:12:47+0000,,0.072,0.117,0.811,-0.5267,0.122222222222222,NEGATIVE,-0.983670949935913,completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/completely unlogical/English/English/English/English/English/English/English/English/English/English/English/English/English/English/English/English/inferior/inferior/,0.058139534883721,0.232558139534884,-0.31795902169028,0.291
+2016-06-25T12:54:06+0000,,0.282,0.031,0.687,0.9339,0.875,POSITIVE,0.994248628616333,great/great/great/great/great/great/great/great/proud/proud/influencial/influencial/influencial/influencial/influencial/influencial/,0.5,0.5,0.265072025358677,0.6669
+2016-06-22T22:05:13+0000,,0,0,1,0,0.5,POSITIVE,0.971201896667481,more majestic/more majestic/more majestic/more majestic/,0.5,0.5,0.999866962432861,0.1224
+2016-07-15T13:53:39+0000,,0.137,0.049,0.814,0.5719,0.65,NEGATIVE,-0.975097894668579,best/best/best/best/best/best/best/best/best/best/best/best/best/best/best/best/,1,0.3,0.996064603328705,0.0281
+2016-04-15T19:18:28+0000,,0.497,0,0.503,0.9413,0.766666666666667,POSITIVE,0.9798504114151,strong/strong/Free/Free/Free/Free/Free/,0.409523809523809,0.780952380952381,0.797470075743539,0.886
+2017-03-03T11:06:08+0000,,0.168,0,0.832,0.3885,0,NEGATIVE,-0.999863147735596,,0,0,0,0.3885
+2016-07-15T13:53:39+0000,,0.196,0.221,0.583,-0.5709,0.389583333333333,NEGATIVE,-0.996526777744293,murderous/murderous/murderous/deeply cynical/deeply cynical/deeply cynical/deeply cynical/deeply cynical/deeply cynical/deeply cynical/deeply cynical/deeply cynical/fractured/fractured/fractured/big/big/big/big/big/big/big/stable/popular/popular/popular/quasi/-/secular/secular/secular/secular/secular/secular/secular/chemical/chemical/chemical/social/social/social/social/murderous/murderous/murderous/murderous/murderous/murderous/murderous/Russian/Russian/Chinese/Chinese/,-0.0654088050314466,0.238993710691824,-0.257656191879848,0.2233
+2016-06-21T12:11:04+0000,,0,0,1,0,0,POSITIVE,0.999069154262543,,0,0,0,0.0644
+2017-03-09T11:00:00+0000,,0,0.104,0.896,-0.2144,0.616666666666667,NEGATIVE,-0.994813680648804,factually false/,-0.4,0.6,-0.995109975337982,-0.1747
+2016-11-09T21:37:27+0000,,0,0.412,0.588,-0.2732,0,NEGATIVE,-0.843003928661346,,0,0,0,-0.2732
+2016-12-08T11:00:00+0000,,0,0,1,0,0.375,NEGATIVE,-0.992708921432495,other/other/other/other/other/,-0.125,0.375,0.873019635677338,0.1818
+2016-06-01T10:33:56+0000,,0,0.392,0.608,-0.5945,0.5,NEGATIVE,-0.793330311775208,So many/So many/So many/So many/So many/So many/,0.5,0.5,0.81573212146759,-0.5254
+2016-06-21T12:11:04+0000,,0,0,1,0,0,POSITIVE,0.998178839683533,global/global/,0,0,0.996753871440888,0.1128
+2016-10-31T16:17:24+0000,,0,0,1,0,0,NEGATIVE,-0.928204476833344,,0,0,0,0.004
+2016-06-01T10:33:56+0000,,0,0,1,0,1,NEGATIVE,-0.84827733039856,own/own/own/own/own/own/,0.6,1,0.966281414031982,0.087
+2016-11-09T21:37:27+0000,,0,0.362,0.638,-0.5267,0,NEGATIVE,-0.791320860385895,,0,0,0,-0.4978
+2017-02-20T00:59:12+0000,,0,0.703,0.297,-0.694,0,NEGATIVE,-0.999749720096588,RACIST/,0,0,-0.999887704849243,-0.2674
+2016-06-21T12:11:04+0000,,0,0,1,0,0,POSITIVE,0.536357223987579,,0,0,0,0.0867
+2016-07-15T13:53:39+0000,,0.127,0,0.873,0.5859,0.285714285714286,NEGATIVE,-0.677061915397644,certain/certain/certain/certain/certain/certain/certain/certain/certain/certain/certain/certain/certain/certain/certain/certain/certain/certain/certain/,0.214285714285714,0.571428571428571,0.988804161548615,0.6323
+2017-01-07T12:35:22+0000,,0,0,1,0,0.55,NEGATIVE,-0.913004219532013,Ordinary/Ordinary/Ordinary/Ordinary/different/different/,-0.166666666666667,0.533333333333333,-0.898057301839193,0.0724
+2016-02-27T20:50:26+0000,,0.12,0.218,0.662,-0.3869,0.717857142857143,POSITIVE,0.987804770469666,23rd/23rd/23rd/23rd/23rd/23rd/,0,0,0.954016208648682,0.4449
+2016-06-25T05:18:54+0000,,0.089,0.188,0.723,-0.7964,0.449358974358974,NEGATIVE,-0.999992966651917,low/low/low/low/low/low/low/low/low/low/low/low/low/low/low/low/low/low/more/more/more/more/more/more/more/more/more/more/more/more/more/more/more/more/more/more/more more/more more/more more/more more/more more/more more/more more/more more/even more/even more/even more/even more/even more/even more/enough/enough/enough/enough/enough/enough/enough/how stupid/how stupid/how stupid/how stupid/how stupid/how stupid/how stupid/how stupid/how stupid/how stupid/how stupid/second/second/second/second/second/second/second/second/second/second/second/second/second/second/second/second/second/second/second/second/second/second/next/next/next/top/top/top/top/pure/pure/pure/pure/pure/pure/pure/pure/pure/pure/pure/pure/pure/stupid/stupid/stupid/,0.0848293299620732,0.419469026548673,0.324353602607693,0.6903
+2016-07-25T16:44:18+0000,,0.127,0.201,0.672,-0.25,0,POSITIVE,0.966993093490601,23th/23th/,0,0,0.925100326538086,-0.2127
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.598572552204132,heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/heuliet/,0,0,-0.518887281417847,0.0691
+2016-09-26T17:48:36+0000,,0.153,0.137,0.71,0.0772,0.458333333333333,NEGATIVE,-0.964894652366638,Really informative/Really informative/Really informative/Really informative/Really informative/Really informative/nice/nice/nice/nice/nice/nice/nice/nice/nice/nice/nice/,0.458823529411765,0.717647058823529,0.977545075556811,-0.2325
+2016-09-26T17:48:36+0000,,0,0,1,0,0,POSITIVE,0.660358130931854,,0,0,0,0
+2016-06-13T18:07:35+0000,,0,0,1,0,0.5,NEGATIVE,-0.977908551692963,,0,0,0,0.2225
+2016-11-09T21:37:27+0000,,0.408,0,0.592,0.2665,0.5,NEGATIVE,-0.997381389141083,So hardly surprising/,0.7,0.5,-0.999400973320007,0.0595
+2016-05-31T06:11:29+0000,,0,0,0,0,0,POSITIVE,0.984086811542511,,0,0,0,0
+2016-06-08T06:18:30+0000,,0,0,1,0,0.32,NEGATIVE,-0.941926181316376,How many/How many/How many/How many/How many/present/present/present/present/how many/how many/how many/cultural/cultural/cultural/cultural/cultural/cultural/cultural/,0.247368421052631,0.247368421052631,0.884903804252022,0.1152
+2016-08-19T07:54:55+0000,,0,0.388,0.612,-0.2263,0,NEGATIVE,-0.996093451976776,obsessive/,0,0,-0.998666048049927,0.043
+2016-10-31T16:17:24+0000,,0,0,1,0,0,NEGATIVE,-0.727301955223084,,0,0,0,0
+2016-06-30T23:28:57+0000,,0,0,1,0,0,NEGATIVE,-0.925699472427368,httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/httpjournal/,0,0,-0.779216289520264,0
+2016-06-25T12:54:06+0000,,0.097,0,0.903,0.4767,0.75,POSITIVE,0.999974012374878,little/little/little/little/little/little/little/little/unique/unique/unique/unique/unique/unique/unique/unique/unique/how multicultural/how multicultural/how multicultural/how multicultural/how multicultural/how multicultural/how multicultural/how multicultural/how multicultural/how multicultural/how multicultural/,0.0669642857142857,0.464285714285714,0.493111291102001,0.6696
+2016-07-25T16:44:18+0000,,0,0,1,0,0,NEGATIVE,-0.997026741504669,,0,0,0,-0.0974
+2016-05-31T06:11:29+0000,,0,0,0,0,0,POSITIVE,0.920023322105408,,0,0,0,0
+2016-05-20T19:17:27+0000,,0,0.452,0.548,-0.5106,1,NEGATIVE,-0.996197998523712,angry/angry/angry/,-0.5,1,-0.998428106307983,-0.0122
+2016-04-24T07:29:24+0000,,0.326,0,0.674,0.892,0.8,POSITIVE,0.987031936645508,most powerful/most powerful/most powerful/most powerful/most powerful/most powerful/most powerful/most powerful/most powerful/totally benevolent/totally benevolent/totally dedicated/,0.3,0.75,0.99676958223184,0.3322
+2017-01-03T11:00:00+0000,,0.234,0,0.766,0.7003,0.55,NEGATIVE,-0.999251902103424,good/good/good/good/good/good/good/,0.7,0.6,0.931395292282105,0.2315
+2016-07-27T22:57:38+0000,,0.129,0.224,0.647,-0.2263,0,NEGATIVE,-0.992277979850769,punitive/punitive/punitive/punitive/punitive/punitive/punitive/punitive/punitive/,0,0,-0.992050111293793,0.4267
+2016-06-22T21:50:41+0000,,0,0.202,0.798,-0.5106,0.5625,NEGATIVE,-0.999549686908722,only/only/only/only/only/only/only/only/only/only/only/future/future/,0,0.865384615384615,0.615033218493828,-0.4092
+2016-06-22T21:02:47+0000,,0,0,1,0,0,NEGATIVE,-0.979486346244812,,0,0,0,0
+2016-08-11T10:42:28+0000,,0.283,0,0.717,0.743,0.5,POSITIVE,0.999460279941559,countless/happy/happy/happy/happy/happy/,0.666666666666667,0.916666666666667,0.980711966753006,0.5194
+2016-11-09T21:37:27+0000,,0,0,1,0,0,POSITIVE,0.94282191991806,too fizzy/,0,0,-0.981084585189819,0.0973
+2016-05-20T19:17:27+0000,,0.085,0.345,0.57,-0.8109,1,NEGATIVE,-0.955379545688629,eternal/eternal/eternal/eternal/eternal/eternal/eternal/eternal/eternal/eternal/eternal/,0,0,0.9993896484375,-0.3854
+2016-06-24T16:52:52+0000,,0,0.333,0.667,-0.7579,1,NEGATIVE,-0.991613149642944,sad/sad/sad/sad/sad/sad/sad/sad/sad/sad/even sadder/even sadder/even sadder/even sadder/even sadder/,-0.333333333333333,0.666666666666667,-0.989814698696137,-0.4856
+2016-07-15T13:53:39+0000,,0.087,0.256,0.656,-0.7506,0.1875,NEGATIVE,-0.999800741672516,other/terrorist/terrorist/terrorist/terrorist/terrorist/terrorist/terrorist/terrorist/terrorist/terrorist/terrorist/terrorist/terrorist/,-0.00892857142857143,0.0267857142857143,-0.86503039087568,-0.7265
+2017-01-07T12:35:22+0000,,0,0.597,0.403,-0.8126,1,NEGATIVE,-0.999808728694916,racist/narrow/narrow/minded/minded/minded/just stupid/,-0.171428571428571,0.257142857142857,-0.143204399517604,-0.1106
