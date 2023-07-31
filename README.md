@@ -13,7 +13,7 @@ Input data should be placed in the /modified folder.
 <b>Output Results</b>
 
 Output will be placed in the /sentiment folder with the first part of the output files starting with 'sentiment_classification'. These files, like the input,
-are in .csv format.
+are in .csv format. Output results can be found here:  https://drive.google.com/file/d/103CmqtUDwcaTDzPhTvCkupmzYkuXeU2x/view?usp=drive_link.
 
 <b>Input Lexicon</b>
 
