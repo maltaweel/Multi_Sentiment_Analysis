@@ -8,7 +8,7 @@ Polarity, subjectivity, and aspect mining are provided using TextBlobl and Flair
 
 <b>Data Folders</b>
 
-Input data should be placed in the /modified folder. The data there now are a sample. 
+Input data should be placed in the /modified folder. The data there now are a sample. Sentences from Facebook have been removed due to GDPR concerns. 
 
 <b>Output Results</b>
 
