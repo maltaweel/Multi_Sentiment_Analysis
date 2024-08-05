@@ -1,7 +1,7 @@
 # Multi_Sentiment_Analysis
 
 This code was used in support of the following research article:
-Bonacchi, Chiara; Witte, Jessica; Altaweel, Mark. 2024 (In Press). Political uses of the ancient past on social media are predominantly negative and extreme. <i>Plos One</i>.
+Bonacchi, Chiara; Witte, Jessica; Altaweel, Mark. 2024 (In Press). Political uses of the ancient past on social media are predominantly negative and extreme. <i>PLOS One</i>.
 
 
 This tool provides sentiment analysis using VADER, Flair, and TextBlob. In addition, a lexical list is incorporated as part of the 
